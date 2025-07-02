@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "75ddf502b70de050",
+    "type": "split",
+    "children": [
+      {
+        "id": "919f09a4f076a309",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dd53808f11162c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2025/July/2025-07-02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-02"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7ebe07f0ab0d27d",
+    "type": "split",
+    "children": [
+      {
+        "id": "60471c7ecc61306e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24f97083c4e202ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "909738291bf96c15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "95da3651479cd614",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "right": {
+    "id": "8bc8e8e82486b49e",
+    "type": "split",
+    "children": [
+      {
+        "id": "27285a2717637b18",
+        "type": "tabs",
+        "dimension": 68.42723004694837,
+        "children": [
+          {
+            "id": "c14406b3faea15ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diary/2025/July/2025-07-02.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-07-02"
+            }
+          },
+          {
+            "id": "108cfd55f73fb5cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diary/2025/July/2025-07-02.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-07-02"
+            }
+          },
+          {
+            "id": "c7142abae5490c82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4088434931437f24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diary/2025/July/2025-07-02.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-07-02"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "f87d6c22369df568",
+        "type": "tabs",
+        "dimension": 31.572769953051644,
+        "children": [
+          {
+            "id": "d1f8e9167054087c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "vscode-editor:Create Code File": false,
+      "open-vscode:VSCode": false
+    }
+  },
+  "active": "4dd53808f11162c8",
+  "lastOpenFiles": [
+    "Work/消息队列日志入库.md",
+    "Diary/2025/July/2025-07-01.md",
+    "Diary/2025/July/2025-07-02.md",
+    "Diary/2025/July/0 July.md",
+    "Work/resources/normal-tech-2.jpg",
+    "Work/resources/normal-tech.jpg",
+    "Basic/Python/LAgent",
+    "Work/resources/网关方服务计费流程-Flowchart.svg",
+    "Work/resources",
+    "Diary/2025/July/resources/toto.jpg",
+    "Diary/2025/July/resources",
+    "Work",
+    "Basic",
+    "Basic/Python/GPUStack",
+    "Welcome.md",
+    "Basic/Python",
+    "1751422346825.png",
+    "Diary/2025/July",
+    "Diary/2025",
+    "Diary",
+    "2025-07-02.md"
+  ]
+}
