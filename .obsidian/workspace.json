@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2025/July/2025-07-02.md",
+                "file": "Basic/Python/GPUStack/GPUStack 使用 token 进行免登录管理界面.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-02"
+              "title": "GPUStack 使用 token 进行免登录管理界面"
             }
           }
         ]
@@ -95,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2025/July/2025-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-07-02"
+              "title": "Backlinks"
             }
           },
           {
@@ -114,12 +113,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2025/July/2025-07-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-07-02"
+              "title": "Outgoing links"
             }
           },
           {
@@ -143,13 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2025/July/2025-07-02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-02"
+              "title": "Outline"
             }
           }
         ],
@@ -188,11 +185,12 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "4dd53808f11162c8",
+  "active": "d1f8e9167054087c",
   "lastOpenFiles": [
+    "Basic/Python/GPUStack/GPUStack 使用 token 进行免登录管理界面.md",
+    "Diary/2025/July/2025-07-02.md",
     "Work/消息队列日志入库.md",
     "Diary/2025/July/2025-07-01.md",
-    "Diary/2025/July/2025-07-02.md",
     "Diary/2025/July/0 July.md",
     "Work/resources/normal-tech-2.jpg",
     "Work/resources/normal-tech.jpg",
