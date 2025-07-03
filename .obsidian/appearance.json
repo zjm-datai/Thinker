@@ -1,7 +1,7 @@
 {
   "cssTheme": "Border",
   "baseFontSize": 15,
-  "textFontFamily": "",
+  "textFontFamily": "Inter",
   "monospaceFontFamily": "Consolas",
   "interfaceFontFamily": "Inter",
   "theme": "moonstone"

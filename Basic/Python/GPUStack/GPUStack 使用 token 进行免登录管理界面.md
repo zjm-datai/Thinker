@@ -1,5 +1,3 @@
-
-
 要实现这种效果我们需要可以 ping 通 gpustack 的后端 ip ，然后可以拿到 gpustack 的 token ，这样我们就可以通过这个 token 在本地使用源码启动一个前端，然后将后端地址配置进去，将受信任的 token 配置进去，我们这个本地的前端就可以连接上其他人给我们的 gpustack 的后端了，就可以进行管理了。
 
  gpustack 的前端是使用 umi 框架进行构建的，所以我们只需要知道 umi 框架是在哪里设置前端对后端请求配置就好了。在这里我们介绍一些基本的关于 umi 的基础知识：
@@ -10,7 +8,27 @@
 
 Umi 会自动把以 `UMI_APP_` 或我们在 `defineConfig.define({ define: {...} })` 指定 `process.env.*` 注入进我们的前端代码中。具体而言就是：
 
-当我们在项目根目录下面放置了 `.env.development`、`.env.production` 这样的文件，Umi 在启动或构建时会用 [dotenv](https://github.com/motdotla/dotenv) 把它们读进来。
+当我们在项目根目录下面放置了 `.env.development`、`.env.production` 这样的文件，Umi 在启动或构建时会用 [dotenv](https://github.com/motdotla/dotenv) 把它们读进来。但要注意的是，Umi 在启动的时候只会自动读取这两个文件：`.env` 项目根目录下面的默认环境变量集合，`.env.local` 如果存在，会覆盖同名的 `.env` 中的值。要注意这个优先级：
+
+```
+命令行／系统环境变量 > .env.local > .env
+```
+
+当然如果我希望有更细颗粒度的控制，我们可以在 `config/config.ts` 中写的更加详细：
+
+```ts
+import { defineConfig } from '@umijs/max'
+
+import { config } from 'dotenv';
+
+const env = process.env.NODE_ENV;
+const isProduction = env === 'production';
+
+config({ path: join(_dirname, '../.env.' + process.env.APP_ENV) });
+console.log("All env variables:", JSON.stringify(process.env, null, 2));
+```
+
+这里我们只需要在构建或者启动应用的时候指定 APP_ENV 的值即可切换不同环境的环境变量这样。
 
 自动注入带 `UMI_APP_` 前缀的变量出于安全和可维护的考虑，Umi 默认只会把那些以 `UMI_APP_` 开头的环境变量（例如 `UMI_APP_BASE_URL`、`UMI_APP_TOKEN` 等）“放到”前端代码里，也就是说，在你的业务代码里可以直接写：
 
@@ -55,7 +73,7 @@ export default defineConfig({
 | 字段                    | 用途说明                                                                                                                                                                                   |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **proxy**             | **开发环境下的 HTTP 代理**，把本地 `fetch('/api/…')` 的调用转发到真正的后端地址，解决跨域并且不用在代码里写全量域名。常见写法：`proxy: { '/api': { target: 'http://localhost:7001', changeOrigin: true, pathRewrite: {'^/api': ''} } }` |
-| **history**           | **路由模式**，决定前端 URL 的展示和内部跳转方式：- `browser`（默认）：干净的 `/users/123`，需要后端做 rewrite fallback- `hash`：`/#/users/123`，无需后端额外配置                                                                   |
+| **history**           | **路由模式**，决定前端 URL 的展示和内部跳转方式： `browser`（默认）：干净的 `/users/123`，需要后端做 rewrite fallback，`hash`：`/#/users/123`，无需后端额外配置                                                                     |
 | **analyze**           | **打包体积可视化**，集成 `webpack-bundle-analyzer`：`analyzerMode: 'server'` 会在本地起一个可视化页面（如 `localhost:8888`）查看各模块体积占比，方便查体积大头。                                                                   |
 | **mfsu**              | **模块联邦加速（Module Federation Speed Up）**，Umi 内置的依赖预构建方案，能大幅缩短首次启动/重新编译时间。`exclude` 数组里填你不想预编译的包。                                                                                         |
 | **base**              | **应用部署根路径**，当你的前端不部署在 `/` 而在子路径下（如 GitHub Pages 的 `/<repo>/`）时，用它来统一前缀所有路由和静态资源 URL。也可以通过命令行 `npm run build --base=/foo/` 临时覆盖。                                                        |
@@ -78,6 +96,12 @@ export default defineConfig({
 | **layout**            | 基于 `@umijs/plugin-layout` 的整体框架布局，`false` 表示你自己手动在 `routes` 里写布局。或传对象自定义侧边栏、头部等。                                                                                                       |
 | **routes**            | **路由表**，指定了每个页面的路径、组件、嵌套关系、meta 信息等。可以内联写，也可以像你项目里 `import routes from './routes'` 统一维护。                                                                                               |
 | **npmClient**         | Umi 启动脚本安装依赖时用哪个包管理器，常见 `npm`、`yarn`、`pnpm`。                                                                                                                                           |
+
+前端相关知识：
+
+[[哈希路由的前世今生]]
+
+
 #### PROXY 字段
 
 在这里我们主要关注 proxy 这个字段，`proxy` 字段就是在开发模式（`umi dev`）下，告诉 Umi 内置的开发服务器（基于 `webpack-dev-server` + `http-proxy-middleware`）：
@@ -183,9 +207,7 @@ fetch('/api/users')
 ```
 
 - **开发时**：`umi dev` 的 proxy 会把它转发到 `PROXY_HOST`，比如 `http://localhost:7001/users`
-    
 - **打包后**：
-
     - 浏览器直接向 **当前页面所在的域名** 发起请求：`GET https://your-site.com/api/users`
         
     - **不会**再走你在 dev 时配置的 `PROXY_HOST`
@@ -200,6 +222,51 @@ fetch('/api/users')
 ```ts
 import { request } from '@umijs/max';
 await request('/api/users');
+```
+
+```ts
+export const requestConfig: RequestConfig = {
+  errorConfig: {
+    errorThrower: (res: any) => {
+      // to do something
+    },
+    errorHandler: (error: any, opts: any) => {
+      const { message: errorMessage, response } = error;
+      const errMsg = response?.data?.message || errorMessage;
+
+      if (!opts?.skipErrorHandler && response?.status) {
+        message.error(errMsg);
+      }
+      if (response?.status === 401) {
+        clearAtomStorage(userAtom);
+
+        history.push('/login', { replace: true });
+      }
+    }
+  },
+  requestInterceptors: [
+    (url, options) => {
+      const token = process.env.UMI_APP_API_TOKEN;
+      if (token) {
+        options.headers = {
+          ...options.headers,
+          Authorization: `Bearer ${token}`
+        };
+      }
+      if (NoBaseURLAPIs.some((api) => url.startsWith(api))) {
+        options.baseURL = '';
+        return { url, options };
+      }
+      return { url, options };
+    }
+  ],
+  responseInterceptors: [
+    (response) => {
+      // to do something
+      return response;
+    }
+  ]
+};
 ```
 
 这条语句在真正发 HTTP 去后端之前，会依次跑上面 `requestInterceptors`；拿到响应后再走 `responseInterceptors`；如果抛出或出网络错误，就交给 `errorConfig` 里去处理。
@@ -223,7 +290,179 @@ await request('/api/users');
     - **proxy** 不再生效，所有请求都靠前端拼好的绝对地址，或由线上反代接力
 
 
+## 注入 token 
 
+```.env
+PORT=9000
+UMI_DEV_SERVER_COMPRESS=none
+UMI_APP_API_TOKEN=gpustack_2d6989c413b01976_1bb9602bdf0cbc21eb6359e9364c26ed
+PROXY_HOST=http://100.200.6.4:8081
+```
+
+```ts
+// src/request-config.ts
+import { userAtom } from '@/atoms/user';
+import { clearAtomStorage } from '@/atoms/utils';
+import { RequestConfig, history } from '@umijs/max';
+import { message } from 'antd';
+
+const NoBaseURLAPIs = ['/auth', '/v1-openai', '/version', '/proxy', '/update'];
+
+export const requestConfig: RequestConfig = {
+  errorConfig: {
+    errorThrower: (res: any) => {
+      // to do something
+    },
+    errorHandler: (error: any, opts: any) => {
+      const { message: errorMessage, response } = error;
+      const errMsg = response?.data?.message || errorMessage;
+
+      if (!opts?.skipErrorHandler && response?.status) {
+        message.error(errMsg);
+      }
+      if (response?.status === 401) {
+        clearAtomStorage(userAtom);
+
+        history.push('/login', { replace: true });
+      }
+    }
+  },
+  requestInterceptors: [
+    (url, options) => {
+      const token = process.env.UMI_APP_API_TOKEN;
+      if (token) {
+
+        options.headers = {
+          ...options.headers,
+          Authorization: `Bearer ${token}`
+        };
+      }
+      if (NoBaseURLAPIs.some((api) => url.startsWith(api))) {
+        options.baseURL = '';
+        return { url, options };
+      }
+      return { url, options };
+    }
+  ],
+  responseInterceptors: [
+    (response) => {
+      // to do something
+      return response;
+    }
+  ]
+};
+```
+
+```ts
+// config/config.ts
+import { defineConfig } from '@umijs/max';
+import keepAlive from './keep-alive';
+import proxy from './proxy';
+import routes from './routes';
+import { getBranchInfo } from './utils';
+const CompressionWebpackPlugin = require('compression-webpack-plugin');
+
+import { config } from 'dotenv';
+import { join } from 'path';
+
+const versionInfo = getBranchInfo();
+process.env.VERSION = JSON.stringify(versionInfo);
+
+const env = process.env.NODE_ENV;
+const isProduction = env === 'production';
+
+config({ path: join(__dirname, '../.env.' + process.env.APP_ENV) });
+console.log("All env variables:", JSON.stringify(process.env, null, 2));
+
+const t = Date.now();
+export default defineConfig({
+  proxy: {
+    ...proxy(process.env.PROXY_HOST)
+  },
+  history: {
+    type: 'hash'
+  },
+  analyze: {
+    analyzerMode: 'server',
+    analyzerPort: 8888,
+    openAnalyzer: true,
+    generateStatsFile: false,
+    statsFilename: 'stats.json',
+    logLevel: 'info',
+    defaultSizes: 'parsed' // stat  // gzip
+  },
+  base: process.env.npm_config_base || '/',
+  ...(isProduction
+    ? {
+        jsMinifierOptions: {
+          compress: {
+            drop_console: true,
+            drop_debugger: true
+          }
+        },
+        scripts: [
+          {
+            src: `/js/umi.${t}.js`
+          }
+        ],
+        chainWebpack(config: any) {
+          config.plugin('mini-css-extract-plugin').tap((args: any) => [
+            {
+              ...args[0],
+              filename: `css/[name].${t}.css`,
+              chunkFilename: `css/[name].${t}.chunk.css`
+            }
+          ]);
+          config.module
+            .rule('worker')
+            .test(/\.worker\.js$/)
+            .use('worker-loader')
+            .loader('worker-loader');
+          config.output
+            .filename(`js/[name].${t}.js`)
+            .chunkFilename(`js/[name].${t}.chunk.js`);
+          config
+            .plugin('compression-webpack-plugin')
+            .use(CompressionWebpackPlugin, [
+              {
+                filename: '[path][base].gz',
+                algorithm: 'gzip',
+                test: /\.(js|css|html|svg)$/,
+                threshold: 10240,
+                minRatio: 0.8
+              }
+            ]);
+        }
+      }
+    : {}),
+
+  favicons: ['/static/favicon.png'],
+  jsMinifier: 'terser',
+  cssMinifier: 'cssnano',
+  presets: ['umi-presets-pro'],
+  clickToComponent: {},
+  antd: {
+    style: 'less'
+  },
+  hash: true,
+  access: {},
+  model: {},
+  initialState: {},
+  request: {},
+  keepalive: keepAlive,
+  locale: {
+    antd: true,
+    baseNavigator: true,
+    baseSeparator: '-',
+    default: 'en-US',
+    title: false,
+    useLocalStorage: true
+  },
+  layout: false,
+  routes,
+  npmClient: 'pnpm'
+}) as any;
+```
 
 
 
