@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4d3c1a41524e3fcc",
+        "id": "9466188b19707304",
         "type": "tabs",
         "children": [
           {
-            "id": "08713a8c1c5a9cee",
+            "id": "64952f39bfcccc7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2025/July/2025-07-04.md",
+                "file": "Basic/Python/FastAPI/OpenAPI 定义.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-04"
+              "title": "OpenAPI 定义"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 306.5
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2025/July/2025-07-04.md",
+                "file": "Basic/Python/FastAPI/OpenAPI 定义.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-04"
+              "title": "OpenAPI 定义 的大纲"
             }
           }
         ],
@@ -165,32 +165,46 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "关系图谱"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "vscode-editor:Create Code File": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "vscode-editor:新建代码文件": false,
       "open-vscode:VSCode": false
     }
   },
-  "active": "08713a8c1c5a9cee",
+  "active": "64952f39bfcccc7c",
   "lastOpenFiles": [
-    "Work/CDSS/CDSS - 加载时输出思考组件.md",
-    "Basic/Python/垃圾回收机制.md",
+    "Basic/Python/FastAPI/Oauth2.md",
+    "Basic/Python/FastAPI/使用 yield 的依赖项.md",
+    "Basic/Python/FastAPI/关系型数据库.md",
+    "Basic/Python/FastAPI/OpenAPI 定义.md",
+    "Basic/Python/FastAPI/SQLModel.md",
+    "Basic/Python/Dify 中是如何使用 LocalStorage 存储 token 的.md",
+    "在 Vue 中安全高效地存储与管理 Token（akrk）.md",
+    "Basic/Python/FastAPI",
+    "Basic/Python/LAgent/未命名.md",
+    "Basic/Python/LAgent/MindSearchAgent 架构解读.md",
     "Basic/Python/GIL 锁大揭秘.md",
+    "Basic/Python/垃圾回收机制.md",
+    "技术博客提示词.md",
+    "Suibi/舒适和信命.md",
+    "Work/DigitalPerson/康宁数字人语音接口.md",
+    "Diary/2025/July/2025-07-04.md",
+    "Work/CDSS/CDSS - 加载时输出思考组件.md",
     "Basic/Python/Python 的包和模块.md",
     "Work/账号密码 - 常用信息.md",
     "Work/Linux 中的三种输出流.md",
@@ -201,20 +215,9 @@
     "Work/人工智能超市/Untitled.md",
     "Work/APISIX/人工智能超市",
     "Work/人工智能超市/消息队列日志入库.md",
-    "Work/DigitalPerson/康宁数字人语音接口.md",
     "Basic/Python/MCP",
-    "Basic/Python/LAgent/MindSearchAgent 架构解读.md",
     "Basic/Python/GPUStack/GPUStack 使用 token 进行免登录管理界面.md",
-    "Diary/2025/July/2025-07-04.md",
     "Work/人工智能超市/计费表表结构.md",
-    "Work/计费表表结构 1.md",
-    "Basic/FrontEnd/Vue - 组件之间如何传递参数.md",
-    "Basic/FrontEnd/哈希路由的前世今生.md",
-    "Diary/2025/July/2025-07-02.md",
-    "Diary/2025/July/2025-07-01.md",
-    "Diary/2025/July/2025-07-03.md",
-    "Suibi/舒适和信命.md",
-    "Work/DigitalPerson/服务启动和部署.md",
     "Work/DigitalPerson",
     "Suibi",
     "Work/人工智能超市/resources/Pasted image 20250703155103.png",
@@ -222,13 +225,10 @@
     "Work/人工智能超市",
     "Basic/Python/LAgent",
     "Basic/FrontEnd",
-    "Diary/2025/July/0 July.md",
     "Work/resources/normal-tech-2.jpg",
     "Work/resources/normal-tech.jpg",
     "Work/resources/网关方服务计费流程-Flowchart.svg",
-    "Work/resources",
     "Diary/2025/July/resources/toto.jpg",
-    "Welcome.md",
     "1751422346825.png"
   ]
 }
