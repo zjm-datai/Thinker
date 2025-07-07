@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/人工智能超市/计费表表结构.md",
+                "file": "Basic/Python/Qwen-audio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计费表表结构"
+              "title": "Qwen-audio"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -178,27 +179,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "vscode-editor:Create Code File": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "vscode-editor:新建代码文件": false,
       "open-vscode:VSCode": false
     }
   },
-  "active": "24f97083c4e202ed",
+  "active": "1a24941d59269342",
   "lastOpenFiles": [
+    "Basic/Python/垃圾回收机制.md",
+    "Basic/Python/Qwen-audio.md",
+    "Basic/Python/Python 的包和模块.md",
+    "Basic/Python/Dify 中是如何使用 LocalStorage 存储 token 的.md",
+    "Basic/Python/GIL 锁大揭秘.md",
+    "Diary/2025/July/2025-07-07.md",
+    "Basic/Python/FastAPI/Why is my FastAPI throughput so low.md",
+    "Work/人工智能超市/计费表表结构.md",
     "Work/人工智能超市/消息队列日志入库.md",
     "Work/人工智能超市/APISIX 第三方鉴权.md",
     "Work/人工智能超市/Untitled.md",
-    "Basic/Python/FastAPI/Why is my FastAPI throughput so low.md",
     "Work/账号密码 - 常用信息.md",
-    "Work/人工智能超市/计费表表结构.md",
     "Work/CDSS/CDSS - 加载时输出思考组件.md",
     "Basic/Python/FastAPI/Untitled.md",
-    "Diary/2025/July/2025-07-07.md",
     "Basic/Python/FastAPI/SQLModel.md",
     "草稿.md",
     "Basic/FrontEnd/Vue - 组件之间如何传递参数.md",
@@ -209,14 +215,9 @@
     "Basic/Python/LAgent/GPTAPI 源码解读.md",
     "Basic/Python/LAgent/未命名.md",
     "Basic/Python/LAgent/MindSearchAgent 架构解读.md",
-    "Basic/Python/Dify 中是如何使用 LocalStorage 存储 token 的.md",
     "在 Vue 中安全高效地存储与管理 Token（akrk）.md",
     "Basic/Python/FastAPI",
-    "Basic/Python/GIL 锁大揭秘.md",
-    "Basic/Python/垃圾回收机制.md",
     "技术博客提示词.md",
-    "Suibi/舒适和信命.md",
-    "Work/DigitalPerson/康宁数字人语音接口.md",
     "Work/CDSS",
     "Work/APISIX/人工智能超市",
     "Basic/Python/MCP",
