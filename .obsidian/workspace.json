@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9466188b19707304",
+        "id": "39ed009fa30a39a9",
         "type": "tabs",
         "children": [
           {
-            "id": "1a24941d59269342",
+            "id": "b1ecde6b48a7e187",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic/Python/Qwen-audio.md",
+                "file": "Basic/Python/LAgent/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Qwen-audio"
+              "title": "未命名"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -179,45 +178,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "vscode-editor:新建代码文件": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "vscode-editor:Create Code File": false,
       "open-vscode:VSCode": false
     }
   },
-  "active": "1a24941d59269342",
+  "active": "24f97083c4e202ed",
   "lastOpenFiles": [
-    "Basic/Python/垃圾回收机制.md",
-    "Basic/Python/Qwen-audio.md",
+    "Basic/Python/LAgent/GPTAPI 源码解读.md",
+    "Basic/Python/MCP/__init__.md",
+    "Diary/2025/July/2025-07-08.md",
+    "Basic/Python/Qwen-Audio.md",
     "Basic/Python/Python 的包和模块.md",
-    "Basic/Python/Dify 中是如何使用 LocalStorage 存储 token 的.md",
-    "Basic/Python/GIL 锁大揭秘.md",
-    "Diary/2025/July/2025-07-07.md",
+    "Basic/Python/GPUStack/后端发布前端文件.md",
+    "Basic/Python/Dify",
+    "Basic/Python/Dify/Dify 中是如何使用 LocalStorage 存储 token 的.md",
+    "Basic/Python/GPUStack/GPUStack 使用 token 进行免登录管理界面.md",
+    "Basic/git 怎么设置自己提交时候的名字.md",
+    "Work/语音对话 demo 页面.md",
+    "Basic/Python/FastAPI/Oauth2.md",
+    "Basic/Python/FastAPI/OpenAPI 定义.md",
+    "Basic/Python/FastAPI/一个请求进入的时候.md",
     "Basic/Python/FastAPI/Why is my FastAPI throughput so low.md",
+    "Basic/Python/FastAPI/SQLModel.md",
+    "Basic/Python/FastAPI/关系型数据库.md",
+    "Basic/Python/FastAPI/使用 yield 的依赖项.md",
+    "Diary/2025/July/2025-07-07.md",
+    "Basic/Python/垃圾回收机制.md",
+    "Basic/Python/GIL 锁大揭秘.md",
     "Work/人工智能超市/计费表表结构.md",
     "Work/人工智能超市/消息队列日志入库.md",
     "Work/人工智能超市/APISIX 第三方鉴权.md",
     "Work/人工智能超市/Untitled.md",
     "Work/账号密码 - 常用信息.md",
     "Work/CDSS/CDSS - 加载时输出思考组件.md",
-    "Basic/Python/FastAPI/Untitled.md",
-    "Basic/Python/FastAPI/SQLModel.md",
-    "草稿.md",
-    "Basic/FrontEnd/Vue - 组件之间如何传递参数.md",
-    "Basic/Python/FastAPI/关系型数据库.md",
-    "Basic/Python/FastAPI/使用 yield 的依赖项.md",
-    "Basic/Python/FastAPI/Oauth2.md",
-    "Basic/Python/FastAPI/OpenAPI 定义.md",
-    "Basic/Python/LAgent/GPTAPI 源码解读.md",
-    "Basic/Python/LAgent/未命名.md",
-    "Basic/Python/LAgent/MindSearchAgent 架构解读.md",
-    "在 Vue 中安全高效地存储与管理 Token（akrk）.md",
     "Basic/Python/FastAPI",
-    "技术博客提示词.md",
     "Work/CDSS",
     "Work/APISIX/人工智能超市",
     "Basic/Python/MCP",
@@ -227,7 +227,6 @@
     "Work/人工智能超市/resources",
     "Work/人工智能超市",
     "Basic/Python/LAgent",
-    "Basic/FrontEnd",
     "Work/resources/normal-tech-2.jpg",
     "Work/resources/normal-tech.jpg",
     "Work/resources/网关方服务计费流程-Flowchart.svg",
