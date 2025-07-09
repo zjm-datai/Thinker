@@ -11,32 +11,13 @@
             "id": "b7f0df5168699c6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/查看 Docker 容器服务所占资源.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "查看 Docker 容器服务所占资源"
-            }
-          },
-          {
-            "id": "41d5b4d7eb51dbf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic/Python/FastAPI/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -194,21 +175,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "vscode-editor:Create Code File": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "vscode-editor:新建代码文件": false,
       "open-vscode:VSCode": false
     }
   },
-  "active": "41d5b4d7eb51dbf7",
+  "active": "b7f0df5168699c6e",
   "lastOpenFiles": [
-    "Work/查看 Docker 容器服务所占资源.md",
+    "Diary/2025/July/2025-07-08.md",
+    "Diary/2025/July/2025-07-09.md",
+    "Basic/Python/LAgent/未命名.md",
+    "Basic/Python/LAgent/GPTAPI 源码解读.md",
+    "Basic/Python/LAgent/MindSearchAgent 架构解读.md",
     "Basic/Python/FastAPI/Untitled.md",
-    "Docker 容器对底层资源的访问.md",
+    "Basic/Python/Untitled.md",
+    "Basic/Python/Qwen-audio.md",
+    "Basic/Python/垃圾回收机制.md",
+    "Basic/Python/GIL 锁大揭秘.md",
+    "Basic/Python/Prompt Caching.md",
+    "Basic/Python/Python 的包和模块.md",
+    "Work/DigitalPerson/语音对话 demo 页面.md",
+    "草稿.md",
+    "Work/查看 Docker 容器服务所占资源.md",
+    "Work/Docker 容器对底层资源的访问.md",
     "Work/大模型资源信息接口文档.md",
     "Work/人工智能超市/Untitled.md",
     "Work/大模型资源信息接口文档 copy.md",
@@ -216,23 +210,10 @@
     "Work/人工智能超市/APISIX 第三方鉴权.md",
     "Work/Linux 中的三种输出流.md",
     "Work/账号密码 - 常用信息.md",
-    "Diary/2025/July/2025-07-09.md",
     "Basic/Python/GPUStack/GPUStack Worker 信息接口.md",
     "GPUStack 性能指标接口.md",
-    "Diary/2025/July/2025-07-08.md",
     "Diary/2025/July/resources/Pasted image 20250709154158.png",
     "Basic/git 怎么设置自己提交时候的名字.md",
-    "Basic/FrontEnd/Vue - 组件之间如何传递参数.md",
-    "Basic/FrontEnd/哈希路由的前世今生.md",
-    "Work/DigitalPerson/服务启动和部署.md",
-    "Work/DigitalPerson/语音对话 demo 页面.md",
-    "Work/DigitalPerson/康宁数字人语音接口.md",
-    "Basic/Python/GPUStack/后端发布前端文件.md",
-    "Basic/Python/Untitled.md",
-    "Basic/Python/FastAPI/静态文件.md",
-    "Basic/Python/GPUStack/GPUStack 使用 token 进行免登录管理界面.md",
-    "Basic/Python/FastAPI/使用 yield 的依赖项.md",
-    "Basic/Python/FastAPI/Why is my FastAPI throughput so low.md",
     "Basic/Python/Dify",
     "Basic/Python/FastAPI",
     "Work/CDSS",
