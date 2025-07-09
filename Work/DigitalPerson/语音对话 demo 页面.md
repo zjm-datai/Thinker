@@ -7,3 +7,19 @@
 
 - 前端打包进入后端统一访问
 - 后端镜像的构建和部署（参考 GpuStack）
+
+```
+npx create-umi .
+Need to install the following packages:
+create-umi@4.4.11
+```
+
+```
+docker build -t kn_demo:latest .
+```
+
+[[2025-07-09]] 已经完成上述功能啦，哈哈哈哈
+
+下一阶段可以补充一下：
+
+- 压测和单元测试（实在没事干可以玩一下）
