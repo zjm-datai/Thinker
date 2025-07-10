@@ -1,8 +1,12 @@
 {
-  "cssTheme": "Sanctum",
+  "cssTheme": "",
   "baseFontSize": 15,
   "textFontFamily": "Inter",
   "monospaceFontFamily": "Consolas",
   "interfaceFontFamily": "Inter",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "mystyle"
+  ]
 }

@@ -1,5 +1,7 @@
 ## 路由函数
 
+### 数据模型和依赖注入
+
 ```python
 @router.get("", response_model=WorkerPublic)
 async def get_workers(
@@ -98,7 +100,11 @@ class Server:
 
 好像讲完依赖和数据模型就差不多了。。。
 
+### 分页查询
 
+```python
+
+```
 
 
 

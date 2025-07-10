@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "39ed009fa30a39a9",
+        "id": "4f012062d26e2c2e",
         "type": "tabs",
         "children": [
           {
-            "id": "b7f0df5168699c6e",
+            "id": "82a9d85e9ae43a6c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "Basic/Python/GPUStack/GPUStack Worker 信息接口.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "GPUStack Worker 信息接口"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#springboot",
+                "query": "\"- 标准输入 stdin 编号为 0 用于接收程序的输入数据- 标准输出 stdout 编号为 1 程序正常运行的输出内容- 标准错误 stderr 编号为 2 程序运行的错误信息\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 285.5
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -83,7 +87,6 @@
       {
         "id": "27285a2717637b18",
         "type": "tabs",
-        "dimension": 62.08920187793427,
         "children": [
           {
             "id": "c14406b3faea15ce",
@@ -139,96 +142,91 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic/Python/FastAPI/Untitled.md",
+                "file": "Basic/Python/GPUStack/GPUStack Worker 信息接口.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of GPUStack Worker 信息接口"
+            }
+          },
+          {
+            "id": "1a8a819851613218",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "f87d6c22369df568",
-        "type": "tabs",
-        "dimension": 37.91079812206573,
-        "children": [
-          {
-            "id": "d1f8e9167054087c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 345.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "vscode-editor:新建代码文件": false,
-      "open-vscode:VSCode": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "vscode-editor:Create Code File": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7f0df5168699c6e",
+  "active": "82a9d85e9ae43a6c",
   "lastOpenFiles": [
-    "Diary/2025/July/2025-07-08.md",
-    "Diary/2025/July/2025-07-09.md",
-    "Basic/Python/LAgent/未命名.md",
-    "Basic/Python/LAgent/GPTAPI 源码解读.md",
-    "Basic/Python/LAgent/MindSearchAgent 架构解读.md",
-    "Basic/Python/FastAPI/Untitled.md",
-    "Basic/Python/Untitled.md",
-    "Basic/Python/Qwen-audio.md",
-    "Basic/Python/垃圾回收机制.md",
-    "Basic/Python/GIL 锁大揭秘.md",
-    "Basic/Python/Prompt Caching.md",
-    "Basic/Python/Python 的包和模块.md",
-    "Work/DigitalPerson/语音对话 demo 页面.md",
-    "草稿.md",
-    "Work/查看 Docker 容器服务所占资源.md",
-    "Work/Docker 容器对底层资源的访问.md",
-    "Work/大模型资源信息接口文档.md",
-    "Work/人工智能超市/Untitled.md",
-    "Work/大模型资源信息接口文档 copy.md",
-    "Work/大模型资源信息接口文档 1.md",
+    "Basic/Python/GPUStack/GPUStack 使用 token 进行免登录管理界面.md",
     "Work/人工智能超市/APISIX 第三方鉴权.md",
-    "Work/Linux 中的三种输出流.md",
-    "Work/账号密码 - 常用信息.md",
+    "Basic/Python/transformer/Untitled.md",
+    "Basic/Python/Prompt Caching.md",
+    "Basic/Python/未完成 - GIL 锁大揭秘.md",
+    "Work/大模型资源信息接口文档.md",
     "Basic/Python/GPUStack/GPUStack Worker 信息接口.md",
-    "GPUStack 性能指标接口.md",
+    "Work/账号密码 - 常用信息.md",
+    "Basic/Python/FastAPI/部署/Uvicorn 多进程工作原理详解.md",
+    "Basic/Python/transformer",
+    "Basic/Python/FastAPI/部署/未完成 - 容器部署.md",
+    "Basic/Python/FastAPI/部署",
+    "Basic/Python/FastAPI/部署/关于 HTTPS.md",
+    "Basic/Python/FastAPI/resources/Pasted image 20250710170430.png",
+    "Basic/Python/FastAPI/resources/Pasted image 20250710170211.png",
+    "Basic/Python/FastAPI/resources/Pasted image 20250710165909.png",
+    "Basic/Python/FastAPI/resources/Pasted image 20250710165826.png",
+    "Basic/Python/FastAPI/resources/Pasted image 20250710165757.png",
+    "Basic/Python/FastAPI/resources/Pasted image 20250710165712.png",
+    "Basic/Python/FastAPI/resources/Pasted image 20250710165052.png",
+    "Basic/Python/FastAPI/resources/Pasted image 20250710164023.png",
+    "Basic/Python/FastAPI/resources/Pasted image 20250710163941.png",
+    "Basic/Python/FastAPI/resources",
+    "Work/人工智能超市/统一大模型入口插件.md",
+    "Work/人工智能超市/消息队列日志入库.md",
+    "Basic/Python/GPUStack/后端发布前端文件.md",
+    "草稿.md",
+    "Work/git 怎么设置自己提交时候的名字.md",
+    "Diary/2025/July/2025-07-10.md",
+    "Basic/FrontEnd/哈希路由的前世今生.md",
+    "Basic/Python/dict.copy().md",
+    "Basic/Python/FastAPI/一个请求进入的时候.md",
+    "Basic/Python/FastAPI/使用 yield 的依赖项.md",
+    "Basic/Python/Qwen-Audio.md",
+    "Basic/Python/垃圾回收机制.md",
+    "Basic/Python/集合.md",
+    "Work/Linux 中的三种输出流.md",
+    "Work/Docker 容器对底层资源的访问.md",
+    "Utils",
+    "Utils/copilot-custom-prompts",
     "Diary/2025/July/resources/Pasted image 20250709154158.png",
-    "Basic/git 怎么设置自己提交时候的名字.md",
     "Basic/Python/Dify",
     "Basic/Python/FastAPI",
     "Work/CDSS",
     "Work/APISIX/人工智能超市",
-    "Basic/Python/MCP",
-    "Work/DigitalPerson",
-    "Suibi",
-    "Work/人工智能超市/resources/Pasted image 20250703155103.png",
-    "Work/人工智能超市/resources",
-    "Work/人工智能超市",
-    "Basic/Python/LAgent",
-    "Work/resources/normal-tech-2.jpg",
-    "Work/resources/normal-tech.jpg",
-    "Work/resources/网关方服务计费流程-Flowchart.svg",
-    "Diary/2025/July/resources/toto.jpg",
-    "1751422346825.png"
+    "Basic/Python/MCP"
   ]
 }

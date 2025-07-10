@@ -122,8 +122,7 @@ curl -X POST http://192.168.120.44:9998/v1/chat/completions \
 
 ```bash
 curl -X POST http://10.17.105.16:40000/qwen25/v1/chat/completions \
-  -H "Mass-Auth-Token: 1b741aa23f08b4ed43fb95d432a964af" \
-  -H "Mass-Ai-Service: http://10.17.105.16:40000/qwen72" \
+  -H "Mass-Auth-Token: b6d7d8d25cd7334ba5e4f0b3a95ee7d2" \
   -H "Authorization: Bearer gpustack_4f50a5c7bad4fd01_7c054bcb8d3cf921e9b1fa43517fa81b" \
   -H "Content-Type: application/json" \
   -d '{
@@ -134,4 +133,41 @@ curl -X POST http://10.17.105.16:40000/qwen25/v1/chat/completions \
   }'
 ```
 
+```bash
+curl -X POST http://10.17.105.16:40000/qwen25/v1/chat/completions \
+  -H "Mass-Auth-Token: b6d7d2" \
+  -H "Authorization: Bearer gpustack_4f50a5c7bad4fd01_7c054bcb8d3cf921e9b1fa43517fa81b" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model": "Qwen2.5-32B-Instruct",
+    "messages": [
+      {"role": "user", "content": "你好"}
+    ]
+  }'
+```
+
+### 已注册路由在平台上发布成资源
+
+```bash
+curl -X POST http://127.0.0.1:40000/v1/chat/completions \
+  -H "Mass-Auth-Token: 4b7c991149a08ee51e75be0459e2449a" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model": "Qwen2.5-72B-Instruct",
+    "messages": [
+      {"role": "user", "content": "你好"}
+    ]
+  }'
+```
+
+```bash
+curl -X POST http://127.0.0.1:40000/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model": "Qwen3-30B-A3B-GPTQ-Int4",
+    "messages": [
+      {"role": "user", "content": "你好"}
+    ]
+  }'
+```
 
