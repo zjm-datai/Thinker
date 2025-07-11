@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "617d6493550a0593",
+        "id": "5b73a541d6de003b",
         "type": "tabs",
         "children": [
           {
-            "id": "3155d56417dedad4",
+            "id": "2db604acc664572f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AsyncSession.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AsyncSession"
+              "title": "New tab"
             }
           }
         ]
@@ -44,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#springboot",
+                "query": "\"- 标准输入 stdin 编号为 0 用于接收程序的输入数据- 标准输出 stdout 编号为 1 程序正常运行的输出内容- 标准错误 stderr 编号为 2 程序运行的错误信息\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 285.5
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -87,7 +83,6 @@
       {
         "id": "27285a2717637b18",
         "type": "tabs",
-        "dimension": 62.08920187793427,
         "children": [
           {
             "id": "c14406b3faea15ce",
@@ -143,17 +138,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AsyncSession.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AsyncSession 的大纲"
+              "title": "Outline"
             }
           },
           {
-            "id": "5a86659495cc3d0a",
+            "id": "12bd275c95a5d1f2",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -164,52 +158,55 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "f87d6c22369df568",
-        "type": "tabs",
-        "dimension": 37.91079812206573,
-        "children": [
-          {
-            "id": "d1f8e9167054087c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "vscode-editor:新建代码文件": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "vscode-editor:Create Code File": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a86659495cc3d0a",
+  "active": "2db604acc664572f",
   "lastOpenFiles": [
-    "Basic/Python/GPUStack/Worker Syncer.md",
-    "AsyncSession.md",
-    "Diary/2025/July/2025-07-10.md",
+    "会议室二和多数元素.md",
     "Diary/2025/July/2025-07-11.md",
-    "Basic/Python/dict.copy().md",
-    "Diary/2025/July/2025-07-09.md",
-    "Basic/Python/Prompt Caching.md",
+    "AsyncSession.md",
+    "草稿.md",
+    "Basic/Python/uv 中添加加速镜像.md",
+    "Work/大模型资源信息接口文档.md",
+    "Work/账号密码 - 常用信息.md",
+    "Work/Dify VastBase 适配.md",
     "Basic/Python/Python 的包和模块.md",
-    "Basic/Python/Dify/Dify 中是如何使用 LocalStorage 存储 token 的.md",
-    "Work/DigitalPerson/服务启动和部署.md",
+    "Basic/Python/HF 智能体构建示例以及评估.md",
+    "Basic/Python/uv",
+    "Basic/Python/Dify/Untitled.md",
+    "Work/Git&Linux&Docker",
+    "Work/Git&Linux&Docker/Git 如何切换 Tag.md",
+    "Work/Git&Linux&Docker/Git 怎么设置自己提交时候的名字.md",
+    "Diary/2025/July/2025-07-10.md",
+    "Diary/2025/July/2025-07-02.md",
+    "Basic/FrontEnd/Vue - 组件之间如何传递参数.md",
+    "Basic/Python/GPUStack/Worker Syncer.md",
+    "Basic/Python/未完成 - GIL 锁大揭秘.md",
+    "Basic/Python/GPUStack/GPUStack Worker 信息接口.md",
+    "Basic/Python/GPUStack/GPUStack 使用 token 进行免登录管理界面.md",
+    "Work/人工智能超市/APISIX 第三方鉴权.md",
+    "Basic/Python/transformer/Untitled.md",
+    "Basic/Python/Prompt Caching.md",
+    "Basic/Python/FastAPI/部署/Uvicorn 多进程工作原理详解.md",
+    "Basic/Python/transformer",
+    "Basic/Python/FastAPI/部署/未完成 - 容器部署.md",
+    "Basic/Python/FastAPI/部署",
+    "Basic/Python/FastAPI/部署/关于 HTTPS.md",
     "Basic/Python/FastAPI/resources/Pasted image 20250710170430.png",
     "Basic/Python/FastAPI/resources/Pasted image 20250710170211.png",
     "Basic/Python/FastAPI/resources/Pasted image 20250710165909.png",
@@ -220,31 +217,11 @@
     "Basic/Python/FastAPI/resources/Pasted image 20250710164023.png",
     "Basic/Python/FastAPI/resources/Pasted image 20250710163941.png",
     "Basic/Python/FastAPI/resources",
-    "Work/人工智能超市/统一大模型入口插件.md",
-    "Work/git 怎么设置自己提交时候的名字.md",
-    "Basic/Python/集合.md",
-    "Basic/Python/未完成 - GIL 锁大揭秘.md",
-    "Basic/Python/transformer/Untitled.md",
-    "Basic/Python/transformer",
-    "Basic/Python/FastAPI/部署/未完成 - 容器部署.md",
-    "Basic/Python/FastAPI/部署/关于 HTTPS.md",
-    "Basic/Python/FastAPI/部署/Uvicorn 多进程工作原理详解.md",
-    "Basic/Python/FastAPI/部署",
-    "Diary/2025/July/2025-07-08.md",
-    "Basic/Python/LAgent/未命名.md",
-    "Basic/Python/LAgent/GPTAPI 源码解读.md",
-    "Basic/Python/LAgent/MindSearchAgent 架构解读.md",
-    "Basic/Python/FastAPI/Untitled.md",
-    "Basic/Python/Untitled.md",
-    "Basic/Python/Qwen-audio.md",
-    "Basic/Python/垃圾回收机制.md",
+    "Utils",
+    "Utils/copilot-custom-prompts",
     "Diary/2025/July/resources/Pasted image 20250709154158.png",
     "Basic/Python/Dify",
     "Basic/Python/FastAPI",
-    "Work/CDSS",
-    "Work/APISIX/人工智能超市",
-    "Basic/Python/MCP",
-    "Work/DigitalPerson",
-    "Suibi"
+    "Work/CDSS"
   ]
 }
