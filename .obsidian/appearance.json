@@ -1,7 +1,7 @@
 {
   "cssTheme": "",
-  "baseFontSize": 15,
-  "textFontFamily": "Inter",
+  "baseFontSize": 16,
+  "textFontFamily": "Inter,黑体",
   "monospaceFontFamily": "Consolas",
   "interfaceFontFamily": "Inter",
   "theme": "moonstone",
