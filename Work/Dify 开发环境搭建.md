@@ -583,3 +583,17 @@ poetry run gunicorn -k gevent -w 3 --worker-connections 1000 \
 ```
 
 
+
+### 单元测试 
+
+单元测试的脚本在根目录下面，我们需要回到根目录
+
+```
+poetry install -C api --with dev
+```
+
+Run the tests locally with mocked system environment variables in `tool.pytest_env` section in `pyproject.toml`
+
+```
+poetry run -P api bash dev/pytest/pytest_all_tests.sh
+```
