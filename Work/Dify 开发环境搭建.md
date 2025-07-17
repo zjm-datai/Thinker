@@ -597,3 +597,69 @@ Run the tests locally with mocked system environment variables in `tool.pytest_
 ```
 poetry run -P api bash dev/pytest/pytest_all_tests.sh
 ```
+
+### 工作流测试
+
+手术合理性-住院
+
+```
+{  
+"门诊编号": 2024011600074,  
+"gender": "男",  
+"age": 77,  
+"ageType": "岁",  
+"weight": 65,  
+"height": 160,  
+"pregnancyStatus": "",  
+"progressNoteListStructured": [  
+{  
+"clinicalSymptoms": "",  
+"previousDiseasesHistory": "",  
+"operationHistory": "",  
+"medicationHistory": "",  
+"allergicHistory": "",  
+"positiveSigns": ""  
+}  
+],  
+"scheduleTime": "2024-01-18 08:50:39",  
+"opslcd": "",  
+"opsName": "腹腔镜下胆囊切除术",  
+"opsReady": NaN,  
+"opsRequire": "",  
+"diag": "胆囊结石,胁痛",  
+"opsParts": 11,  
+"opsPartsName": -9.0,  
+"opslncision": 2,  
+"opslncisionName": "-9",  
+"opsPosture": 0,  
+"opsHealGrade": NaN,  
+"speciallnfect": "",  
+"isExamOps": 0,  
+"beHospitalizedMedList": [  
+{  
+"drugName": "",  
+"dosage": "",  
+"frequency": "",  
+"drugUsage": "",  
+"days": "",  
+"prescriptionCreateDatetime": ""  
+}  
+],  
+"admissionDiagnosis": "",  
+"latestDiagnosis": "",  
+"beHospitalizedOperationList": [  
+{  
+"opsName": "",  
+"opsEndTime": ""  
+}  
+],  
+"beHospitalizedCheckList": [],  
+"beHospitalizedInspectList": []  
+}
+```
+
+## 部署
+
+```
+docker build -t dify-api-vastbase:1.1.3 .
+```
