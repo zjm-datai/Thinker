@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "09b5632fbcad4de3",
+        "id": "b295d7d321621e9e",
         "type": "tabs",
         "children": [
           {
-            "id": "7785809d205b4b19",
+            "id": "fcfa9dbbb6fe3ecf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2025/July/2025-07-17.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-07-17"
-            }
-          },
-          {
-            "id": "5d755cf08aab1cf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/人工智能超市/消息队列日志入库.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "消息队列日志入库"
+              "title": "New tab"
             }
           }
         ]
@@ -92,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -156,13 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2025/July/2025-07-17.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-17"
+              "title": "Outline"
             }
           },
           {
@@ -194,17 +176,27 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "75c994f4dc500588",
+  "active": "fcfa9dbbb6fe3ecf",
   "lastOpenFiles": [
-    "Diary/2025/July/2025-07-16.md",
+    "Basic/Python/Python 的包和模块.md",
     "Diary/2025/July/2025-07-17.md",
-    "Work/Dify 开发环境搭建.md",
+    "Work/DigitalPerson/中医院数字人 APP 侧能力接口文档.md",
+    "Work/DigitalPerson/中医院数字人 APP 侧能力接口文档 1.md",
+    "Work/DigitalPerson/Z-resources/数字人交互流程图-更新版本-0627-流程图 1.jpg",
+    "Work/DigitalPerson/Z-resources/数字人交互流程图-更新版本-0627-流程图.jpg",
+    "Work/DigitalPerson/Z-resources/Pasted image 20250718151940.png",
+    "Work/DigitalPerson/Z-resources/Pasted image 20250718151836.png",
+    "Work/DigitalPerson/Z-resources/Pasted image 20250718151407.png",
+    "Work/DigitalPerson/Z-resources/数字人流程图-更新版本-流程图.jpg",
+    "Work/DigitalPerson/Z-resources",
+    "Work/DigitalPerson/服务启动和部署.md",
+    "Work/DigitalPerson/语音对话 demo 页面.md",
     "Work/人工智能超市/消息队列日志入库.md",
+    "Diary/2025/July/2025-07-16.md",
+    "Work/Dify 开发环境搭建.md",
     "Work/账号密码 - 常用信息.md",
     "Work/大模型资源信息接口文档.md",
     "Work/人工智能超市/APISIX 第三方鉴权.md",
-    "Work/DigitalPerson/服务启动和部署.md",
-    "Work/DigitalPerson/语音对话 demo 页面.md",
     "Basic/Python/Flask/A-Projects/Dify/Dify2Go/Untitled.md",
     "Basic/Python/Flask/A-Projects/Dify/Untitled.md",
     "Work/人工智能超市/计费表表结构.md",
@@ -220,9 +212,6 @@
     "Basic/Python/Flask/A-Projects/Dify/Dify2Go",
     "Basic/Python/Flask/请求上下文.md",
     "Basic/Python/MCP/Untitled.md",
-    "Basic/Python/MCP/未命名.md",
-    "Basic/Python/MCP/__init__.md",
-    "AsyncSession.md",
     "Basic/Python/Flask/A-Projects",
     "Basic/Python/FastAPI/A-Projects",
     "Basic/Python/Flask",
@@ -232,15 +221,8 @@
     "Basic/Python/FastAPI/S-安全性",
     "Basic/Python/uv",
     "Work/Git&Linux&Docker",
-    "Basic/Python/Transformer",
     "Basic/Python/FastAPI/Z-resources/Pasted image 20250710170430.png",
     "Basic/Python/FastAPI/Z-resources/Pasted image 20250710170211.png",
-    "Basic/Python/FastAPI/Z-resources/Pasted image 20250710165909.png",
-    "Basic/Python/FastAPI/Z-resources/Pasted image 20250710165826.png",
-    "Basic/Python/FastAPI/Z-resources/Pasted image 20250710165757.png",
-    "Basic/Python/FastAPI/Z-resources/Pasted image 20250710165712.png",
-    "Basic/Python/FastAPI/Z-resources/Pasted image 20250710165052.png",
-    "Basic/Python/FastAPI/Z-resources/Pasted image 20250710164023.png",
-    "Basic/Python/FastAPI/Z-resources/Pasted image 20250710163941.png"
+    "Basic/Python/FastAPI/Z-resources/Pasted image 20250710165909.png"
   ]
 }
