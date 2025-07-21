@@ -1,5 +1,5 @@
 {
-  "cssTheme": "",
+  "cssTheme": "Typora-Vue",
   "baseFontSize": 16,
   "textFontFamily": "Inter,微软雅黑",
   "monospaceFontFamily": "Consolas",
@@ -8,5 +8,6 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "mystyle"
-  ]
+  ],
+  "showViewHeader": false
 }

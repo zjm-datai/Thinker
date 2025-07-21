@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b295d7d321621e9e",
+        "id": "6bda62a40c978f4a",
         "type": "tabs",
         "children": [
           {
-            "id": "fcfa9dbbb6fe3ecf",
+            "id": "6d70868ac8802b59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Basic/Python/Python 的包和模块.md",
+                "bFile": "Basic/Python/Python 的包和模块.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Python 的包和模块"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -176,8 +179,27 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "fcfa9dbbb6fe3ecf",
+  "active": "6d70868ac8802b59",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Diary/2025/July/2025-07-20.md",
+    "Basic/Python/python 在 import 的时候发生了什么？.md",
+    "Basic/Python/LangChain/LangGraph/Persistence.md",
+    "Basic/Python/LangChain/LangGraph",
+    "Basic/Python/LangChain",
+    "Basic/Python/GIL 锁大揭秘.md",
+    "Basic/Python/A-菜鸟教程-Python.md",
+    "Basic/Go/菜鸟教程 - Go.md",
+    "Basic/Go/未命名.md",
+    "Basic/Go/未命名 1.md",
+    "Basic/Go/接口.md",
+    "Basic/Go",
+    "Basic/FrontEnd/如何在 vue 中使用 tailwindcss.md",
+    "Basic/FrontEnd/VUE/计算属性.md",
+    "Basic/FrontEnd/VUE/未命名.md",
+    "Basic/FrontEnd/VUE",
+    "Basic/FrontEnd/A-JS/未命名.md",
+    "Basic/FrontEnd/A-JS",
     "Basic/Python/Python 的包和模块.md",
     "Diary/2025/July/2025-07-17.md",
     "Work/DigitalPerson/中医院数字人 APP 侧能力接口文档.md",
@@ -197,30 +219,11 @@
     "Work/账号密码 - 常用信息.md",
     "Work/大模型资源信息接口文档.md",
     "Work/人工智能超市/APISIX 第三方鉴权.md",
-    "Basic/Python/Flask/A-Projects/Dify/Dify2Go/Untitled.md",
-    "Basic/Python/Flask/A-Projects/Dify/Untitled.md",
-    "Work/人工智能超市/计费表表结构.md",
-    "草稿.md",
-    "Diary/2025/July/2025-07-15.md",
-    "Diary/2025/July/2025-07-11.md",
-    "Diary/2025/July/2025-07-12.md",
-    "Diary/2025/July/2025-07-13.md",
-    "Diary/2025/July/2025-07-14.md",
-    "Diary/2025/July/2025-07-10.md",
-    "Basic/Python/Flask/A-Projects/Dify/Dify2Go/开发日志.md",
-    "Basic/Python/Flask/A-Projects/Dify/Dify 中是如何使用 LocalStorage 存储 token 的.md",
     "Basic/Python/Flask/A-Projects/Dify/Dify2Go",
-    "Basic/Python/Flask/请求上下文.md",
-    "Basic/Python/MCP/Untitled.md",
     "Basic/Python/Flask/A-Projects",
     "Basic/Python/FastAPI/A-Projects",
     "Basic/Python/Flask",
     "Z-resources/Pasted image 20250714153145.png",
-    "Z-resources",
-    "Basic/Python/VLLM",
-    "Basic/Python/FastAPI/S-安全性",
-    "Basic/Python/uv",
-    "Work/Git&Linux&Docker",
     "Basic/Python/FastAPI/Z-resources/Pasted image 20250710170430.png",
     "Basic/Python/FastAPI/Z-resources/Pasted image 20250710170211.png",
     "Basic/Python/FastAPI/Z-resources/Pasted image 20250710165909.png"
