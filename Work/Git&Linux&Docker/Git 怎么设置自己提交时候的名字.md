@@ -13,8 +13,8 @@ git config --global user.email "你的邮箱"
 要是为特定仓库单独设置用户名和邮箱，只需去掉 `--global` 参数，在仓库目录下执行：
 
 ```bash
-git config user.name "你的名字" 
-git config user.email "你的邮箱@example.com"
+git config user.name "朱俊苗" 
+git config user.email "2836191515@qq.com"
 ```
 
 ### 查看已有的配置

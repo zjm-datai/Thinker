@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6bda62a40c978f4a",
+        "id": "19479fe117f9f312",
         "type": "tabs",
         "children": [
           {
-            "id": "6d70868ac8802b59",
+            "id": "d91e4958647ab94a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Basic/Python/Python 的包和模块.md",
-                "bFile": "Basic/Python/Python 的包和模块.md",
-                "aRef": ""
+                "file": "Basic/FrontEnd/B-CSS/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Python 的包和模块"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -179,8 +179,20 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "6d70868ac8802b59",
+  "active": "d91e4958647ab94a",
   "lastOpenFiles": [
+    "Basic/FrontEnd/B-CSS/Z-resources/Pasted image 20250721190359.png",
+    "Basic/FrontEnd/B-CSS/Z-resources",
+    "Basic/FrontEnd/B-CSS/Untitled.md",
+    "Basic/FrontEnd/B-CSS",
+    "Work/在 vscode 中不显示一些文件.md",
+    "Basic/FrontEnd/使用 vite 启动一个简单的项目.md",
+    "Work/账号密码 - 常用信息.md",
+    "Work/Git&Linux&Docker/Git 怎么设置自己提交时候的名字.md",
+    "Basic/Python/uv 中添加加速镜像.md",
+    "Basic/Python/A-菜鸟教程-Python.md",
+    "Basic/会议室二和多数元素.md",
+    "Basic/Python/Python 中的包和模块.md",
     "conflict-files-obsidian-git.md",
     "Diary/2025/July/2025-07-20.md",
     "Basic/Python/python 在 import 的时候发生了什么？.md",
@@ -188,7 +200,6 @@
     "Basic/Python/LangChain/LangGraph",
     "Basic/Python/LangChain",
     "Basic/Python/GIL 锁大揭秘.md",
-    "Basic/Python/A-菜鸟教程-Python.md",
     "Basic/Go/菜鸟教程 - Go.md",
     "Basic/Go/未命名.md",
     "Basic/Go/未命名 1.md",
@@ -203,7 +214,6 @@
     "Basic/Python/Python 的包和模块.md",
     "Diary/2025/July/2025-07-17.md",
     "Work/DigitalPerson/中医院数字人 APP 侧能力接口文档.md",
-    "Work/DigitalPerson/中医院数字人 APP 侧能力接口文档 1.md",
     "Work/DigitalPerson/Z-resources/数字人交互流程图-更新版本-0627-流程图 1.jpg",
     "Work/DigitalPerson/Z-resources/数字人交互流程图-更新版本-0627-流程图.jpg",
     "Work/DigitalPerson/Z-resources/Pasted image 20250718151940.png",
@@ -211,18 +221,8 @@
     "Work/DigitalPerson/Z-resources/Pasted image 20250718151407.png",
     "Work/DigitalPerson/Z-resources/数字人流程图-更新版本-流程图.jpg",
     "Work/DigitalPerson/Z-resources",
-    "Work/DigitalPerson/服务启动和部署.md",
-    "Work/DigitalPerson/语音对话 demo 页面.md",
-    "Work/人工智能超市/消息队列日志入库.md",
-    "Diary/2025/July/2025-07-16.md",
-    "Work/Dify 开发环境搭建.md",
-    "Work/账号密码 - 常用信息.md",
-    "Work/大模型资源信息接口文档.md",
-    "Work/人工智能超市/APISIX 第三方鉴权.md",
     "Basic/Python/Flask/A-Projects/Dify/Dify2Go",
     "Basic/Python/Flask/A-Projects",
-    "Basic/Python/FastAPI/A-Projects",
-    "Basic/Python/Flask",
     "Z-resources/Pasted image 20250714153145.png",
     "Basic/Python/FastAPI/Z-resources/Pasted image 20250710170430.png",
     "Basic/Python/FastAPI/Z-resources/Pasted image 20250710170211.png",
