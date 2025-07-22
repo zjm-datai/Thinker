@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1e54998a4c545e8e",
+        "id": "cad900f9f366f5e0",
         "type": "tabs",
         "children": [
           {
-            "id": "d85107ca2b8f359b",
+            "id": "e9b8ca290d860ee3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2025/July/2025-07-20.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2025-07-20"
             }
           }
         ]
@@ -76,7 +80,7 @@
       {
         "id": "0ced1f6f7e707cd1",
         "type": "tabs",
-        "dimension": 29.943502824858758,
+        "dimension": 29.943502824858754,
         "children": [
           {
             "id": "028be67495047f3c",
@@ -123,12 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Diary/2025/July/2025-07-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2025-07-20 的大纲"
             }
           },
           {
@@ -215,8 +220,20 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "d85107ca2b8f359b",
+  "active": "e9b8ca290d860ee3",
   "lastOpenFiles": [
+    "Diary/2025/July/2025-07-17.md",
+    "Diary/2025/July/2025-07-15.md",
+    "Diary/2025/July/2025-07-20.md",
+    "Diary/2025/July/2025-07-16.md",
+    "Diary/2025/July/2025-07-14.md",
+    "Diary/2025/July/2025-07-11.md",
+    "Diary/2025/July/2025-07-13.md",
+    "Diary/2025/July/2025-07-09.md",
+    "Diary/2025/July/2025-07-12.md",
+    "Diary/2025/July/2025-07-21.md",
+    "Diary/2025/July/2025-07-23.md",
+    "Diary/2025/July/0 July.md",
     "Basic/Python/dict.copy().md",
     "Basic/Python/default_factory.md",
     "Basic/Python/LangChain/LangGraph/Untitled.md",
@@ -224,7 +241,6 @@
     "Basic/FrontEnd/A-JS/windows 对象.md",
     "Basic/FrontEnd/A-JS/菜鸟 JS.md",
     "Diary/2025/July/2025-07-22.md",
-    "Diary/2025/July/2025-07-21.md",
     "Work/Git&Linux&Docker/如何进行操作一个镜像.md",
     "Basic/FrontEnd/如何在 vite vue 中加入 shadcn.md",
     "Basic/FrontEnd/Untitled.md",
@@ -233,11 +249,8 @@
     "Basic/FrontEnd/C-HTML/菜鸟.md",
     "Basic/FrontEnd/C-HTML/Z-resources/Pasted image 20250722003218.png",
     "Basic/FrontEnd/C-HTML/Z-resources",
-    "Diary/2025/July/2025-07-20.md",
     "Basic/FrontEnd/VUE/计算属性.md",
     "Basic/FrontEnd/C-HTML",
-    "Work/在 vscode 中不显示一些文件.md",
-    "Work/DigitalPerson/中医院数字人 APP 侧能力接口文档.md",
     "Work/DigitalPerson/Z-resources/数字人流程图-更新版本-流程图.jpg",
     "Work/DigitalPerson/Z-resources/数字人交互流程图-更新版本-0627-流程图.jpg",
     "Work/DigitalPerson/Z-resources/数字人交互流程图-更新版本-0627-流程图 1.jpg",
@@ -245,17 +258,9 @@
     "Work/DigitalPerson/Z-resources/Pasted image 20250718151836.png",
     "Work/DigitalPerson/Z-resources/Pasted image 20250718151407.png",
     "Work/DigitalPerson/Z-resources",
-    "Basic/Python/Python 中的包和模块.md",
-    "Basic/FrontEnd/使用 vite 启动一个简单的项目.md",
     "Basic/FrontEnd/B-CSS/Z-resources/Pasted image 20250721190359.png",
     "Basic/FrontEnd/B-CSS/Z-resources",
     "Basic/FrontEnd/B-CSS",
-    "Basic/FrontEnd/VUE/未命名.md",
-    "Basic/FrontEnd/Vue - 组件之间如何传递参数.md",
-    "Basic/FrontEnd/如何在 vue 中使用 tailwindcss.md",
-    "Basic/Python/Python 的包和模块.md",
-    "Basic/Python/python 在 import 的时候发生了什么？.md",
-    "Basic/Python/MCP/未命名.md",
     "Basic/Python/LangChain/LangGraph",
     "Basic/Python/LangChain",
     "Basic/FrontEnd/A-JS",
