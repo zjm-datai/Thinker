@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "31ec6a77edf65da2",
+        "id": "1e54998a4c545e8e",
         "type": "tabs",
         "children": [
           {
-            "id": "b1a04763222ef389",
+            "id": "d85107ca2b8f359b",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "新标签页"
             }
           }
         ]
@@ -29,6 +29,7 @@
       {
         "id": "60471c7ecc61306e",
         "type": "tabs",
+        "dimension": 70.05649717514125,
         "children": [
           {
             "id": "24f97083c4e202ed",
@@ -37,10 +38,10 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -49,15 +50,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "计费",
-                "matchingCase": false,
+                "query": "sys",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -71,10 +72,42 @@
             }
           }
         ]
+      },
+      {
+        "id": "0ced1f6f7e707cd1",
+        "type": "tabs",
+        "dimension": 29.943502824858758,
+        "children": [
+          {
+            "id": "028be67495047f3c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "pinned": true,
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "0709fdf32c71fa64",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 306.5,
+    "collapsed": true
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -95,7 +128,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "大纲"
             }
           },
           {
@@ -143,84 +176,91 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "b735b3a7345a34d5",
+        "type": "tabs",
+        "children": [
           {
-            "id": "d9304cc9fcbea19c",
+            "id": "702cc6caee06f64d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "git-view",
               "state": {},
+              "pinned": true,
               "icon": "git-pull-request",
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 500.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "open-vscode:VSCode": false
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "open-vscode:VSCode": false,
+      "graph:查看关系图谱": false
     }
   },
-  "active": "24f97083c4e202ed",
+  "active": "d85107ca2b8f359b",
   "lastOpenFiles": [
+    "Basic/Python/dict.copy().md",
+    "Basic/Python/default_factory.md",
     "Basic/Python/LangChain/LangGraph/Untitled.md",
-    "Work/账号密码 - 常用信息.md",
-    "Work/Git&Linux&Docker/如何进行操作一个镜像.md",
-    "Work/DigitalPerson/服务启动和部署.md",
-    "Work/DigitalPerson/语音对话 demo 页面.md",
-    "Work/DigitalPerson/中医院数字人 APP 侧能力接口文档.md",
-    "Work/Git&Linux&Docker/Linux 中的三种输出流.md",
-    "Basic/FrontEnd/Untitled.md",
-    "Basic/FrontEnd/如何在 vite vue 中加入 shadcn.md",
-    "Basic/FrontEnd/如何在 vue 中使用 tailwindcss.md",
+    "Basic/Python/LangChain/LangGraph/Persistence.md",
+    "Basic/FrontEnd/A-JS/windows 对象.md",
+    "Basic/FrontEnd/A-JS/菜鸟 JS.md",
+    "Diary/2025/July/2025-07-22.md",
     "Diary/2025/July/2025-07-21.md",
+    "Work/Git&Linux&Docker/如何进行操作一个镜像.md",
+    "Basic/FrontEnd/如何在 vite vue 中加入 shadcn.md",
+    "Basic/FrontEnd/Untitled.md",
+    "Basic/FrontEnd/B-CSS/CSS Flexbox.md",
+    "Basic/FrontEnd/B-CSS/Untitled.md",
     "Basic/FrontEnd/C-HTML/菜鸟.md",
     "Basic/FrontEnd/C-HTML/Z-resources/Pasted image 20250722003218.png",
     "Basic/FrontEnd/C-HTML/Z-resources",
-    "Basic/FrontEnd/C-HTML",
-    "Basic/FrontEnd/B-CSS/CSS Flexbox.md",
-    "Basic/FrontEnd/B-CSS/Z-resources/Pasted image 20250721190359.png",
-    "Basic/FrontEnd/B-CSS/Z-resources",
-    "Basic/FrontEnd/B-CSS/Untitled.md",
-    "Basic/FrontEnd/B-CSS",
-    "Work/在 vscode 中不显示一些文件.md",
-    "Basic/FrontEnd/使用 vite 启动一个简单的项目.md",
-    "Work/Git&Linux&Docker/Git 怎么设置自己提交时候的名字.md",
-    "Basic/Python/uv 中添加加速镜像.md",
-    "Basic/Python/A-菜鸟教程-Python.md",
-    "Basic/会议室二和多数元素.md",
-    "Basic/Python/Python 中的包和模块.md",
-    "conflict-files-obsidian-git.md",
     "Diary/2025/July/2025-07-20.md",
-    "Basic/Python/python 在 import 的时候发生了什么？.md",
-    "Basic/Python/LangChain/LangGraph/Persistence.md",
-    "Basic/Python/LangChain/LangGraph",
-    "Basic/Python/LangChain",
-    "Basic/Python/GIL 锁大揭秘.md",
-    "Basic/Go",
-    "Basic/FrontEnd/VUE",
-    "Basic/FrontEnd/A-JS",
-    "Work/DigitalPerson/Z-resources/数字人交互流程图-更新版本-0627-流程图 1.jpg",
+    "Basic/FrontEnd/VUE/计算属性.md",
+    "Basic/FrontEnd/C-HTML",
+    "Work/在 vscode 中不显示一些文件.md",
+    "Work/DigitalPerson/中医院数字人 APP 侧能力接口文档.md",
+    "Work/DigitalPerson/Z-resources/数字人流程图-更新版本-流程图.jpg",
     "Work/DigitalPerson/Z-resources/数字人交互流程图-更新版本-0627-流程图.jpg",
+    "Work/DigitalPerson/Z-resources/数字人交互流程图-更新版本-0627-流程图 1.jpg",
     "Work/DigitalPerson/Z-resources/Pasted image 20250718151940.png",
     "Work/DigitalPerson/Z-resources/Pasted image 20250718151836.png",
     "Work/DigitalPerson/Z-resources/Pasted image 20250718151407.png",
-    "Work/DigitalPerson/Z-resources/数字人流程图-更新版本-流程图.jpg",
     "Work/DigitalPerson/Z-resources",
+    "Basic/Python/Python 中的包和模块.md",
+    "Basic/FrontEnd/使用 vite 启动一个简单的项目.md",
+    "Basic/FrontEnd/B-CSS/Z-resources/Pasted image 20250721190359.png",
+    "Basic/FrontEnd/B-CSS/Z-resources",
+    "Basic/FrontEnd/B-CSS",
+    "Basic/FrontEnd/VUE/未命名.md",
+    "Basic/FrontEnd/Vue - 组件之间如何传递参数.md",
+    "Basic/FrontEnd/如何在 vue 中使用 tailwindcss.md",
+    "Basic/Python/Python 的包和模块.md",
+    "Basic/Python/python 在 import 的时候发生了什么？.md",
+    "Basic/Python/MCP/未命名.md",
+    "Basic/Python/LangChain/LangGraph",
+    "Basic/Python/LangChain",
+    "Basic/FrontEnd/A-JS",
+    "Basic/FrontEnd/VUE",
+    "Basic/Go/dify-plugin",
     "Z-resources/Pasted image 20250714153145.png",
     "Basic/Python/FastAPI/Z-resources/Pasted image 20250710170430.png"
   ]
