@@ -43,6 +43,28 @@ services:
 超级用户登陆
 
 ```
+vsql -U vastbase -d postgres -p 5432
+```
+
+```
+CREATE DATABASE dify_test;
+```
+
+```
+GRANT ALL PRIVILEGES ON DATABASE dify_test TO dify_test;
+```
+
+```
+CREATE DATABASE dify_plugin_test;
+```
+
+```
+GRANT ALL PRIVILEGES ON DATABASE dify_plugin_test TO dify_test;
+```
+
+---
+
+```
 CREATE USER dify_test WITH PASSWORD '!234Qwer' CREATEDB;
 ```
 
@@ -74,7 +96,15 @@ HINT:  Must be system admin to create this extension.
 我们需要使用超级用户身份安装扩展：
 
 ```
-vsql -U vastbase -d dify_test -p 5432
+vsql -U vastbase -d dify_test
+```
+
+```
+GRANT USAGE, CREATE ON SCHEMA public TO dify_test;
+```
+
+```
+vsql -U dify_test -d dify_test -p 5432
 ```
 
 ```
@@ -89,7 +119,15 @@ GRANT EXECUTE ON FUNCTION uuid_generate_v4() TO dify_test;
 另一个数据库
 
 ```
-vsql -U vastbase -d dify_plugin_test -p 5432
+vsql -U vastbase -d dify_plugin_test
+```
+
+```
+GRANT USAGE, CREATE ON SCHEMA public TO dify_test;
+```
+
+```
+vsql -U dify_test -d dify_plugin_test -p 5432
 ```
 
 ```
@@ -553,6 +591,10 @@ REDIS_PASSWORD=ningtang
 
 ```bash
 docker compose -f docker-compose.middleware.yaml -p dify-vast-middleware --env-file ./middleware.env up -d
+```
+
+```shell
+docker compose -f docker-compose.middleware.yaml -p dify-vast-middleware --env-file ./middleware.env down
 ```
 
 查看服务启动情况：
