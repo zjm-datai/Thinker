@@ -21,6 +21,87 @@ if const r = recover(); r != nil {
 
 ### if 语句嵌套
 
+## 语言切片
+
+Go 语言切片是对数组的抽象。
+
+Go 数组的长度不可改变，在特定场景中这样的集合就不太适用，Go 中提供了一种灵活，功能强悍的内置类型切片("动态数组")，与数组相比切片的长度是不固定的，可以追加元素，在追加时可能使切片的容量增大。
+
+### 定义切片
+
+我们可以声明一个未指定大小的数组来定义切片：
+
+```go
+var indentifier []type
+```
+
+切片不需要说明长度。
+
+或使用 **make()** 函数来创建切片:
+
+```go
+var slice1 []type = make([]type, len)
+
+// 也可以简写为
+
+slice1 := make([]type, len)
+```
+
+也可以指定容量，其中 **capacity** 为可选参数。
+
+```go
+make([]T, length, capacity)
+```
+
+这里 len 是数组的长度并且也是切片的初始长度。
+
+## Map 集合
+
+Map 是一种无序的键值对集合，它最重要的一点在于它是通过 key 来快速检索数据的，key 类似于索引，指向数据的值。
+
+Map 是一种集合，所以我们可以像迭代数组和切片那样去迭代它。不过 Map 是无序的，遍历 Map 时返回的键值对的顺序是不确定的。
+
+在获取 Map 的值时，如果键不存在，返回该类型的零值，例如 int 类型的零值是 0，string 类型的零值是 ""。
+
+Map 是引用类型，如果将一个 Map 传递给一个函数或赋值给另一个变量，它们都指向同一个底层数据结构，因此对 Map 的修改会影响到所有引用它的变量。
+
+### 定义 Map
+
+可以使用内建函数 make 或使用 map 关键字来定义 Map ：
+
+```go
+map_variable := make(map[KeyType]ValueType, initialCapacity)
+```
+
+其中 KeyType 是键的类型，ValueType 是值的类型，initialCapacity 是可选的参数，用于指定 Map 的初始容量。Map 的容量是指 Map 中可以保存的键值对的数量，当 Map 中的键值对数量达到容量时，Map 会自动扩容。如果不指定 initialCapacity，Go 语言会根据实际情况选择一个合适的值。
+
+```go
+// 创建一个空的 Map
+m := make(map[string]int)
+
+// 创建一个初始容量为 10 的 Map
+m := make(map[string]int, 10)
+```
+
+也可以使用字面量创建 Map：
+
+```go
+// 使用字面量创建 Map
+m := map[string]int{
+    "apple": 1,
+    "banana": 2,
+    "orange": 3,
+}
+```
+
+删除元素：
+
+```go
+delete(m, "banana")
+```
+
+
+
 ## Go defer 关键字
 
 在 Go 语言里，`defer` 语句的作用是把一个函数调用推迟到当前函数执行结束后再进行。
@@ -137,6 +218,8 @@ func main() {
     wg.Wait()
 }
 ```
+
+
 
 ## Go 语言递归函数
 
@@ -423,7 +506,118 @@ Go 的调度器基于 GMP 模型，调度器会将 Goroutine 分配到系统线�
 
 
 
+## Go 继承
 
+在面向对象编程 OOP 中，继承是一种机制，允许一个类（子类）从另一个类（父类）继承属性和方法。通过继承，子类可以复用父类的代码，并且可以在不修改父类的情况下扩展或修改其行为。
+
+Go 语言并不是一种传统的面向对象编程语言，它没有类和继承的概念。
+
+Go 使用结构体（struct）和接口（interface）来实现类似的功能。
+
+### Go 中的继承
+
+Go 语言没有传统面向对象语言中的类（class）和继承（inheritance）概念，而是通过组合（composition）和接口（interface）来实现类似的功能。
+
+#### 组合
+
+组合是 Go 中实现代码复用的主要方式。通过将一个结构体嵌入到另一个结构体中，子结构体可以继承父结构体的字段和方法。
+
+```go
+package main
+
+import "fmt"
+
+type Animal struct {
+	Name string
+}
+
+func (a *Animal) Speak() {
+	fmt.Println(a.Name, "says hello!")
+}
+
+type Dog struct {
+	Animal // 嵌入 Animal 结构体
+	Breed string
+}
+
+func main() {
+	dog := Dog{
+		Animal: Animal{Name: "Buddy"},
+		Breed: "Golden Retriever",
+	}
+
+	dog.Speak()
+	fmt.Println("Breed:", dog.Breed)
+}
+```
+
+### 接口模拟多态
+
+接口是 GO 中实现多态的主要方式。通过定义接口，不同的结构体可以实现相同的方法，从而实现类似继承的多态行为。
+
+```go
+package main
+
+import "fmt"
+
+// 定义接口
+type Speaker interface {
+    Speak()
+}
+
+// 父结构体
+type Animal struct {
+    Name string
+}
+
+// 实现接口方法
+func (a *Animal) Speak() {
+    fmt.Println(a.Name, "says hello!")
+}
+
+// 子结构体
+type Dog struct {
+    Animal
+    Breed string
+}
+
+// 重写 Speak 方法
+func (d *Dog) Speak() {
+    fmt.Println(d.Name, "the", d.Breed, "barks!")
+}
+
+// 新增子结构体 Cat
+type Cat struct {
+    Animal
+    Color string
+}
+
+// 实现 Cat 的 Speak 方法
+func (c *Cat) Speak() {
+    fmt.Println(c.Name, "the", c.Color, "cat meows!")
+}
+
+func main() {
+    var speaker Speaker
+
+    dog := Dog{
+        Animal: Animal{Name: "Buddy"},
+        Breed:  "Golden Retriever",
+    }
+
+    cat := Cat{
+        Animal: Animal{Name: "Whiskers"},
+        Color:  "Gray",
+    }
+
+    // 通过接口调用不同实现
+    speaker = &dog
+    speaker.Speak() // 输出: Buddy the Golden Retriever barks!
+
+    speaker = &cat
+    speaker.Speak() // 输出: Whiskers the Gray cat meows!
+}
+```
 
 
 
