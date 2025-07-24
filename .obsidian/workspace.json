@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e91ab4a807332432",
+        "id": "a211fe0bf4b173c8",
         "type": "tabs",
         "children": [
           {
-            "id": "86c4504286fa8a0a",
+            "id": "a82dd89a854d8b8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Untitled.md",
-                "mode": "source",
+                "file": "Work/账号密码 - 常用信息.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "账号密码 - 常用信息"
             }
           }
         ]
@@ -33,6 +33,7 @@
       {
         "id": "60471c7ecc61306e",
         "type": "tabs",
+        "dimension": 68.39506172839506,
         "children": [
           {
             "id": "24f97083c4e202ed",
@@ -79,6 +80,7 @@
       {
         "id": "5e27502afa36fdda",
         "type": "tabs",
+        "dimension": 31.604938271604937,
         "children": [
           {
             "id": "b1a04763222ef389",
@@ -104,8 +106,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Untitled.md",
+                "file": "Work/账号密码 - 常用信息.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 账号密码 - 常用信息"
             }
           },
           {
@@ -218,10 +219,14 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "86c4504286fa8a0a",
+  "active": "a82dd89a854d8b8b",
   "lastOpenFiles": [
-    "Work/Dify 开发环境搭建.md",
     "Work/Untitled.md",
+    "Work/Dify 开发环境搭建.md",
+    "Work/大模型资源信息接口文档.md",
+    "Diary/2025/July/2025-07-24.md",
+    "草稿.md",
+    "Work/账号密码 - 常用信息.md",
     "Basic/FrontEnd/A-JS/Untitled.md",
     "Basic/Go/菜鸟教程 - Go.md",
     "Diary/2025/July/2025-07-23.md",
@@ -230,7 +235,6 @@
     "Basic/FrontEnd/A-JS/菜鸟 JS.md",
     "Basic/FrontEnd/A-JS/windows 对象.md",
     "Basic/Python/LangChain/LangGraph/Untitled.md",
-    "Work/账号密码 - 常用信息.md",
     "Work/Git&Linux&Docker/如何进行操作一个镜像.md",
     "Work/DigitalPerson/服务启动和部署.md",
     "Work/DigitalPerson/语音对话 demo 页面.md",
@@ -249,9 +253,6 @@
     "Basic/FrontEnd/B-CSS/Z-resources",
     "Basic/FrontEnd/B-CSS/Untitled.md",
     "Basic/FrontEnd/B-CSS",
-    "Work/在 vscode 中不显示一些文件.md",
-    "Basic/FrontEnd/使用 vite 启动一个简单的项目.md",
-    "Work/Git&Linux&Docker/Git 怎么设置自己提交时候的名字.md",
     "Basic/Python/LangChain/LangGraph",
     "Basic/Python/LangChain",
     "Basic/Go",
