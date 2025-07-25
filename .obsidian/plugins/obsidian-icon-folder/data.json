@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArchive",
+      "LiAmbulance",
       "LiAirplay",
       "LiAsteriskSquare",
-      "LiAperture",
-      "LiAlignStartVertical",
-      "LiAlarmClockCheck"
+      "LiAperture"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,6 @@
   "Basic": "LiAlbum",
   "Diary": "LiAlignStartVertical",
   "Suibi": "LiAsteriskSquare",
-  "Work": "LiAirplay"
+  "Work": "LiAirplay",
+  "Z-resources": "LiArchive"
 }
