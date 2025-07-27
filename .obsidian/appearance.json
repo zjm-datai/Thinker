@@ -1,13 +1,11 @@
 {
-  "cssTheme": "Typora-Vue",
-  "baseFontSize": 16,
-  "textFontFamily": "Inter,微软雅黑",
+  "cssTheme": "Minimal",
+  "baseFontSize": 18,
+  "textFontFamily": "Inter,霞鹜文楷",
   "monospaceFontFamily": "Consolas",
-  "interfaceFontFamily": "Inter",
+  "interfaceFontFamily": "Inter,霞鹜文楷 屏幕阅读版",
   "theme": "moonstone",
   "accentColor": "",
-  "enabledCssSnippets": [
-    "mystyle"
-  ],
+  "enabledCssSnippets": [],
   "showViewHeader": false
 }

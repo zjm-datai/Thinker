@@ -7,6 +7,6 @@ https://github.com/modelcontextprotocol/python-sdk?tab=readme-ov-file#streamable
 
 https://heeki.medium.com/building-an-mcp-server-as-an-api-developer-cfc162d06a83
 
-[[Basic/Python/MCP/未命名]]
+[[Basic/0 - Python/MCP/未命名]]
 
 我感觉就差不多了，又尼玛搞了一个新坑。

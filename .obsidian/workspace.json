@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c25d12fe1cc89463",
+        "id": "da74a4da65d9bc32",
         "type": "tabs",
         "children": [
           {
-            "id": "b389cfb3f32f2fd5",
+            "id": "6e1edd14df1a9231",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/在 vscode 中不显示一些文件.md",
-                "mode": "preview",
+                "file": "Basic/0 - Python/VLLM/Untitled 1.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "在 vscode 中不显示一些文件"
+              "title": "Untitled 1"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "60471c7ecc61306e",
         "type": "tabs",
-        "dimension": 68.39506172839506,
+        "dimension": 70.05649717514125,
         "children": [
           {
             "id": "24f97083c4e202ed",
@@ -42,10 +42,10 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "File explorer"
             }
           },
           {
@@ -54,8 +54,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "计费",
-                "matchingCase": false,
+                "query": "装饰器",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -78,24 +78,12 @@
         ]
       },
       {
-        "id": "5e27502afa36fdda",
+        "id": "0ced1f6f7e707cd1",
         "type": "tabs",
-        "dimension": 31.604938271604937,
+        "dimension": 29.943502824858754,
         "children": [
           {
-            "id": "b1a04763222ef389",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "b9b945d8fac200a3",
+            "id": "028be67495047f3c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -105,12 +93,25 @@
               "icon": "clock",
               "title": "Recent Files"
             }
+          },
+          {
+            "id": "0709fdf32c71fa64",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -126,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/在 vscode 中不显示一些文件.md",
+                "file": "Basic/0 - Python/VLLM/Untitled 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 在 vscode 中不显示一些文件"
+              "title": "Outline of Untitled 1"
             }
           },
           {
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic/Python/FastAPI/Untitled.md",
+                "file": "Basic/0 - Python/VLLM/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Untitled 1"
             }
           },
           {
@@ -180,17 +181,17 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           }
         ]
       },
       {
-        "id": "4b85c7de5d9fc235",
+        "id": "b735b3a7345a34d5",
         "type": "tabs",
         "children": [
           {
-            "id": "d9304cc9fcbea19c",
+            "id": "702cc6caee06f64d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -205,67 +206,67 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 465.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
+      "daily-notes:Open today's note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "open-vscode:VSCode": false
     }
   },
-  "active": "b389cfb3f32f2fd5",
+  "active": "6e1edd14df1a9231",
   "lastOpenFiles": [
-    "Work/账号密码 - 常用信息.md",
-    "Basic/Python/在 Python 中的依赖注入与控制反转.md",
-    "Basic/FrontEnd/A-JS/Untitled 1.md",
-    "Basic/FrontEnd/A-JS/Untitled.md",
-    "Basic/FrontEnd/A-JS/Untitled 2.md",
-    "Basic/FrontEnd/A-JS/菜鸟 JS.md",
-    "Work/Dify 开发环境搭建.md",
-    "LangGraph State.md",
-    "Basic/Python/LangChain/LangGraph/未命名.md",
-    "Basic/Python/LangChain/LangGraph/How to use the graph API.md",
-    "Diary/2025/July/2025-07-23.md",
-    "Diary/2025/July/2025-07-24.md",
-    "Work/Untitled.md",
-    "Work/大模型资源信息接口文档.md",
-    "草稿.md",
-    "Basic/Go/菜鸟教程 - Go.md",
-    "Diary/2025/July/2025-07-22.md",
-    "Basic/Python/default_factory.md",
-    "Basic/FrontEnd/A-JS/windows 对象.md",
-    "Basic/Python/LangChain/LangGraph/Untitled.md",
-    "Work/Git&Linux&Docker/如何进行操作一个镜像.md",
-    "Work/DigitalPerson/服务启动和部署.md",
-    "Work/DigitalPerson/语音对话 demo 页面.md",
-    "Work/DigitalPerson/中医院数字人 APP 侧能力接口文档.md",
-    "Work/Git&Linux&Docker/Linux 中的三种输出流.md",
+    "Basic/0 - Python/VLLM/Untitled.md",
+    "Basic/0 - Python/VLLM/Untitled 1.md",
+    "Basic/0 - Python/VLLM/Untitled",
+    "Basic/0 - Python/VLLM/vllm 的基本架构.md",
+    "Basic/0 - Python/1 - 中级/11 - 面向对象高级/1. 使用 __slots__.md",
+    "Basic/0 - Python/1 - 中级/8 - 函数式编程/函数式编程.md",
+    "Basic/0 - Python/1 - 中级/11 - 面向对象高级",
+    "Basic/0 - Python/1 - 中级/8 - 函数式编程/2.1 闭包.md",
+    "Basic/2 - DataBase/1 - MySQL/4. 数据库事务.md",
+    "Basic/1 - GoLang/1 - 圣经/Untitled",
+    "Basic/2 - DataBase/1 - MySQL/12. 大表如何进行优化？.md",
+    "Basic/2 - DataBase/1 - MySQL/0.md",
+    "Basic/2 - DataBase/1 - MySQL/1. 数据库的三范式是什么？.md",
+    "Basic/2 - DataBase/2 - Redis",
+    "Basic/2 - DataBase/1 - MySQL",
+    "Basic/1 - GoLang/1 - 圣经/7-接口/3. 实现接口的条件.md",
+    "Basic/1 - GoLang/1 - 圣经/7-接口/2. 接口类型.md",
+    "Basic/2 - DataBase",
+    "Basic/FrontEnd/VUE/组件基础.md",
+    "Basic/FrontEnd/VUE/组件事件.md",
     "Basic/FrontEnd/Untitled.md",
+    "Basic/FrontEnd/Vue - 组件之间如何传递参数.md",
+    "Basic/FrontEnd/使用 vite 启动一个简单的项目.md",
+    "Basic/FrontEnd/如何在 vite vue 中加入 shadcn.md",
+    "Basic/FrontEnd/哈希路由的前世今生.md",
+    "Basic/1 - GoLang/1 - 圣经/7-接口/1. 接口约定.md",
+    "Basic/1 - GoLang/1 - 圣经/6-方法/3. 通过嵌入结构体来扩展类型.md",
+    "Basic/1 - GoLang/1 - 圣经/6-方法/Untitled.md",
+    "Basic/1 - GoLang/1 - 圣经/6-方法/2. 基于指针对象的方法.md",
+    "Basic/0 - Python/2 - 高级/单例模式和类变量.md",
+    "Basic/0 - Python/1 - 中级/8 - 函数式编程/2. 返回函数.md",
+    "Basic/0 - Python/1 - 中级/Untitled.md",
+    "Basic/Python/Untitled 2",
+    "Basic/Python/Untitled 1",
+    "Basic/0 - Python/2 - 高级",
+    "Basic/0 - Python/1 - 中级/10 - 面向对象编程",
+    "Basic/FrontEnd/VUE/Z-resources/Pasted image 20250726002039.png",
     "Basic/FrontEnd/C-HTML/Z-resources/Pasted image 20250722003218.png",
-    "Basic/FrontEnd/C-HTML/Z-resources",
-    "Basic/FrontEnd/C-HTML",
-    "Basic/FrontEnd/B-CSS/Z-resources/Pasted image 20250721190359.png",
-    "Basic/FrontEnd/B-CSS/Z-resources",
-    "Basic/FrontEnd/B-CSS",
-    "Basic/Python/LangChain/LangGraph",
-    "Basic/Python/LangChain",
-    "Basic/Go",
-    "Basic/FrontEnd/VUE",
-    "Basic/FrontEnd/A-JS",
-    "Work/DigitalPerson/Z-resources/数字人交互流程图-更新版本-0627-流程图 1.jpg",
+    "Work/DigitalPerson/Z-resources/数字人流程图-更新版本-流程图.jpg",
     "Work/DigitalPerson/Z-resources/数字人交互流程图-更新版本-0627-流程图.jpg",
+    "Work/DigitalPerson/Z-resources/数字人交互流程图-更新版本-0627-流程图 1.jpg",
     "Work/DigitalPerson/Z-resources/Pasted image 20250718151940.png",
     "Work/DigitalPerson/Z-resources/Pasted image 20250718151836.png",
     "Work/DigitalPerson/Z-resources/Pasted image 20250718151407.png",
-    "Work/DigitalPerson/Z-resources/数字人流程图-更新版本-流程图.jpg",
-    "Work/DigitalPerson/Z-resources",
-    "Z-resources/Pasted image 20250714153145.png",
-    "Basic/Python/FastAPI/Z-resources/Pasted image 20250710170430.png"
+    "Basic/FrontEnd/B-CSS/Z-resources/Pasted image 20250721190359.png",
+    "Z-resources/Pasted image 20250714153145.png"
   ]
 }
