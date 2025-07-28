@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "websocket 和 tts"
             }
-          },
-          {
-            "id": "771f11460e4a17aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic/0 - Python/LAgent/decorate&Tool.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "decorate&Tool"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -142,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic/0 - Python/LAgent/decorate&Tool.md",
+                "file": "Basic/0 - Python/2 - 高级/websocket 和 tts.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of decorate&Tool"
+              "title": "Outline of websocket 和 tts"
             }
           },
           {
@@ -235,10 +221,10 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "771f11460e4a17aa",
+  "active": "ededeebf3071b6fa",
   "lastOpenFiles": [
-    "Basic/0 - Python/2 - 高级/websocket 和 tts.md",
     "Basic/0 - Python/LAgent/decorate&Tool.md",
+    "Basic/0 - Python/2 - 高级/websocket 和 tts.md",
     "Diary/2025/July/2025-07-28.md",
     "Basic/0 - Python/2 - 高级/单例模式和类变量.md",
     "Work/DigitalPerson/语音对话 demo 页面.md",
