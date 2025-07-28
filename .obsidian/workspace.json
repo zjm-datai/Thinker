@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "websocket 和 tts"
             }
+          },
+          {
+            "id": "771f11460e4a17aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic/0 - Python/LAgent/decorate&Tool.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "decorate&Tool"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -45,7 +60,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "File explorer"
             }
           },
           {
@@ -80,7 +95,7 @@
       {
         "id": "5e27502afa36fdda",
         "type": "tabs",
-        "dimension": 25.773195876288657,
+        "dimension": 25.773195876288653,
         "children": [
           {
             "id": "b1a04763222ef389",
@@ -111,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 384.5
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -127,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic/0 - Python/2 - 高级/websocket 和 tts.md",
+                "file": "Basic/0 - Python/LAgent/decorate&Tool.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of websocket 和 tts"
+              "title": "Outline of decorate&Tool"
             }
           },
           {
@@ -206,24 +221,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 480.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "open-vscode:VSCode": false
     }
   },
-  "active": "ededeebf3071b6fa",
+  "active": "771f11460e4a17aa",
   "lastOpenFiles": [
-    "Basic/0 - Python/2 - 高级/单例模式和类变量.md",
     "Basic/0 - Python/2 - 高级/websocket 和 tts.md",
+    "Basic/0 - Python/LAgent/decorate&Tool.md",
+    "Diary/2025/July/2025-07-28.md",
+    "Basic/0 - Python/2 - 高级/单例模式和类变量.md",
     "Work/DigitalPerson/语音对话 demo 页面.md",
     "Work/DigitalPerson/服务启动和部署.md",
     "Work/DigitalPerson/中医院数字人 APP 侧能力接口文档.md",
@@ -242,14 +259,12 @@
     "草稿.md",
     "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/0.md",
     "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels",
-    "Diary/2025/July/2025-07-28.md",
     "Basic/1 - GoLang/1 - 圣经/7-接口/10. 类型断言.md",
     "Basic/1 - GoLang/1 - 圣经/Untitled",
     "Work/Git&Linux&Docker/系统架构和 docker 镜像.md",
     "Work/Dify 开发环境搭建.md",
     "Work/Git&Linux&Docker/如何查看系统架构.md",
     "Work/Git&Linux&Docker/如何进行操作一个镜像.md",
-    "Basic/0 - Python/LAgent/decorate&Tool.md",
     "Basic/FrontEnd/A-JS/windows 对象.md",
     "Basic/FrontEnd/A-JS/Untitled 2.md",
     "Basic/FrontEnd/A-JS/Untitled 1.md",
