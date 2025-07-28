@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "da74a4da65d9bc32",
+        "id": "ff646f5694d9dfad",
         "type": "tabs",
         "children": [
           {
-            "id": "6e1edd14df1a9231",
+            "id": "ededeebf3071b6fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic/0 - Python/VLLM/Untitled 1.md",
+                "file": "Basic/0 - Python/2 - 高级/websocket 和 tts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "websocket 和 tts"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "60471c7ecc61306e",
         "type": "tabs",
-        "dimension": 70.05649717514125,
+        "dimension": 74.22680412371135,
         "children": [
           {
             "id": "24f97083c4e202ed",
@@ -42,10 +42,10 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "File explorer"
+              "title": "Files"
             }
           },
           {
@@ -54,8 +54,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "装饰器",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -78,12 +78,24 @@
         ]
       },
       {
-        "id": "0ced1f6f7e707cd1",
+        "id": "5e27502afa36fdda",
         "type": "tabs",
-        "dimension": 29.943502824858754,
+        "dimension": 25.773195876288657,
         "children": [
           {
-            "id": "028be67495047f3c",
+            "id": "b1a04763222ef389",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b9b945d8fac200a3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -93,25 +105,13 @@
               "icon": "clock",
               "title": "Recent Files"
             }
-          },
-          {
-            "id": "0709fdf32c71fa64",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic/0 - Python/VLLM/Untitled 1.md",
-                "followCursor": false,
+                "file": "Basic/0 - Python/2 - 高级/websocket 和 tts.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of websocket 和 tts"
             }
           },
           {
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic/0 - Python/VLLM/Untitled 1.md",
+                "file": "Basic/Python/FastAPI/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 1"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -181,17 +181,17 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           }
         ]
       },
       {
-        "id": "b735b3a7345a34d5",
+        "id": "4b85c7de5d9fc235",
         "type": "tabs",
         "children": [
           {
-            "id": "702cc6caee06f64d",
+            "id": "d9304cc9fcbea19c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -206,67 +206,67 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.5
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's note": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "open-vscode:VSCode": false
     }
   },
-  "active": "6e1edd14df1a9231",
+  "active": "ededeebf3071b6fa",
   "lastOpenFiles": [
-    "Basic/0 - Python/VLLM/Untitled.md",
-    "Basic/0 - Python/VLLM/Untitled 1.md",
-    "Basic/0 - Python/VLLM/Untitled",
-    "Basic/0 - Python/VLLM/vllm 的基本架构.md",
-    "Basic/0 - Python/1 - 中级/11 - 面向对象高级/1. 使用 __slots__.md",
-    "Basic/0 - Python/1 - 中级/8 - 函数式编程/函数式编程.md",
-    "Basic/0 - Python/1 - 中级/11 - 面向对象高级",
-    "Basic/0 - Python/1 - 中级/8 - 函数式编程/2.1 闭包.md",
-    "Basic/2 - DataBase/1 - MySQL/4. 数据库事务.md",
-    "Basic/1 - GoLang/1 - 圣经/Untitled",
-    "Basic/2 - DataBase/1 - MySQL/12. 大表如何进行优化？.md",
-    "Basic/2 - DataBase/1 - MySQL/0.md",
-    "Basic/2 - DataBase/1 - MySQL/1. 数据库的三范式是什么？.md",
-    "Basic/2 - DataBase/2 - Redis",
-    "Basic/2 - DataBase/1 - MySQL",
-    "Basic/1 - GoLang/1 - 圣经/7-接口/3. 实现接口的条件.md",
-    "Basic/1 - GoLang/1 - 圣经/7-接口/2. 接口类型.md",
-    "Basic/2 - DataBase",
-    "Basic/FrontEnd/VUE/组件基础.md",
-    "Basic/FrontEnd/VUE/组件事件.md",
-    "Basic/FrontEnd/Untitled.md",
-    "Basic/FrontEnd/Vue - 组件之间如何传递参数.md",
-    "Basic/FrontEnd/使用 vite 启动一个简单的项目.md",
-    "Basic/FrontEnd/如何在 vite vue 中加入 shadcn.md",
-    "Basic/FrontEnd/哈希路由的前世今生.md",
-    "Basic/1 - GoLang/1 - 圣经/7-接口/1. 接口约定.md",
-    "Basic/1 - GoLang/1 - 圣经/6-方法/3. 通过嵌入结构体来扩展类型.md",
-    "Basic/1 - GoLang/1 - 圣经/6-方法/Untitled.md",
-    "Basic/1 - GoLang/1 - 圣经/6-方法/2. 基于指针对象的方法.md",
     "Basic/0 - Python/2 - 高级/单例模式和类变量.md",
-    "Basic/0 - Python/1 - 中级/8 - 函数式编程/2. 返回函数.md",
-    "Basic/0 - Python/1 - 中级/Untitled.md",
-    "Basic/Python/Untitled 2",
-    "Basic/Python/Untitled 1",
-    "Basic/0 - Python/2 - 高级",
-    "Basic/0 - Python/1 - 中级/10 - 面向对象编程",
+    "Basic/0 - Python/2 - 高级/websocket 和 tts.md",
+    "Work/DigitalPerson/语音对话 demo 页面.md",
+    "Work/DigitalPerson/服务启动和部署.md",
+    "Work/DigitalPerson/中医院数字人 APP 侧能力接口文档.md",
+    "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/1 - Goroutines.md",
+    "Work/账号密码 - 常用信息.md",
+    "Work/人工智能超市/生产环境 mq2data 部署.md",
+    "Work/人工智能超市/消息队列日志入库.md",
+    "Work/人工智能超市/APISIX 第三方鉴权.md",
+    "Work/人工智能超市/Z-resources/Pasted image 20250728163739.png",
+    "Work/人工智能超市/Z-resources/Pasted image 20250728163550.png",
+    "Work/人工智能超市/Z-resources/Pasted image 20250728162551.png",
+    "Work/人工智能超市/Z-resources",
+    "Work/人工智能超市/计费表表结构.md",
+    "Work/人工智能超市/统一大模型入口插件.md",
+    "Work/大模型资源信息接口文档.md",
+    "草稿.md",
+    "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/0.md",
+    "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels",
+    "Diary/2025/July/2025-07-28.md",
+    "Basic/1 - GoLang/1 - 圣经/7-接口/10. 类型断言.md",
+    "Basic/1 - GoLang/1 - 圣经/Untitled",
+    "Work/Git&Linux&Docker/系统架构和 docker 镜像.md",
+    "Work/Dify 开发环境搭建.md",
+    "Work/Git&Linux&Docker/如何查看系统架构.md",
+    "Work/Git&Linux&Docker/如何进行操作一个镜像.md",
+    "Basic/0 - Python/LAgent/decorate&Tool.md",
+    "Basic/FrontEnd/A-JS/windows 对象.md",
+    "Basic/FrontEnd/A-JS/Untitled 2.md",
+    "Basic/FrontEnd/A-JS/Untitled 1.md",
+    "Basic/FrontEnd/A-JS/Untitled.md",
     "Basic/FrontEnd/VUE/Z-resources/Pasted image 20250726002039.png",
-    "Basic/FrontEnd/C-HTML/Z-resources/Pasted image 20250722003218.png",
-    "Work/DigitalPerson/Z-resources/数字人流程图-更新版本-流程图.jpg",
-    "Work/DigitalPerson/Z-resources/数字人交互流程图-更新版本-0627-流程图.jpg",
-    "Work/DigitalPerson/Z-resources/数字人交互流程图-更新版本-0627-流程图 1.jpg",
-    "Work/DigitalPerson/Z-resources/Pasted image 20250718151940.png",
-    "Work/DigitalPerson/Z-resources/Pasted image 20250718151836.png",
-    "Work/DigitalPerson/Z-resources/Pasted image 20250718151407.png",
-    "Basic/FrontEnd/B-CSS/Z-resources/Pasted image 20250721190359.png",
-    "Z-resources/Pasted image 20250714153145.png"
+    "Basic/FrontEnd/VUE/Z-resources",
+    "Basic/2 - DataBase/1 - MySQL",
+    "Basic/2 - DataBase",
+    "Basic/1 - GoLang/1 - 圣经/1-入门",
+    "Basic/1 - GoLang/1 - 圣经/7-接口",
+    "Basic/1 - GoLang/1 - 圣经/4-复合数据结构",
+    "Basic/1 - GoLang/1 - 圣经/6-方法",
+    "Basic/0 - Python/FastAPI/Z-resources/Pasted image 20250710170211.png",
+    "Basic/0 - Python/FastAPI/Z-resources/Pasted image 20250710170430.png",
+    "Basic/0 - Python/FastAPI/Z-resources/Pasted image 20250710165909.png",
+    "Basic/0 - Python/FastAPI/Z-resources/Pasted image 20250710165826.png",
+    "Basic/0 - Python/FastAPI/Z-resources/Pasted image 20250710165757.png",
+    "Basic/0 - Python/FastAPI/Z-resources/Pasted image 20250710165052.png"
   ]
 }

@@ -1,204 +1,176 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled 1",
-      "path": "Basic/0 - Python/VLLM/Untitled 1.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Basic/0 - Python/VLLM/Untitled.md"
-    },
-    {
-      "basename": "vllm 的基本架构",
-      "path": "Basic/0 - Python/VLLM/vllm 的基本架构.md"
-    },
-    {
-      "basename": "1. 使用 __slots__",
-      "path": "Basic/0 - Python/1 - 中级/11 - 面向对象高级/1. 使用 __slots__.md"
-    },
-    {
-      "basename": "函数式编程",
-      "path": "Basic/0 - Python/1 - 中级/8 - 函数式编程/函数式编程.md"
-    },
-    {
-      "basename": "2.1 闭包",
-      "path": "Basic/0 - Python/1 - 中级/8 - 函数式编程/2.1 闭包.md"
-    },
-    {
-      "basename": "4. 数据库事务",
-      "path": "Basic/2 - DataBase/1 - MySQL/4. 数据库事务.md"
-    },
-    {
-      "basename": "12. 大表如何进行优化？",
-      "path": "Basic/2 - DataBase/1 - MySQL/12. 大表如何进行优化？.md"
-    },
-    {
-      "basename": "0",
-      "path": "Basic/2 - DataBase/1 - MySQL/0.md"
-    },
-    {
-      "basename": "1. 数据库的三范式是什么？",
-      "path": "Basic/2 - DataBase/1 - MySQL/1. 数据库的三范式是什么？.md"
-    },
-    {
-      "basename": "3. 实现接口的条件",
-      "path": "Basic/1 - GoLang/1 - 圣经/7-接口/3. 实现接口的条件.md"
-    },
-    {
-      "basename": "2. 接口类型",
-      "path": "Basic/1 - GoLang/1 - 圣经/7-接口/2. 接口类型.md"
-    },
-    {
-      "basename": "组件基础",
-      "path": "Basic/FrontEnd/VUE/组件基础.md"
-    },
-    {
-      "basename": "组件事件",
-      "path": "Basic/FrontEnd/VUE/组件事件.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Basic/FrontEnd/Untitled.md"
-    },
-    {
-      "basename": "使用 vite 启动一个简单的项目",
-      "path": "Basic/FrontEnd/使用 vite 启动一个简单的项目.md"
-    },
-    {
-      "basename": "如何在 vite vue 中加入 shadcn",
-      "path": "Basic/FrontEnd/如何在 vite vue 中加入 shadcn.md"
-    },
-    {
-      "basename": "哈希路由的前世今生",
-      "path": "Basic/FrontEnd/哈希路由的前世今生.md"
-    },
-    {
-      "basename": "1. 接口约定",
-      "path": "Basic/1 - GoLang/1 - 圣经/7-接口/1. 接口约定.md"
-    },
-    {
-      "basename": "3. 通过嵌入结构体来扩展类型",
-      "path": "Basic/1 - GoLang/1 - 圣经/6-方法/3. 通过嵌入结构体来扩展类型.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Basic/1 - GoLang/1 - 圣经/6-方法/Untitled.md"
-    },
-    {
-      "basename": "2. 基于指针对象的方法",
-      "path": "Basic/1 - GoLang/1 - 圣经/6-方法/2. 基于指针对象的方法.md"
+      "basename": "websocket 和 tts",
+      "path": "Basic/0 - Python/2 - 高级/websocket 和 tts.md"
     },
     {
       "basename": "单例模式和类变量",
       "path": "Basic/0 - Python/2 - 高级/单例模式和类变量.md"
     },
     {
-      "basename": "2. 返回函数",
-      "path": "Basic/0 - Python/1 - 中级/8 - 函数式编程/2. 返回函数.md"
+      "basename": "语音对话 demo 页面",
+      "path": "Work/DigitalPerson/语音对话 demo 页面.md"
+    },
+    {
+      "basename": "服务启动和部署",
+      "path": "Work/DigitalPerson/服务启动和部署.md"
+    },
+    {
+      "basename": "中医院数字人 APP 侧能力接口文档",
+      "path": "Work/DigitalPerson/中医院数字人 APP 侧能力接口文档.md"
+    },
+    {
+      "basename": "1 - Goroutines",
+      "path": "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/1 - Goroutines.md"
+    },
+    {
+      "basename": "账号密码 - 常用信息",
+      "path": "Work/账号密码 - 常用信息.md"
+    },
+    {
+      "basename": "生产环境 mq2data 部署",
+      "path": "Work/人工智能超市/生产环境 mq2data 部署.md"
+    },
+    {
+      "basename": "消息队列日志入库",
+      "path": "Work/人工智能超市/消息队列日志入库.md"
+    },
+    {
+      "basename": "APISIX 第三方鉴权",
+      "path": "Work/人工智能超市/APISIX 第三方鉴权.md"
+    },
+    {
+      "basename": "计费表表结构",
+      "path": "Work/人工智能超市/计费表表结构.md"
+    },
+    {
+      "basename": "统一大模型入口插件",
+      "path": "Work/人工智能超市/统一大模型入口插件.md"
+    },
+    {
+      "basename": "大模型资源信息接口文档",
+      "path": "Work/大模型资源信息接口文档.md"
+    },
+    {
+      "basename": "草稿",
+      "path": "草稿.md"
+    },
+    {
+      "basename": "0",
+      "path": "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/0.md"
+    },
+    {
+      "basename": "2025-07-28",
+      "path": "Diary/2025/July/2025-07-28.md"
+    },
+    {
+      "basename": "10. 类型断言",
+      "path": "Basic/1 - GoLang/1 - 圣经/7-接口/10. 类型断言.md"
+    },
+    {
+      "basename": "系统架构和 docker 镜像",
+      "path": "Work/Git&Linux&Docker/系统架构和 docker 镜像.md"
+    },
+    {
+      "basename": "Dify 开发环境搭建",
+      "path": "Work/Dify 开发环境搭建.md"
+    },
+    {
+      "basename": "如何查看系统架构",
+      "path": "Work/Git&Linux&Docker/如何查看系统架构.md"
+    },
+    {
+      "basename": "如何进行操作一个镜像",
+      "path": "Work/Git&Linux&Docker/如何进行操作一个镜像.md"
+    },
+    {
+      "basename": "decorate&Tool",
+      "path": "Basic/0 - Python/LAgent/decorate&Tool.md"
+    },
+    {
+      "basename": "windows 对象",
+      "path": "Basic/FrontEnd/A-JS/windows 对象.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "Basic/FrontEnd/A-JS/Untitled 2.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Basic/FrontEnd/A-JS/Untitled 1.md"
     },
     {
       "basename": "Untitled",
-      "path": "Basic/0 - Python/1 - 中级/Untitled.md"
+      "path": "Basic/FrontEnd/A-JS/Untitled.md"
     },
     {
-      "basename": "5. 实例属性和类属性",
-      "path": "Basic/0 - Python/1 - 中级/10 - 面向对象编程/5. 实例属性和类属性.md"
-    },
-    {
-      "basename": "1. 类和实例",
-      "path": "Basic/0 - Python/1 - 中级/10 - 面向对象编程/1. 类和实例.md"
-    },
-    {
-      "basename": "2. 访问限制",
-      "path": "Basic/0 - Python/1 - 中级/10 - 面向对象编程/2. 访问限制.md"
-    },
-    {
-      "basename": "dict.copy()",
-      "path": "Basic/0 - Python/dict.copy().md"
-    },
-    {
-      "basename": "GIL 锁大揭秘",
-      "path": "Basic/0 - Python/GIL 锁大揭秘.md"
-    },
-    {
-      "basename": "AsyncSession",
-      "path": "Basic/0 - Python/AsyncSession.md"
-    },
-    {
-      "basename": "A-菜鸟教程-Python",
-      "path": "Basic/0 - Python/A-菜鸟教程-Python.md"
-    },
-    {
-      "basename": "在 Python 中的依赖注入与控制反转",
-      "path": "Basic/0 - Python/在 Python 中的依赖注入与控制反转.md"
-    },
-    {
-      "basename": "contextvars",
-      "path": "Basic/0 - Python/contextvars.md"
-    },
-    {
-      "basename": "uv 中添加加速镜像",
-      "path": "Basic/0 - Python/uv 中添加加速镜像.md"
-    },
-    {
-      "basename": "Python 中的包和模块",
-      "path": "Basic/0 - Python/Python 中的包和模块.md"
-    },
-    {
-      "basename": "python 在 import 的时候发生了什么？",
-      "path": "Basic/0 - Python/python 在 import 的时候发生了什么？.md"
-    },
-    {
-      "basename": "Python 的 contextvars",
-      "path": "Basic/0 - Python/Python 的 contextvars.md"
-    },
-    {
-      "basename": "Prompt Caching",
-      "path": "Basic/0 - Python/Prompt Caching.md"
-    },
-    {
-      "basename": "default_factory",
-      "path": "Basic/0 - Python/default_factory.md"
-    },
-    {
-      "basename": "1. 方法声明",
-      "path": "Basic/1 - GoLang/1 - 圣经/6-方法/1. 方法声明.md"
-    },
-    {
-      "basename": "4. 结构体",
-      "path": "Basic/1 - GoLang/1 - 圣经/4-复合数据结构/4. 结构体.md"
-    },
-    {
-      "basename": "0. 复合数据类型",
-      "path": "Basic/1 - GoLang/1 - 圣经/4-复合数据结构/0. 复合数据类型.md"
-    },
-    {
-      "basename": "0. 接口",
-      "path": "Basic/1 - GoLang/1 - 圣经/7-接口/0. 接口.md"
-    },
-    {
-      "basename": "02-遵守 PEP8 风格指南",
-      "path": "Basic/0 - Python/EffectivePython/1-Pythonic-Thinking/02-遵守 PEP8 风格指南.md"
+      "basename": "在 vscode 中不显示一些文件",
+      "path": "Work/在 vscode 中不显示一些文件.md"
     },
     {
       "basename": "菜鸟 JS",
       "path": "Basic/FrontEnd/A-JS/菜鸟 JS.md"
     },
     {
-      "basename": "01-知道你的 python 版本",
-      "path": "Basic/0 - Python/EffectivePython/1-Pythonic-Thinking/01-知道你的 python 版本.md"
+      "basename": "2025-07-23",
+      "path": "Diary/2025/July/2025-07-23.md"
     },
     {
-      "basename": "0",
-      "path": "Basic/0 - Python/EffectivePython/1-Pythonic-Thinking/0.md"
+      "basename": "2025-07-24",
+      "path": "Diary/2025/July/2025-07-24.md"
     },
     {
-      "basename": "0-Prefix",
-      "path": "Basic/0 - Python/EffectivePython/0-Prefix.md"
+      "basename": "Untitled",
+      "path": "Work/Untitled.md"
     },
     {
-      "basename": "会议室二和多数元素",
-      "path": "Basic/会议室二和多数元素.md"
+      "basename": "2025-07-20",
+      "path": "Diary/2025/July/2025-07-20.md"
+    },
+    {
+      "basename": "2025-07-17",
+      "path": "Diary/2025/July/2025-07-17.md"
+    },
+    {
+      "basename": "2025-07-15",
+      "path": "Diary/2025/July/2025-07-15.md"
+    },
+    {
+      "basename": "2025-07-16",
+      "path": "Diary/2025/July/2025-07-16.md"
+    },
+    {
+      "basename": "2025-07-14",
+      "path": "Diary/2025/July/2025-07-14.md"
+    },
+    {
+      "basename": "2025-07-11",
+      "path": "Diary/2025/July/2025-07-11.md"
+    },
+    {
+      "basename": "2025-07-13",
+      "path": "Diary/2025/July/2025-07-13.md"
+    },
+    {
+      "basename": "2025-07-09",
+      "path": "Diary/2025/July/2025-07-09.md"
+    },
+    {
+      "basename": "2025-07-12",
+      "path": "Diary/2025/July/2025-07-12.md"
+    },
+    {
+      "basename": "2025-07-21",
+      "path": "Diary/2025/July/2025-07-21.md"
+    },
+    {
+      "basename": "0 July",
+      "path": "Diary/2025/July/0 July.md"
+    },
+    {
+      "basename": "2025-07-22",
+      "path": "Diary/2025/July/2025-07-22.md"
     }
   ],
   "omittedPaths": [],

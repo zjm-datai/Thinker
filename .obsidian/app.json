@@ -15,6 +15,6 @@
   },
   "livePreview": true,
   "defaultViewMode": "preview",
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "readableLineLength": true
 }
