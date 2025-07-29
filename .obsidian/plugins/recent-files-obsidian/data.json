@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "lua 脚本是怎么使用的",
+      "path": "Basic/lua 脚本是怎么使用的.md"
+    },
+    {
+      "basename": "多线程打印",
+      "path": "Basic/多线程打印.md"
+    },
+    {
+      "basename": "统一大模型入口插件",
+      "path": "Work/人工智能超市/统一大模型入口插件.md"
+    },
+    {
+      "basename": "生产环境 mq2data 部署",
+      "path": "Work/人工智能超市/生产环境 mq2data 部署.md"
+    },
+    {
       "basename": "Restore IP Addresses",
       "path": "Basic/Restore IP Addresses.md"
+    },
+    {
+      "basename": "3. 示例：并发的 Echo 服务",
+      "path": "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/3. 示例：并发的 Echo 服务.md"
+    },
+    {
+      "basename": "2. 示例：并发的 Clock 服务",
+      "path": "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/2. 示例：并发的 Clock 服务.md"
+    },
+    {
+      "basename": "1 - Goroutines",
+      "path": "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/1 - Goroutines.md"
     },
     {
       "basename": "meituan",
@@ -69,16 +97,8 @@
       "path": "Work/DigitalPerson/中医院数字人 APP 侧能力接口文档.md"
     },
     {
-      "basename": "1 - Goroutines",
-      "path": "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/1 - Goroutines.md"
-    },
-    {
       "basename": "账号密码 - 常用信息",
       "path": "Work/账号密码 - 常用信息.md"
-    },
-    {
-      "basename": "生产环境 mq2data 部署",
-      "path": "Work/人工智能超市/生产环境 mq2data 部署.md"
     },
     {
       "basename": "消息队列日志入库",
@@ -91,10 +111,6 @@
     {
       "basename": "计费表表结构",
       "path": "Work/人工智能超市/计费表表结构.md"
-    },
-    {
-      "basename": "统一大模型入口插件",
-      "path": "Work/人工智能超市/统一大模型入口插件.md"
     },
     {
       "basename": "大模型资源信息接口文档",
@@ -183,22 +199,6 @@
     {
       "basename": "2025-07-14",
       "path": "Diary/2025/July/2025-07-14.md"
-    },
-    {
-      "basename": "2025-07-11",
-      "path": "Diary/2025/July/2025-07-11.md"
-    },
-    {
-      "basename": "2025-07-13",
-      "path": "Diary/2025/July/2025-07-13.md"
-    },
-    {
-      "basename": "2025-07-09",
-      "path": "Diary/2025/July/2025-07-09.md"
-    },
-    {
-      "basename": "2025-07-12",
-      "path": "Diary/2025/July/2025-07-12.md"
     }
   ],
   "omittedPaths": [],

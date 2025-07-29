@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "61c129221785aeca",
+        "id": "6e54e37c99f458bd",
         "type": "tabs",
         "children": [
           {
-            "id": "bd6d2b9a5eba42ba",
+            "id": "176c5b14476ffff9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Basic/lua 脚本是怎么使用的.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "lua 脚本是怎么使用的"
             }
           }
         ]
@@ -29,7 +33,7 @@
       {
         "id": "60471c7ecc61306e",
         "type": "tabs",
-        "dimension": 49.61340206185567,
+        "dimension": 74.22680412371135,
         "children": [
           {
             "id": "24f97083c4e202ed",
@@ -41,7 +45,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "File explorer"
             }
           },
           {
@@ -76,7 +80,7 @@
       {
         "id": "5e27502afa36fdda",
         "type": "tabs",
-        "dimension": 50.38659793814433,
+        "dimension": 25.773195876288653,
         "children": [
           {
             "id": "b1a04763222ef389",
@@ -101,25 +105,14 @@
               "icon": "clock",
               "title": "Recent Files"
             }
-          },
-          {
-            "id": "d9304cc9fcbea19c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "pinned": true,
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 384.5,
+    "collapsed": true
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -135,12 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Basic/lua 脚本是怎么使用的.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of lua 脚本是怎么使用的"
             }
           },
           {
@@ -192,57 +186,75 @@
             }
           }
         ]
+      },
+      {
+        "id": "4b85c7de5d9fc235",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9304cc9fcbea19c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 480.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "open-vscode:VSCode": false
     }
   },
-  "active": "bd6d2b9a5eba42ba",
+  "active": "176c5b14476ffff9",
   "lastOpenFiles": [
+    "Basic/多线程打印.md",
+    "Work/人工智能超市/统一大模型入口插件.md",
+    "Work/人工智能超市/生产环境 mq2data 部署.md",
+    "Basic/lua 脚本是怎么使用的.md",
     "Basic/Restore IP Addresses.md",
+    "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/3. 示例：并发的 Echo 服务.md",
+    "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/2. 示例：并发的 Clock 服务.md",
+    "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/1 - Goroutines.md",
+    "Basic/0 - Python/2 - 高级/websocket 和 tts.md",
+    "Work/DigitalPerson/流式输出音频.md",
     "Basic/Mock&Test/meituan.md",
+    "Basic/Mock&Test",
+    "Basic/FrontEnd/B-CSS/居中.md",
+    "Basic/2 - DataBase/Optimistic Lock.md",
     "Basic/2 - DataBase/How is a Globally Unique ID (GUID) implemented.md",
     "Basic/0 - Python/单精度和双精度有什么区别.md",
-    "Work/DigitalPerson/流式输出音频.md",
-    "Work/DigitalPerson/服务启动和部署.md",
-    "Work/DigitalPerson/语音对话 demo 页面.md",
-    "Basic/2 - DataBase/Optimistic Lock.md",
-    "Basic/FrontEnd/B-CSS/居中.md",
-    "Basic/会议室二和多数元素.md",
     "Basic/0 - Python/How is non-blocking response implemented and what dependencies need to be introduced.md",
     "Basic/0 - Python/How does function calling  parse the user's intention.md",
-    "Basic/Mock&Test",
-    "Basic/0 - Python/2 - 高级/websocket 和 tts.md",
+    "Basic/0 - Python/LAgent/decorate&Tool.md",
+    "Diary/2025/July/2025-07-28.md",
     "Basic/0 - Python/2 - 高级/单例模式和类变量.md",
+    "Work/DigitalPerson/语音对话 demo 页面.md",
+    "Work/DigitalPerson/服务启动和部署.md",
     "Work/DigitalPerson/中医院数字人 APP 侧能力接口文档.md",
-    "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/1 - Goroutines.md",
     "Work/账号密码 - 常用信息.md",
-    "Work/人工智能超市/生产环境 mq2data 部署.md",
     "Work/人工智能超市/消息队列日志入库.md",
     "Work/人工智能超市/APISIX 第三方鉴权.md",
     "Work/人工智能超市/Z-resources/Pasted image 20250728163739.png",
     "Work/人工智能超市/Z-resources/Pasted image 20250728163550.png",
     "Work/人工智能超市/Z-resources/Pasted image 20250728162551.png",
     "Work/人工智能超市/Z-resources",
-    "Work/人工智能超市/计费表表结构.md",
-    "Work/人工智能超市/统一大模型入口插件.md",
-    "Work/大模型资源信息接口文档.md",
-    "草稿.md",
-    "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/0.md",
     "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels",
-    "Diary/2025/July/2025-07-28.md",
     "Basic/1 - GoLang/1 - 圣经/Untitled",
     "Basic/FrontEnd/VUE/Z-resources/Pasted image 20250726002039.png",
     "Basic/FrontEnd/VUE/Z-resources",
