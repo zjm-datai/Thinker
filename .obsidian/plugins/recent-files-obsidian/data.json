@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "Restore IP Addresses",
+      "path": "Basic/Restore IP Addresses.md"
+    },
+    {
+      "basename": "meituan",
+      "path": "Basic/Mock&Test/meituan.md"
+    },
+    {
+      "basename": "How is a Globally Unique ID (GUID) implemented",
+      "path": "Basic/2 - DataBase/How is a Globally Unique ID (GUID) implemented.md"
+    },
+    {
+      "basename": "单精度和双精度有什么区别",
+      "path": "Basic/0 - Python/单精度和双精度有什么区别.md"
+    },
+    {
+      "basename": "流式输出音频",
+      "path": "Work/DigitalPerson/流式输出音频.md"
+    },
+    {
+      "basename": "服务启动和部署",
+      "path": "Work/DigitalPerson/服务启动和部署.md"
+    },
+    {
+      "basename": "语音对话 demo 页面",
+      "path": "Work/DigitalPerson/语音对话 demo 页面.md"
+    },
+    {
+      "basename": "Optimistic Lock",
+      "path": "Basic/2 - DataBase/Optimistic Lock.md"
+    },
+    {
+      "basename": "居中",
+      "path": "Basic/FrontEnd/B-CSS/居中.md"
+    },
+    {
+      "basename": "会议室二和多数元素",
+      "path": "Basic/会议室二和多数元素.md"
+    },
+    {
+      "basename": "How is non-blocking response implemented and what dependencies need to be introduced",
+      "path": "Basic/0 - Python/How is non-blocking response implemented and what dependencies need to be introduced.md"
+    },
+    {
+      "basename": "How does function calling  parse the user's intention",
+      "path": "Basic/0 - Python/How does function calling  parse the user's intention.md"
+    },
+    {
       "basename": "websocket 和 tts",
       "path": "Basic/0 - Python/2 - 高级/websocket 和 tts.md"
     },
@@ -15,14 +63,6 @@
     {
       "basename": "单例模式和类变量",
       "path": "Basic/0 - Python/2 - 高级/单例模式和类变量.md"
-    },
-    {
-      "basename": "语音对话 demo 页面",
-      "path": "Work/DigitalPerson/语音对话 demo 页面.md"
-    },
-    {
-      "basename": "服务启动和部署",
-      "path": "Work/DigitalPerson/服务启动和部署.md"
     },
     {
       "basename": "中医院数字人 APP 侧能力接口文档",
@@ -159,18 +199,6 @@
     {
       "basename": "2025-07-12",
       "path": "Diary/2025/July/2025-07-12.md"
-    },
-    {
-      "basename": "2025-07-21",
-      "path": "Diary/2025/July/2025-07-21.md"
-    },
-    {
-      "basename": "0 July",
-      "path": "Diary/2025/July/0 July.md"
-    },
-    {
-      "basename": "2025-07-22",
-      "path": "Diary/2025/July/2025-07-22.md"
     }
   ],
   "omittedPaths": [],

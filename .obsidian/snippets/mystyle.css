@@ -1,0 +1,15 @@
+/* ========== 编辑视图：去除内联代码背景 ========== */
+/* CodeMirror 视图里内联代码的 class 是 cm-inline-code */
+.cm-s-obsidian .cm-inline-code {
+  background-color: transparent !important;
+  padding: 0 !important;           /* 可选：去掉多余内边距 */
+  border-radius: 0 !important;      /* 可选：去掉圆角 */
+}
+
+/* ========== 预览视图：去除内联代码背景 ========== */
+/* 预览里，内联代码一般是 code.inline-code */
+.markdown-preview-view code.inline-code {
+  background-color: transparent !important;
+  padding: 0 !important;           /* 可选：去掉多余内边距 */
+  border-radius: 0 !important;      /* 可选：去掉圆角 */
+}
