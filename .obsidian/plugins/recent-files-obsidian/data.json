@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-07-30",
+      "path": "Diary/2025/July/2025-07-30.md"
+    },
+    {
       "basename": "流式输出音频",
       "path": "Work/DigitalPerson/流式输出音频.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "How does function calling  parse the user's intention",
       "path": "Basic/0 - Python/How does function calling  parse the user's intention.md"
-    },
-    {
-      "basename": "2025-07-30",
-      "path": "Diary/2025/July/2025-07-30.md"
     },
     {
       "basename": "lua 脚本是怎么使用的",

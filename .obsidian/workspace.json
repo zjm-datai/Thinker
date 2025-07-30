@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/DigitalPerson/流式输出音频.md",
+                "file": "Diary/2025/July/2025-07-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "流式输出音频"
+              "title": "2025-07-30"
             }
           }
         ]
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/DigitalPerson/流式输出音频.md",
+                "file": "Diary/2025/July/2025-07-30.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 流式输出音频"
+              "title": "Outline of 2025-07-30"
             }
           },
           {
@@ -222,6 +222,7 @@
   },
   "active": "01a89fb55c6fa467",
   "lastOpenFiles": [
+    "Work/DigitalPerson/流式输出音频.md",
     "Basic/OSI 模型.md",
     "how IP address work.md",
     "TCP.md",
@@ -239,7 +240,6 @@
     "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/2. 示例：并发的 Clock 服务.md",
     "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/1 - Goroutines.md",
     "Basic/0 - Python/2 - 高级/websocket 和 tts.md",
-    "Work/DigitalPerson/流式输出音频.md",
     "Basic/Mock&Test",
     "Basic/FrontEnd/B-CSS/居中.md",
     "Basic/2 - DataBase/Optimistic Lock.md",
