@@ -57,6 +57,10 @@
 
 [[Optimistic Lock]]
 
+### Redis set 相关
+
+zset 是居于rediss的什么结构？sorted set 是什么？基于哪种数据结构？如何实现？
+
 
 
 #### How is a Globally Unique ID (GUID) implemented?
