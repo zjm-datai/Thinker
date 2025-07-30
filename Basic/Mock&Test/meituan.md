@@ -16,7 +16,6 @@
 [Dify v1.1.0: Filtering Knowledge Retrieval with Customized Metadata - Dify Blog](https://dify.ai/blog/dify-v1-1-0-filtering-knowledge-retrieval-with-customized-metadata)
 
 
-
 #### function calling 如何解析用户的意图？
 
 这一块我感觉是一个触发的问题，什么时候大模型可以识别到这个触发并结构化输出过去。当对话历史，上下文过长的时候，是一个比较考验我们提示词设计的事情。
@@ -76,6 +75,12 @@
 ### 复原 IP 地址
 
 [[Restore IP Addresses]]
+
+
+### 说说 TCP 七层网络模型？
+
+[[OSI 模型]]
+
 
 
 

@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afa2b27685e6c7b3",
+            "id": "01a89fb55c6fa467",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Work/DigitalPerson/流式输出音频.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "流式输出音频"
             }
           }
         ]
@@ -107,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5,
-    "collapsed": true
+    "width": 384.5
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -124,12 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Work/DigitalPerson/流式输出音频.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 流式输出音频"
             }
           },
           {
@@ -216,8 +220,16 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "afa2b27685e6c7b3",
+  "active": "01a89fb55c6fa467",
   "lastOpenFiles": [
+    "Basic/OSI 模型.md",
+    "how IP address work.md",
+    "TCP.md",
+    "Basic/Mock&Test/meituan.md",
+    "Z-resources/Pasted image 20250730104657.png",
+    "Basic/0 - Python/How does function calling  parse the user's intention.md",
+    "Diary/2025/July/2025-07-30.md",
+    "Z-resources/Pasted image 20250730101434.png",
     "Basic/lua 脚本是怎么使用的.md",
     "Basic/多线程打印.md",
     "Work/人工智能超市/统一大模型入口插件.md",
@@ -228,23 +240,17 @@
     "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/1 - Goroutines.md",
     "Basic/0 - Python/2 - 高级/websocket 和 tts.md",
     "Work/DigitalPerson/流式输出音频.md",
-    "Basic/Mock&Test/meituan.md",
     "Basic/Mock&Test",
     "Basic/FrontEnd/B-CSS/居中.md",
     "Basic/2 - DataBase/Optimistic Lock.md",
     "Basic/2 - DataBase/How is a Globally Unique ID (GUID) implemented.md",
     "Basic/0 - Python/单精度和双精度有什么区别.md",
     "Basic/0 - Python/How is non-blocking response implemented and what dependencies need to be introduced.md",
-    "Basic/0 - Python/How does function calling  parse the user's intention.md",
     "Basic/0 - Python/LAgent/decorate&Tool.md",
     "Diary/2025/July/2025-07-28.md",
     "Basic/0 - Python/2 - 高级/单例模式和类变量.md",
     "Work/DigitalPerson/语音对话 demo 页面.md",
     "Work/DigitalPerson/服务启动和部署.md",
-    "Work/DigitalPerson/中医院数字人 APP 侧能力接口文档.md",
-    "Work/账号密码 - 常用信息.md",
-    "Work/人工智能超市/消息队列日志入库.md",
-    "Work/人工智能超市/APISIX 第三方鉴权.md",
     "Work/人工智能超市/Z-resources/Pasted image 20250728163739.png",
     "Work/人工智能超市/Z-resources/Pasted image 20250728163550.png",
     "Work/人工智能超市/Z-resources/Pasted image 20250728162551.png",
@@ -261,8 +267,6 @@
     "Basic/0 - Python/FastAPI/Z-resources/Pasted image 20250710170211.png",
     "Basic/0 - Python/FastAPI/Z-resources/Pasted image 20250710170430.png",
     "Basic/0 - Python/FastAPI/Z-resources/Pasted image 20250710165909.png",
-    "Basic/0 - Python/FastAPI/Z-resources/Pasted image 20250710165826.png",
-    "Basic/0 - Python/FastAPI/Z-resources/Pasted image 20250710165757.png",
-    "Basic/0 - Python/FastAPI/Z-resources/Pasted image 20250710165052.png"
+    "Basic/0 - Python/FastAPI/Z-resources/Pasted image 20250710165826.png"
   ]
 }
