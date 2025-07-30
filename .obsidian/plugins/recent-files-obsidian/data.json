@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "tenxun",
+      "path": "Basic/Mock&Test/tenxun.md"
+    },
+    {
+      "basename": "meituan",
+      "path": "Basic/Mock&Test/meituan.md"
+    },
+    {
+      "basename": "草稿",
+      "path": "草稿.md"
+    },
+    {
+      "basename": "Restore IP Addresses",
+      "path": "Basic/Restore IP Addresses.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/Untitled.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "菜鸟",
       "path": "Basic/2 - DataBase/2 - Redis/菜鸟.md"
-    },
-    {
-      "basename": "meituan",
-      "path": "Basic/Mock&Test/meituan.md"
     },
     {
       "basename": "账号密码 - 常用信息",
@@ -59,10 +71,6 @@
     {
       "basename": "生产环境 mq2data 部署",
       "path": "Work/人工智能超市/生产环境 mq2data 部署.md"
-    },
-    {
-      "basename": "Restore IP Addresses",
-      "path": "Basic/Restore IP Addresses.md"
     },
     {
       "basename": "3. 示例：并发的 Echo 服务",
@@ -145,10 +153,6 @@
       "path": "Work/大模型资源信息接口文档.md"
     },
     {
-      "basename": "草稿",
-      "path": "草稿.md"
-    },
-    {
       "basename": "0",
       "path": "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/0.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "菜鸟 JS",
       "path": "Basic/FrontEnd/A-JS/菜鸟 JS.md"
-    },
-    {
-      "basename": "2025-07-23",
-      "path": "Diary/2025/July/2025-07-23.md"
     }
   ],
   "omittedPaths": [],
