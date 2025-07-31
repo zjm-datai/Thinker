@@ -1,8 +1,92 @@
 {
   "recentFiles": [
     {
+      "basename": "asynccontextmanager",
+      "path": "Basic/0 - Python/asynccontextmanager.md"
+    },
+    {
+      "basename": "如何暂存本地修改，拉取最新更新",
+      "path": "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md"
+    },
+    {
+      "basename": "内存逃逸分析",
+      "path": "Basic/1 - GoLang/内存逃逸分析.md"
+    },
+    {
       "basename": "tenxun",
       "path": "Basic/Mock&Test/tenxun.md"
+    },
+    {
+      "basename": "协程池的作用",
+      "path": "Basic/1 - GoLang/协程池的作用.md"
+    },
+    {
+      "basename": "第一周",
+      "path": "Diary/2025/八月/第一周.md"
+    },
+    {
+      "basename": "4 - 生成器",
+      "path": "Basic/0 - Python/1 - 中级/7 - 高级特性/4 - 生成器.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Basic/0 - Python/Untitled.md"
+    },
+    {
+      "basename": "2025-07-31",
+      "path": "Diary/2025/七月/2025-07-31.md"
+    },
+    {
+      "basename": "2025-07-14",
+      "path": "Diary/2025/七月/2025-07-14.md"
+    },
+    {
+      "basename": "How does function calling  parse the user's intention",
+      "path": "Basic/0 - Python/How does function calling  parse the user's intention.md"
+    },
+    {
+      "basename": "How is non-blocking response implemented and what dependencies need to be introduced",
+      "path": "Basic/0 - Python/How is non-blocking response implemented and what dependencies need to be introduced.md"
+    },
+    {
+      "basename": "Prompt Caching",
+      "path": "Basic/0 - Python/Prompt Caching.md"
+    },
+    {
+      "basename": "Python 的 contextvars",
+      "path": "Basic/0 - Python/Python 的 contextvars.md"
+    },
+    {
+      "basename": "5 - 迭代器",
+      "path": "Basic/0 - Python/1 - 中级/7 - 高级特性/5 - 迭代器.md"
+    },
+    {
+      "basename": "id 和 ref 的区别",
+      "path": "Basic/FrontEnd/id 和 ref 的区别.md"
+    },
+    {
+      "basename": "sorted set 基于哪种数据结构实现",
+      "path": "Basic/2 - DataBase/2 - Redis/sorted set 基于哪种数据结构实现.md"
+    },
+    {
+      "basename": "菜鸟",
+      "path": "Basic/2 - DataBase/2 - Redis/菜鸟.md"
+    },
+    {
+      "basename": "OSI 模型",
+      "path": "Basic/OSI 模型.md"
+    },
+    {
+      "basename": "会议室二和多数元素",
+      "path": "Basic/会议室二和多数元素.md"
+    },
+    {
+      "basename": "how IP address work",
+      "path": "Basic/how IP address work.md"
+    },
+    {
+      "basename": "lua 脚本是怎么使用的",
+      "path": "Basic/lua 脚本是怎么使用的.md"
     },
     {
       "basename": "meituan",
@@ -25,40 +109,20 @@
       "path": "Basic/1 - GoLang/菜鸟教程 - Go.md"
     },
     {
-      "basename": "菜鸟",
-      "path": "Basic/2 - DataBase/2 - Redis/菜鸟.md"
-    },
-    {
       "basename": "账号密码 - 常用信息",
       "path": "Work/账号密码 - 常用信息.md"
     },
     {
       "basename": "2025-07-30",
-      "path": "Diary/2025/July/2025-07-30.md"
+      "path": "Diary/2025/七月/2025-07-30.md"
     },
     {
       "basename": "流式输出音频",
       "path": "Work/DigitalPerson/流式输出音频.md"
     },
     {
-      "basename": "OSI 模型",
-      "path": "Basic/OSI 模型.md"
-    },
-    {
-      "basename": "how IP address work",
-      "path": "how IP address work.md"
-    },
-    {
       "basename": "TCP",
-      "path": "TCP.md"
-    },
-    {
-      "basename": "How does function calling  parse the user's intention",
-      "path": "Basic/0 - Python/How does function calling  parse the user's intention.md"
-    },
-    {
-      "basename": "lua 脚本是怎么使用的",
-      "path": "Basic/lua 脚本是怎么使用的.md"
+      "path": "Basic/TCP.md"
     },
     {
       "basename": "多线程打印",
@@ -109,14 +173,6 @@
       "path": "Basic/FrontEnd/B-CSS/居中.md"
     },
     {
-      "basename": "会议室二和多数元素",
-      "path": "Basic/会议室二和多数元素.md"
-    },
-    {
-      "basename": "How is non-blocking response implemented and what dependencies need to be introduced",
-      "path": "Basic/0 - Python/How is non-blocking response implemented and what dependencies need to be introduced.md"
-    },
-    {
       "basename": "websocket 和 tts",
       "path": "Basic/0 - Python/2 - 高级/websocket 和 tts.md"
     },
@@ -126,7 +182,7 @@
     },
     {
       "basename": "2025-07-28",
-      "path": "Diary/2025/July/2025-07-28.md"
+      "path": "Diary/2025/七月/2025-07-28.md"
     },
     {
       "basename": "单例模式和类变量",
@@ -143,62 +199,6 @@
     {
       "basename": "APISIX 第三方鉴权",
       "path": "Work/人工智能超市/APISIX 第三方鉴权.md"
-    },
-    {
-      "basename": "计费表表结构",
-      "path": "Work/人工智能超市/计费表表结构.md"
-    },
-    {
-      "basename": "大模型资源信息接口文档",
-      "path": "Work/大模型资源信息接口文档.md"
-    },
-    {
-      "basename": "0",
-      "path": "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/0.md"
-    },
-    {
-      "basename": "10. 类型断言",
-      "path": "Basic/1 - GoLang/1 - 圣经/7-接口/10. 类型断言.md"
-    },
-    {
-      "basename": "系统架构和 docker 镜像",
-      "path": "Work/Git&Linux&Docker/系统架构和 docker 镜像.md"
-    },
-    {
-      "basename": "Dify 开发环境搭建",
-      "path": "Work/Dify 开发环境搭建.md"
-    },
-    {
-      "basename": "如何查看系统架构",
-      "path": "Work/Git&Linux&Docker/如何查看系统架构.md"
-    },
-    {
-      "basename": "如何进行操作一个镜像",
-      "path": "Work/Git&Linux&Docker/如何进行操作一个镜像.md"
-    },
-    {
-      "basename": "windows 对象",
-      "path": "Basic/FrontEnd/A-JS/windows 对象.md"
-    },
-    {
-      "basename": "Untitled 2",
-      "path": "Basic/FrontEnd/A-JS/Untitled 2.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Basic/FrontEnd/A-JS/Untitled 1.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Basic/FrontEnd/A-JS/Untitled.md"
-    },
-    {
-      "basename": "在 vscode 中不显示一些文件",
-      "path": "Work/在 vscode 中不显示一些文件.md"
-    },
-    {
-      "basename": "菜鸟 JS",
-      "path": "Basic/FrontEnd/A-JS/菜鸟 JS.md"
     }
   ],
   "omittedPaths": [],

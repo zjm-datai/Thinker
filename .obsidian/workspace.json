@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9d3ab60238f504d5",
+        "id": "9275f08f58302fb8",
         "type": "tabs",
         "children": [
           {
-            "id": "a30d56879316b3c1",
+            "id": "d740e23e76bba04b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Basic/0 - Python/asynccontextmanager.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "asynccontextmanager"
             }
           }
         ]
@@ -29,7 +33,7 @@
       {
         "id": "60471c7ecc61306e",
         "type": "tabs",
-        "dimension": 74.22680412371135,
+        "dimension": 74.293059125964,
         "children": [
           {
             "id": "24f97083c4e202ed",
@@ -41,7 +45,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "File explorer"
+              "title": "Files"
             }
           },
           {
@@ -76,7 +80,7 @@
       {
         "id": "5e27502afa36fdda",
         "type": "tabs",
-        "dimension": 25.773195876288653,
+        "dimension": 25.70694087403599,
         "children": [
           {
             "id": "b1a04763222ef389",
@@ -119,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 347.5
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -195,14 +199,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480.5
+    "width": 253.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
@@ -211,35 +216,40 @@
   },
   "active": "d9304cc9fcbea19c",
   "lastOpenFiles": [
+    "Basic/0 - Python/asynccontextmanager.md",
+    "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md",
+    "Basic/1 - GoLang/内存逃逸分析.md",
     "Basic/Mock&Test/tenxun.md",
-    "Basic/Mock&Test/meituan.md",
-    "草稿.md",
-    "Basic/Restore IP Addresses.md",
-    "Diary/2025/July/2025-07-30.md",
-    "Basic/2 - DataBase/2 - Redis/菜鸟.md",
-    "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/Untitled.md",
-    "Work/DigitalPerson/流式输出音频.md",
-    "Basic/OSI 模型.md",
-    "how IP address work.md",
-    "TCP.md",
-    "Z-resources/Pasted image 20250730104657.png",
+    "Basic/1 - GoLang/协程池的作用.md",
+    "Diary/2025/八月/第一周.md",
+    "Basic/0 - Python/1 - 中级/7 - 高级特性/4 - 生成器.md",
+    "Basic/0 - Python/Untitled.md",
+    "Diary/2025/七月/2025-07-31.md",
+    "Diary/2025/七月/2025-07-14.md",
     "Basic/0 - Python/How does function calling  parse the user's intention.md",
-    "Z-resources/Pasted image 20250730101434.png",
-    "Basic/lua 脚本是怎么使用的.md",
-    "Basic/多线程打印.md",
-    "Work/人工智能超市/统一大模型入口插件.md",
-    "Work/人工智能超市/生产环境 mq2data 部署.md",
-    "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/3. 示例：并发的 Echo 服务.md",
-    "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/2. 示例：并发的 Clock 服务.md",
-    "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/1 - Goroutines.md",
-    "Basic/0 - Python/2 - 高级/websocket 和 tts.md",
-    "Basic/Mock&Test",
-    "Basic/FrontEnd/B-CSS/居中.md",
-    "Basic/2 - DataBase/Optimistic Lock.md",
-    "Basic/2 - DataBase/How is a Globally Unique ID (GUID) implemented.md",
-    "Basic/0 - Python/单精度和双精度有什么区别.md",
+    "Basic/0 - Python/1 - 初级",
     "Basic/0 - Python/How is non-blocking response implemented and what dependencies need to be introduced.md",
-    "Basic/0 - Python/LAgent/decorate&Tool.md",
+    "Basic/0 - Python/Prompt Caching.md",
+    "Basic/0 - Python/Python 的 contextvars.md",
+    "Basic/0 - Python/1 - 中级/7 - 高级特性/5 - 迭代器.md",
+    "Basic/FrontEnd/id 和 ref 的区别.md",
+    "Basic/0 - Python/1 - 中级/Untitled.canvas",
+    "Basic/0 - Python/1 - 中级/7 - 高级特性",
+    "Diary/2025/八月",
+    "Basic/2 - DataBase/2 - Redis/sorted set 基于哪种数据结构实现.md",
+    "Basic/2 - DataBase/2 - Redis/菜鸟.md",
+    "Basic/OSI 模型.md",
+    "Basic/会议室二和多数元素.md",
+    "Basic/how IP address work.md",
+    "Basic/lua 脚本是怎么使用的.md",
+    "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/Untitled.md",
+    "Basic/1 - GoLang/菜鸟教程 - Go.md",
+    "Basic/Mock&Test/meituan.md",
+    "Basic/2 - DataBase/2 - Redis",
+    "Work/账号密码 - 常用信息.md",
+    "Z-resources/Pasted image 20250730104657.png",
+    "Z-resources/Pasted image 20250730101434.png",
+    "Basic/Mock&Test",
     "Work/人工智能超市/Z-resources/Pasted image 20250728163739.png",
     "Work/人工智能超市/Z-resources/Pasted image 20250728163550.png",
     "Work/人工智能超市/Z-resources/Pasted image 20250728162551.png",
@@ -249,10 +259,6 @@
     "Basic/FrontEnd/VUE/Z-resources/Pasted image 20250726002039.png",
     "Basic/FrontEnd/VUE/Z-resources",
     "Basic/2 - DataBase/1 - MySQL",
-    "Basic/2 - DataBase",
-    "Basic/1 - GoLang/1 - 圣经/1-入门",
-    "Basic/1 - GoLang/1 - 圣经/7-接口",
-    "Basic/1 - GoLang/1 - 圣经/4-复合数据结构",
     "Basic/0 - Python/FastAPI/Z-resources/Pasted image 20250710170211.png",
     "Basic/0 - Python/FastAPI/Z-resources/Pasted image 20250710170430.png",
     "Basic/0 - Python/FastAPI/Z-resources/Pasted image 20250710165909.png",
