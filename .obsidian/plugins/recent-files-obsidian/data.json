@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "内存逃逸分析",
+      "path": "Basic/1 - GoLang/内存逃逸分析.md"
+    },
+    {
       "basename": "asynccontextmanager",
       "path": "Basic/0 - Python/asynccontextmanager.md"
     },
     {
       "basename": "如何暂存本地修改，拉取最新更新",
       "path": "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md"
-    },
-    {
-      "basename": "内存逃逸分析",
-      "path": "Basic/1 - GoLang/内存逃逸分析.md"
     },
     {
       "basename": "tenxun",
