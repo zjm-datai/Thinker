@@ -1,32 +1,148 @@
 {
   "recentFiles": [
     {
-      "basename": "内存逃逸分析",
-      "path": "Basic/1 - GoLang/内存逃逸分析.md"
+      "basename": "菜鸟",
+      "path": "Basic/0 - Python/1 - 初级/菜鸟.md"
     },
     {
-      "basename": "asynccontextmanager",
-      "path": "Basic/0 - Python/asynccontextmanager.md"
+      "basename": "4 - 生成器",
+      "path": "Basic/0 - Python/1 - 中级/7 - 高级特性/4 - 生成器.md"
     },
     {
-      "basename": "如何暂存本地修改，拉取最新更新",
-      "path": "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md"
+      "basename": "静态文件",
+      "path": "Basic/0 - Python/FastAPI/静态文件.md"
     },
     {
-      "basename": "tenxun",
-      "path": "Basic/Mock&Test/tenxun.md"
+      "basename": "关系型数据库",
+      "path": "Basic/0 - Python/FastAPI/关系型数据库.md"
     },
     {
-      "basename": "协程池的作用",
-      "path": "Basic/1 - GoLang/协程池的作用.md"
+      "basename": "Why is my FastAPI throughput so low",
+      "path": "Basic/0 - Python/FastAPI/Why is my FastAPI throughput so low.md"
+    },
+    {
+      "basename": "菜鸟",
+      "path": "Basic/2 - DataBase/2 - Redis/菜鸟.md"
+    },
+    {
+      "basename": "12. 大表如何进行优化？",
+      "path": "Basic/2 - DataBase/1 - MySQL/12. 大表如何进行优化？.md"
+    },
+    {
+      "basename": "菜鸟",
+      "path": "Basic/FrontEnd/C-HTML/菜鸟.md"
+    },
+    {
+      "basename": "多线程打印",
+      "path": "Basic/多线程打印.md"
+    },
+    {
+      "basename": "会议室二和多数元素",
+      "path": "Basic/会议室二和多数元素.md"
+    },
+    {
+      "basename": "Go 中的 GC",
+      "path": "Basic/Go 中的 GC.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "草稿",
+      "path": "Work/草稿.md"
     },
     {
       "basename": "第一周",
       "path": "Diary/2025/八月/第一周.md"
     },
     {
-      "basename": "4 - 生成器",
-      "path": "Basic/0 - Python/1 - 中级/7 - 高级特性/4 - 生成器.md"
+      "basename": "账号密码 - 常用信息",
+      "path": "Work/账号密码 - 常用信息.md"
+    },
+    {
+      "basename": "python 在 import 的时候发生了什么？",
+      "path": "Basic/0 - Python/python 在 import 的时候发生了什么？.md"
+    },
+    {
+      "basename": "Dify 开发环境搭建",
+      "path": "Work/Dify 开发环境搭建.md"
+    },
+    {
+      "basename": "WSGI 接口",
+      "path": "Basic/0 - Python/1 - 中级/22 - Web 开发/WSGI 接口.md"
+    },
+    {
+      "basename": "1. 使用 __slots__",
+      "path": "Basic/0 - Python/1 - 中级/11 - 面向对象高级/1. 使用 __slots__.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Basic/0 - Python/1 - 中级/Untitled.md"
+    },
+    {
+      "basename": "tenxun",
+      "path": "Basic/Mock&Test/tenxun.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Basic/FrontEnd/Untitled.md"
+    },
+    {
+      "basename": "id 和 ref 的区别",
+      "path": "Basic/FrontEnd/id 和 ref 的区别.md"
+    },
+    {
+      "basename": "2. 访问限制",
+      "path": "Basic/0 - Python/1 - 中级/10 - 面向对象编程/2. 访问限制.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "Basic/1 - GoLang/未命名 1.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "Basic/1 - GoLang/未命名.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/Untitled.md"
+    },
+    {
+      "basename": "3. Map",
+      "path": "Basic/1 - GoLang/1 - 圣经/4-复合数据结构/3. Map.md"
+    },
+    {
+      "basename": "2. 浮点数",
+      "path": "Basic/1 - GoLang/1 - 圣经/3-基本数据类型/2. 浮点数.md"
+    },
+    {
+      "basename": "垃圾回收机制",
+      "path": "Basic/0 - Python/垃圾回收机制.md"
+    },
+    {
+      "basename": "单例模式和类变量",
+      "path": "Basic/0 - Python/2 - 高级/单例模式和类变量.md"
+    },
+    {
+      "basename": "websocket 和 tts",
+      "path": "Basic/0 - Python/2 - 高级/websocket 和 tts.md"
+    },
+    {
+      "basename": "meituan",
+      "path": "Basic/Mock&Test/meituan.md"
+    },
+    {
+      "basename": "内存逃逸分析",
+      "path": "Basic/1 - GoLang/内存逃逸分析.md"
+    },
+    {
+      "basename": "如何暂存本地修改，拉取最新更新",
+      "path": "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md"
+    },
+    {
+      "basename": "协程池的作用",
+      "path": "Basic/1 - GoLang/协程池的作用.md"
     },
     {
       "basename": "Untitled",
@@ -61,24 +177,12 @@
       "path": "Basic/0 - Python/1 - 中级/7 - 高级特性/5 - 迭代器.md"
     },
     {
-      "basename": "id 和 ref 的区别",
-      "path": "Basic/FrontEnd/id 和 ref 的区别.md"
-    },
-    {
       "basename": "sorted set 基于哪种数据结构实现",
       "path": "Basic/2 - DataBase/2 - Redis/sorted set 基于哪种数据结构实现.md"
     },
     {
-      "basename": "菜鸟",
-      "path": "Basic/2 - DataBase/2 - Redis/菜鸟.md"
-    },
-    {
       "basename": "OSI 模型",
       "path": "Basic/OSI 模型.md"
-    },
-    {
-      "basename": "会议室二和多数元素",
-      "path": "Basic/会议室二和多数元素.md"
     },
     {
       "basename": "how IP address work",
@@ -89,116 +193,12 @@
       "path": "Basic/lua 脚本是怎么使用的.md"
     },
     {
-      "basename": "meituan",
-      "path": "Basic/Mock&Test/meituan.md"
-    },
-    {
-      "basename": "草稿",
-      "path": "草稿.md"
-    },
-    {
       "basename": "Restore IP Addresses",
       "path": "Basic/Restore IP Addresses.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/Untitled.md"
-    },
-    {
       "basename": "菜鸟教程 - Go",
       "path": "Basic/1 - GoLang/菜鸟教程 - Go.md"
-    },
-    {
-      "basename": "账号密码 - 常用信息",
-      "path": "Work/账号密码 - 常用信息.md"
-    },
-    {
-      "basename": "2025-07-30",
-      "path": "Diary/2025/七月/2025-07-30.md"
-    },
-    {
-      "basename": "流式输出音频",
-      "path": "Work/DigitalPerson/流式输出音频.md"
-    },
-    {
-      "basename": "TCP",
-      "path": "Basic/TCP.md"
-    },
-    {
-      "basename": "多线程打印",
-      "path": "Basic/多线程打印.md"
-    },
-    {
-      "basename": "统一大模型入口插件",
-      "path": "Work/人工智能超市/统一大模型入口插件.md"
-    },
-    {
-      "basename": "生产环境 mq2data 部署",
-      "path": "Work/人工智能超市/生产环境 mq2data 部署.md"
-    },
-    {
-      "basename": "3. 示例：并发的 Echo 服务",
-      "path": "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/3. 示例：并发的 Echo 服务.md"
-    },
-    {
-      "basename": "2. 示例：并发的 Clock 服务",
-      "path": "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/2. 示例：并发的 Clock 服务.md"
-    },
-    {
-      "basename": "1 - Goroutines",
-      "path": "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/1 - Goroutines.md"
-    },
-    {
-      "basename": "How is a Globally Unique ID (GUID) implemented",
-      "path": "Basic/2 - DataBase/How is a Globally Unique ID (GUID) implemented.md"
-    },
-    {
-      "basename": "单精度和双精度有什么区别",
-      "path": "Basic/0 - Python/单精度和双精度有什么区别.md"
-    },
-    {
-      "basename": "服务启动和部署",
-      "path": "Work/DigitalPerson/服务启动和部署.md"
-    },
-    {
-      "basename": "语音对话 demo 页面",
-      "path": "Work/DigitalPerson/语音对话 demo 页面.md"
-    },
-    {
-      "basename": "Optimistic Lock",
-      "path": "Basic/2 - DataBase/Optimistic Lock.md"
-    },
-    {
-      "basename": "居中",
-      "path": "Basic/FrontEnd/B-CSS/居中.md"
-    },
-    {
-      "basename": "websocket 和 tts",
-      "path": "Basic/0 - Python/2 - 高级/websocket 和 tts.md"
-    },
-    {
-      "basename": "decorate&Tool",
-      "path": "Basic/0 - Python/LAgent/decorate&Tool.md"
-    },
-    {
-      "basename": "2025-07-28",
-      "path": "Diary/2025/七月/2025-07-28.md"
-    },
-    {
-      "basename": "单例模式和类变量",
-      "path": "Basic/0 - Python/2 - 高级/单例模式和类变量.md"
-    },
-    {
-      "basename": "中医院数字人 APP 侧能力接口文档",
-      "path": "Work/DigitalPerson/中医院数字人 APP 侧能力接口文档.md"
-    },
-    {
-      "basename": "消息队列日志入库",
-      "path": "Work/人工智能超市/消息队列日志入库.md"
-    },
-    {
-      "basename": "APISIX 第三方鉴权",
-      "path": "Work/人工智能超市/APISIX 第三方鉴权.md"
     }
   ],
   "omittedPaths": [],
