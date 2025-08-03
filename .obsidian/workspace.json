@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "670f99855f4e152d",
+        "id": "cbbfb6dd7840b5a0",
         "type": "tabs",
         "children": [
           {
-            "id": "348e57f836f5013b",
+            "id": "ce573a36821c8736",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -40,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "File explorer"
             }
           },
           {
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "import models",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 458.5,
+    "collapsed": true
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -149,21 +150,9 @@
         ]
       },
       {
-        "id": "f0f75f6e468f0882",
+        "id": "bc012367fa92fa70",
         "type": "tabs",
         "children": [
-          {
-            "id": "b1a04763222ef389",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
           {
             "id": "b9b945d8fac200a3",
             "type": "leaf",
@@ -174,6 +163,18 @@
               "pinned": true,
               "icon": "clock",
               "title": "Recent Files"
+            }
+          },
+          {
+            "id": "b1a04763222ef389",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -193,15 +194,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 564.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "homepage:Open homepage": true,
+      "daily-notes:Open today's note": true,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "obsidian-git:Open Git source control": true,
@@ -210,37 +211,38 @@
   },
   "active": "d9304cc9fcbea19c",
   "lastOpenFiles": [
+    "Basic/1 - GoLang/1 - 圣经/2-程序结构/2. 声明.md",
     "Basic/0 - Python/1 - 初级/菜鸟.md",
-    "Basic/0 - Python/1 - 中级/7 - 高级特性/4 - 生成器.md",
-    "Basic/0 - Python/FastAPI/静态文件.md",
-    "Basic/0 - Python/FastAPI/使用 yield 的依赖项.md",
-    "Basic/0 - Python/FastAPI/关系型数据库.md",
-    "Basic/0 - Python/FastAPI/Why is my FastAPI throughput so low.md",
-    "Basic/2 - DataBase/2 - Redis/菜鸟.md",
-    "Basic/2 - DataBase/1 - MySQL/12. 大表如何进行优化？.md",
-    "Basic/2 - DataBase/2 - Redis/RedisInAction",
-    "Basic/FrontEnd/C-HTML/菜鸟.md",
-    "Basic/多线程打印.md",
-    "Basic/会议室二和多数元素.md",
-    "Basic/Go 中的 GC.md",
+    "Basic/0 - Python/EffectivePython/5 - Functions/31. 别让函数调用者解包太多变量，改用结果对象返回.md",
+    "Basic/0 - Python/EffectivePython/5 - Functions/30. 要知道函数的参数是可以被修改的.md",
+    "Basic/1 - GoLang/菜鸟教程 - Go.md",
+    "go 中的 string.md",
+    "Basic/1 - GoLang/1 - 圣经/4-复合数据结构/4. 结构体.md",
+    "Basic/1 - GoLang/1 - 圣经/4-复合数据结构/3. Map.md",
+    "Basic/1 - GoLang/1 - 圣经/4-复合数据结构/0. 复合数据类型.md",
+    "Basic/1 - GoLang/1 - 圣经/3-基本数据类型/2. 浮点数.md",
+    "Basic/0 - Python/EffectivePython/0-Prefix.md",
+    "Basic/0 - Python/EffectivePython/5 - Functions",
+    "Basic/1 - GoLang/1 - 圣经/7-接口/3. 实现接口的条件.md",
+    "Basic/1 - GoLang/1 - 圣经/6-方法/3. 通过嵌入结构体来扩展类型.md",
+    "Basic/1 - GoLang/1 - 圣经/10 - 包和工具/0.md",
     "HomePage.md",
-    "Work/草稿.md",
-    "Diary/2025/八月/第一周.md",
-    "Work/账号密码 - 常用信息.md",
-    "Basic/0 - Python/python 在 import 的时候发生了什么？.md",
-    "Work/Dify 开发环境搭建.md",
-    "Basic/0 - Python/1 - 中级/22 - Web 开发/WSGI 接口.md",
-    "Basic/0 - Python/1 - 中级/11 - 面向对象高级/1. 使用 __slots__.md",
-    "Basic/0 - Python/1 - 中级/22 - Web 开发/Untitled",
-    "Basic/0 - Python/1 - 中级/22 - Web 开发",
-    "Basic/0 - Python/1 - 中级/Untitled.md",
-    "Basic/Mock&Test/tenxun.md",
-    "Basic/FrontEnd/Untitled.md",
-    "Basic/FrontEnd/id 和 ref 的区别.md",
-    "Basic/0 - Python/1 - 中级/10 - 面向对象编程/2. 访问限制.md",
+    "Basic/0 - Python/元类.md",
+    "Basic/1 - GoLang/1 - 圣经/10 - 包和工具",
+    "Basic/0 - Python/Untitled.md",
+    "Basic/1 - GoLang/1 - 圣经/9 - 基于共享变量的并发/9.1 竞态条件.md",
+    "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/7. 基于 select 的多路复用.md",
+    "Basic/1 - GoLang/1 - 圣经/9 - 基于共享变量的并发",
+    "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/Untitled.md",
+    "Basic/Mock&Test/resume.md",
+    "Basic/0 - Python/1 - 中级/14 - 进程和线程/5. 分布式进程.md",
+    "Basic/0 - Python/1 - 中级/14 - 进程和线程",
+    "Basic/1 - GoLang/内存逃逸分析.md",
+    "Basic/1 - GoLang/0. 学习路径.md",
+    "Basic/1 - GoLang/协程池的作用.md",
     "Basic/1 - GoLang/未命名 1.md",
     "Basic/1 - GoLang/1 - 圣经/3-基本数据类型",
-    "Basic/0 - Python/2 - 高级/SFP",
+    "Basic/0 - Python/1 - 中级/22 - Web 开发",
     "Basic/0 - Python/1 - 初级",
     "Basic/0 - Python/1 - 中级/Untitled.canvas",
     "Basic/0 - Python/1 - 中级/7 - 高级特性",
@@ -248,7 +250,6 @@
     "Basic/2 - DataBase/2 - Redis",
     "Z-resources/Pasted image 20250730104657.png",
     "Z-resources/Pasted image 20250730101434.png",
-    "Basic/Mock&Test",
     "Work/人工智能超市/Z-resources/Pasted image 20250728163739.png",
     "Work/人工智能超市/Z-resources/Pasted image 20250728163550.png",
     "Work/人工智能超市/Z-resources/Pasted image 20250728162551.png",

@@ -1,8 +1,112 @@
 {
   "recentFiles": [
     {
+      "basename": "2. 声明",
+      "path": "Basic/1 - GoLang/1 - 圣经/2-程序结构/2. 声明.md"
+    },
+    {
       "basename": "菜鸟",
       "path": "Basic/0 - Python/1 - 初级/菜鸟.md"
+    },
+    {
+      "basename": "31. 别让函数调用者解包太多变量，改用结果对象返回",
+      "path": "Basic/0 - Python/EffectivePython/5 - Functions/31. 别让函数调用者解包太多变量，改用结果对象返回.md"
+    },
+    {
+      "basename": "30. 要知道函数的参数是可以被修改的",
+      "path": "Basic/0 - Python/EffectivePython/5 - Functions/30. 要知道函数的参数是可以被修改的.md"
+    },
+    {
+      "basename": "菜鸟教程 - Go",
+      "path": "Basic/1 - GoLang/菜鸟教程 - Go.md"
+    },
+    {
+      "basename": "go 中的 string",
+      "path": "go 中的 string.md"
+    },
+    {
+      "basename": "4. 结构体",
+      "path": "Basic/1 - GoLang/1 - 圣经/4-复合数据结构/4. 结构体.md"
+    },
+    {
+      "basename": "3. Map",
+      "path": "Basic/1 - GoLang/1 - 圣经/4-复合数据结构/3. Map.md"
+    },
+    {
+      "basename": "0. 复合数据类型",
+      "path": "Basic/1 - GoLang/1 - 圣经/4-复合数据结构/0. 复合数据类型.md"
+    },
+    {
+      "basename": "2. 浮点数",
+      "path": "Basic/1 - GoLang/1 - 圣经/3-基本数据类型/2. 浮点数.md"
+    },
+    {
+      "basename": "0-Prefix",
+      "path": "Basic/0 - Python/EffectivePython/0-Prefix.md"
+    },
+    {
+      "basename": "3. 实现接口的条件",
+      "path": "Basic/1 - GoLang/1 - 圣经/7-接口/3. 实现接口的条件.md"
+    },
+    {
+      "basename": "3. 通过嵌入结构体来扩展类型",
+      "path": "Basic/1 - GoLang/1 - 圣经/6-方法/3. 通过嵌入结构体来扩展类型.md"
+    },
+    {
+      "basename": "0",
+      "path": "Basic/1 - GoLang/1 - 圣经/10 - 包和工具/0.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "元类",
+      "path": "Basic/0 - Python/元类.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Basic/0 - Python/Untitled.md"
+    },
+    {
+      "basename": "9.1 竞态条件",
+      "path": "Basic/1 - GoLang/1 - 圣经/9 - 基于共享变量的并发/9.1 竞态条件.md"
+    },
+    {
+      "basename": "7. 基于 select 的多路复用",
+      "path": "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/7. 基于 select 的多路复用.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/Untitled.md"
+    },
+    {
+      "basename": "resume",
+      "path": "Basic/Mock&Test/resume.md"
+    },
+    {
+      "basename": "5. 分布式进程",
+      "path": "Basic/0 - Python/1 - 中级/14 - 进程和线程/5. 分布式进程.md"
+    },
+    {
+      "basename": "内存逃逸分析",
+      "path": "Basic/1 - GoLang/内存逃逸分析.md"
+    },
+    {
+      "basename": "0. 学习路径",
+      "path": "Basic/1 - GoLang/0. 学习路径.md"
+    },
+    {
+      "basename": "协程池的作用",
+      "path": "Basic/1 - GoLang/协程池的作用.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "Basic/1 - GoLang/未命名 1.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "Basic/1 - GoLang/未命名.md"
     },
     {
       "basename": "4 - 生成器",
@@ -43,10 +147,6 @@
     {
       "basename": "Go 中的 GC",
       "path": "Basic/Go 中的 GC.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
     },
     {
       "basename": "草稿",
@@ -97,108 +197,8 @@
       "path": "Basic/0 - Python/1 - 中级/10 - 面向对象编程/2. 访问限制.md"
     },
     {
-      "basename": "未命名 1",
-      "path": "Basic/1 - GoLang/未命名 1.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "Basic/1 - GoLang/未命名.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/Untitled.md"
-    },
-    {
-      "basename": "3. Map",
-      "path": "Basic/1 - GoLang/1 - 圣经/4-复合数据结构/3. Map.md"
-    },
-    {
-      "basename": "2. 浮点数",
-      "path": "Basic/1 - GoLang/1 - 圣经/3-基本数据类型/2. 浮点数.md"
-    },
-    {
       "basename": "垃圾回收机制",
       "path": "Basic/0 - Python/垃圾回收机制.md"
-    },
-    {
-      "basename": "单例模式和类变量",
-      "path": "Basic/0 - Python/2 - 高级/单例模式和类变量.md"
-    },
-    {
-      "basename": "websocket 和 tts",
-      "path": "Basic/0 - Python/2 - 高级/websocket 和 tts.md"
-    },
-    {
-      "basename": "meituan",
-      "path": "Basic/Mock&Test/meituan.md"
-    },
-    {
-      "basename": "内存逃逸分析",
-      "path": "Basic/1 - GoLang/内存逃逸分析.md"
-    },
-    {
-      "basename": "如何暂存本地修改，拉取最新更新",
-      "path": "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md"
-    },
-    {
-      "basename": "协程池的作用",
-      "path": "Basic/1 - GoLang/协程池的作用.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Basic/0 - Python/Untitled.md"
-    },
-    {
-      "basename": "2025-07-31",
-      "path": "Diary/2025/七月/2025-07-31.md"
-    },
-    {
-      "basename": "2025-07-14",
-      "path": "Diary/2025/七月/2025-07-14.md"
-    },
-    {
-      "basename": "How does function calling  parse the user's intention",
-      "path": "Basic/0 - Python/How does function calling  parse the user's intention.md"
-    },
-    {
-      "basename": "How is non-blocking response implemented and what dependencies need to be introduced",
-      "path": "Basic/0 - Python/How is non-blocking response implemented and what dependencies need to be introduced.md"
-    },
-    {
-      "basename": "Prompt Caching",
-      "path": "Basic/0 - Python/Prompt Caching.md"
-    },
-    {
-      "basename": "Python 的 contextvars",
-      "path": "Basic/0 - Python/Python 的 contextvars.md"
-    },
-    {
-      "basename": "5 - 迭代器",
-      "path": "Basic/0 - Python/1 - 中级/7 - 高级特性/5 - 迭代器.md"
-    },
-    {
-      "basename": "sorted set 基于哪种数据结构实现",
-      "path": "Basic/2 - DataBase/2 - Redis/sorted set 基于哪种数据结构实现.md"
-    },
-    {
-      "basename": "OSI 模型",
-      "path": "Basic/OSI 模型.md"
-    },
-    {
-      "basename": "how IP address work",
-      "path": "Basic/how IP address work.md"
-    },
-    {
-      "basename": "lua 脚本是怎么使用的",
-      "path": "Basic/lua 脚本是怎么使用的.md"
-    },
-    {
-      "basename": "Restore IP Addresses",
-      "path": "Basic/Restore IP Addresses.md"
-    },
-    {
-      "basename": "菜鸟教程 - Go",
-      "path": "Basic/1 - GoLang/菜鸟教程 - Go.md"
     }
   ],
   "omittedPaths": [],
