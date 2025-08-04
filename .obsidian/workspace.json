@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fbb7ff28b4288ff9",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "e48509ac5367b1ab",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Basic/0 - Python/1 - 中级/14 - 进程和线程/3. ThreadLocal.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3. ThreadLocal"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "File explorer"
             }
           },
           {
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Basic/0 - Python/1 - 中级/14 - 进程和线程/3. ThreadLocal.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 3. ThreadLocal"
             }
           },
           {
@@ -195,19 +200,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's note": true,
       "homepage:Open homepage": true,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "obsidian-git:Open Git source control": true,
       "open-vscode:VSCode": false
     }
   },
-  "active": "d9304cc9fcbea19c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Basic/0 - Python/1 - 中级/14 - 进程和线程/2. 多线程.md",
+    "Basic/0 - Python/1 - 中级/14 - 进程和线程/3. ThreadLocal.md",
+    "HomePage.md",
     "Basic/1 - GoLang/1 - 圣经/2-程序结构/4. 赋值.md",
     "Work/账号密码 - 常用信息.md",
     "Basic/1 - GoLang/1 - 圣经/2-程序结构/2. 声明.md",
@@ -217,7 +225,6 @@
     "Basic/0 - Python/default_factory.md",
     "Basic/0 - Python/contextvars.md",
     "Basic/0 - Python/Flask/A-Projects/Dify/Dify 中是如何使用 LocalStorage 存储 token 的.md",
-    "Basic/0 - Python/1 - 中级/14 - 进程和线程/2. 多线程.md",
     "Basic/0 - Python/单精度和双精度有什么区别.md",
     "Basic/0 - Python/集合.md",
     "Basic/0 - Python/垃圾回收机制.md",
@@ -232,8 +239,6 @@
     "Basic/0 - Python/元类.md",
     "Basic/1 - GoLang/切片使用的时候需要注意什么？.md",
     "Basic/Mock&Test/tenxun.md",
-    "Basic/多线程打印.md",
-    "Basic/1 - GoLang/1 - 圣经/6-方法/4. 方法值和方法表达式.md",
     "Basic/1 - GoLang/1 - 圣经/9 - 基于共享变量的并发",
     "Basic/1 - GoLang/1 - 圣经/2-程序结构",
     "Basic/1 - GoLang/1 - 圣经/10 - 包和工具",
