@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cbbfb6dd7840b5a0",
+        "id": "fbb7ff28b4288ff9",
         "type": "tabs",
         "children": [
           {
-            "id": "ce573a36821c8736",
+            "id": "e48509ac5367b1ab",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -40,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "File explorer"
+              "title": "Files"
             }
           },
           {
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wrap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -150,21 +149,9 @@
         ]
       },
       {
-        "id": "bc012367fa92fa70",
+        "id": "f0f75f6e468f0882",
         "type": "tabs",
         "children": [
-          {
-            "id": "b9b945d8fac200a3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "pinned": true,
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          },
           {
             "id": "b1a04763222ef389",
             "type": "leaf",
@@ -178,13 +165,23 @@
             }
           },
           {
-            "id": "d9304cc9fcbea19c",
+            "id": "b9b945d8fac200a3",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "git-view",
+              "type": "recent-files",
               "state": {},
               "pinned": true,
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "d9304cc9fcbea19c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
             }
@@ -194,15 +191,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 564.5
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "homepage:Open homepage": true,
-      "daily-notes:Open today's note": true,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "obsidian-git:Open Git source control": true,
@@ -211,43 +208,43 @@
   },
   "active": "d9304cc9fcbea19c",
   "lastOpenFiles": [
+    "Basic/1 - GoLang/1 - 圣经/2-程序结构/4. 赋值.md",
+    "Work/账号密码 - 常用信息.md",
     "Basic/1 - GoLang/1 - 圣经/2-程序结构/2. 声明.md",
-    "Basic/0 - Python/1 - 初级/菜鸟.md",
-    "Basic/0 - Python/EffectivePython/5 - Functions/31. 别让函数调用者解包太多变量，改用结果对象返回.md",
-    "Basic/0 - Python/EffectivePython/5 - Functions/30. 要知道函数的参数是可以被修改的.md",
-    "Basic/1 - GoLang/菜鸟教程 - Go.md",
-    "go 中的 string.md",
-    "Basic/1 - GoLang/1 - 圣经/4-复合数据结构/4. 结构体.md",
-    "Basic/1 - GoLang/1 - 圣经/4-复合数据结构/3. Map.md",
-    "Basic/1 - GoLang/1 - 圣经/4-复合数据结构/0. 复合数据类型.md",
-    "Basic/1 - GoLang/1 - 圣经/3-基本数据类型/2. 浮点数.md",
-    "Basic/0 - Python/EffectivePython/0-Prefix.md",
-    "Basic/0 - Python/EffectivePython/5 - Functions",
-    "Basic/1 - GoLang/1 - 圣经/7-接口/3. 实现接口的条件.md",
-    "Basic/1 - GoLang/1 - 圣经/6-方法/3. 通过嵌入结构体来扩展类型.md",
-    "Basic/1 - GoLang/1 - 圣经/10 - 包和工具/0.md",
-    "HomePage.md",
-    "Basic/0 - Python/元类.md",
-    "Basic/1 - GoLang/1 - 圣经/10 - 包和工具",
-    "Basic/0 - Python/Untitled.md",
-    "Basic/1 - GoLang/1 - 圣经/9 - 基于共享变量的并发/9.1 竞态条件.md",
-    "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/7. 基于 select 的多路复用.md",
-    "Basic/1 - GoLang/1 - 圣经/9 - 基于共享变量的并发",
-    "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/Untitled.md",
-    "Basic/Mock&Test/resume.md",
-    "Basic/0 - Python/1 - 中级/14 - 进程和线程/5. 分布式进程.md",
-    "Basic/0 - Python/1 - 中级/14 - 进程和线程",
-    "Basic/1 - GoLang/内存逃逸分析.md",
     "Basic/1 - GoLang/0. 学习路径.md",
-    "Basic/1 - GoLang/协程池的作用.md",
-    "Basic/1 - GoLang/未命名 1.md",
-    "Basic/1 - GoLang/1 - 圣经/3-基本数据类型",
+    "Basic/0 - Python/Flask/请求上下文.md",
+    "Basic/0 - Python/dict.copy().md",
+    "Basic/0 - Python/default_factory.md",
+    "Basic/0 - Python/contextvars.md",
+    "Basic/0 - Python/Flask/A-Projects/Dify/Dify 中是如何使用 LocalStorage 存储 token 的.md",
+    "Basic/0 - Python/1 - 中级/14 - 进程和线程/2. 多线程.md",
+    "Basic/0 - Python/单精度和双精度有什么区别.md",
+    "Basic/0 - Python/集合.md",
+    "Basic/0 - Python/垃圾回收机制.md",
+    "Basic/0 - Python/Untitled.md",
+    "Basic/0 - Python/uv 中添加加速镜像.md",
+    "Basic/0 - Python/python 在 import 的时候发生了什么？.md",
+    "Basic/0 - Python/Python 中的包和模块.md",
+    "Basic/0 - Python/LangChain/上下文学习中的位置偏差.md",
+    "Diary/2025/八月/第一周.md",
+    "Basic/FrontEnd/VUE/什么是 storeToRefs().md",
+    "Basic/0 - Python/FastAPI/一个请求进入的时候.md",
+    "Basic/0 - Python/元类.md",
+    "Basic/1 - GoLang/切片使用的时候需要注意什么？.md",
+    "Basic/Mock&Test/tenxun.md",
+    "Basic/多线程打印.md",
+    "Basic/1 - GoLang/1 - 圣经/6-方法/4. 方法值和方法表达式.md",
+    "Basic/1 - GoLang/1 - 圣经/9 - 基于共享变量的并发",
+    "Basic/1 - GoLang/1 - 圣经/2-程序结构",
+    "Basic/1 - GoLang/1 - 圣经/10 - 包和工具",
+    "Basic/0 - Python/EffectivePython/5 - Functions",
+    "Basic/0 - Python/EffectivePython/1 - Pythonic-Thinking",
+    "Basic/0 - Python/1 - 中级/14 - 进程和线程",
+    "Basic/2 - DataBase/2 - Redis/RedisInAction",
+    "Basic/0 - Python/1 - 中级/22 - Web 开发/Untitled",
     "Basic/0 - Python/1 - 中级/22 - Web 开发",
-    "Basic/0 - Python/1 - 初级",
+    "Basic/1 - GoLang/1 - 圣经/3-基本数据类型",
     "Basic/0 - Python/1 - 中级/Untitled.canvas",
-    "Basic/0 - Python/1 - 中级/7 - 高级特性",
-    "Diary/2025/八月",
-    "Basic/2 - DataBase/2 - Redis",
     "Z-resources/Pasted image 20250730104657.png",
     "Z-resources/Pasted image 20250730101434.png",
     "Work/人工智能超市/Z-resources/Pasted image 20250728163739.png",

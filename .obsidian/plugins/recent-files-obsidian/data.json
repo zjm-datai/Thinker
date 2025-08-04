@@ -1,8 +1,128 @@
 {
   "recentFiles": [
     {
+      "basename": "4. 赋值",
+      "path": "Basic/1 - GoLang/1 - 圣经/2-程序结构/4. 赋值.md"
+    },
+    {
+      "basename": "账号密码 - 常用信息",
+      "path": "Work/账号密码 - 常用信息.md"
+    },
+    {
       "basename": "2. 声明",
       "path": "Basic/1 - GoLang/1 - 圣经/2-程序结构/2. 声明.md"
+    },
+    {
+      "basename": "0. 学习路径",
+      "path": "Basic/1 - GoLang/0. 学习路径.md"
+    },
+    {
+      "basename": "请求上下文",
+      "path": "Basic/0 - Python/Flask/请求上下文.md"
+    },
+    {
+      "basename": "dict.copy()",
+      "path": "Basic/0 - Python/dict.copy().md"
+    },
+    {
+      "basename": "default_factory",
+      "path": "Basic/0 - Python/default_factory.md"
+    },
+    {
+      "basename": "contextvars",
+      "path": "Basic/0 - Python/contextvars.md"
+    },
+    {
+      "basename": "Dify 中是如何使用 LocalStorage 存储 token 的",
+      "path": "Basic/0 - Python/Flask/A-Projects/Dify/Dify 中是如何使用 LocalStorage 存储 token 的.md"
+    },
+    {
+      "basename": "2. 多线程",
+      "path": "Basic/0 - Python/1 - 中级/14 - 进程和线程/2. 多线程.md"
+    },
+    {
+      "basename": "单精度和双精度有什么区别",
+      "path": "Basic/0 - Python/单精度和双精度有什么区别.md"
+    },
+    {
+      "basename": "集合",
+      "path": "Basic/0 - Python/集合.md"
+    },
+    {
+      "basename": "垃圾回收机制",
+      "path": "Basic/0 - Python/垃圾回收机制.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Basic/0 - Python/Untitled.md"
+    },
+    {
+      "basename": "uv 中添加加速镜像",
+      "path": "Basic/0 - Python/uv 中添加加速镜像.md"
+    },
+    {
+      "basename": "python 在 import 的时候发生了什么？",
+      "path": "Basic/0 - Python/python 在 import 的时候发生了什么？.md"
+    },
+    {
+      "basename": "Python 中的包和模块",
+      "path": "Basic/0 - Python/Python 中的包和模块.md"
+    },
+    {
+      "basename": "上下文学习中的位置偏差",
+      "path": "Basic/0 - Python/LangChain/上下文学习中的位置偏差.md"
+    },
+    {
+      "basename": "第一周",
+      "path": "Diary/2025/八月/第一周.md"
+    },
+    {
+      "basename": "什么是 storeToRefs()",
+      "path": "Basic/FrontEnd/VUE/什么是 storeToRefs().md"
+    },
+    {
+      "basename": "一个请求进入的时候",
+      "path": "Basic/0 - Python/FastAPI/一个请求进入的时候.md"
+    },
+    {
+      "basename": "元类",
+      "path": "Basic/0 - Python/元类.md"
+    },
+    {
+      "basename": "切片使用的时候需要注意什么？",
+      "path": "Basic/1 - GoLang/切片使用的时候需要注意什么？.md"
+    },
+    {
+      "basename": "tenxun",
+      "path": "Basic/Mock&Test/tenxun.md"
+    },
+    {
+      "basename": "多线程打印",
+      "path": "Basic/多线程打印.md"
+    },
+    {
+      "basename": "4. 方法值和方法表达式",
+      "path": "Basic/1 - GoLang/1 - 圣经/6-方法/4. 方法值和方法表达式.md"
+    },
+    {
+      "basename": "4. 结构体",
+      "path": "Basic/1 - GoLang/1 - 圣经/4-复合数据结构/4. 结构体.md"
+    },
+    {
+      "basename": "2. 基于指针对象的方法",
+      "path": "Basic/1 - GoLang/1 - 圣经/6-方法/2. 基于指针对象的方法.md"
+    },
+    {
+      "basename": "8 种记忆系统架构",
+      "path": "Basic/0 - Python/LangChain/8 种记忆系统架构.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "内存逃逸分析",
+      "path": "Basic/1 - GoLang/内存逃逸分析.md"
     },
     {
       "basename": "菜鸟",
@@ -22,11 +142,7 @@
     },
     {
       "basename": "go 中的 string",
-      "path": "go 中的 string.md"
-    },
-    {
-      "basename": "4. 结构体",
-      "path": "Basic/1 - GoLang/1 - 圣经/4-复合数据结构/4. 结构体.md"
+      "path": "Basic/1 - GoLang/go 中的 string.md"
     },
     {
       "basename": "3. Map",
@@ -57,18 +173,6 @@
       "path": "Basic/1 - GoLang/1 - 圣经/10 - 包和工具/0.md"
     },
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
-    },
-    {
-      "basename": "元类",
-      "path": "Basic/0 - Python/元类.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Basic/0 - Python/Untitled.md"
-    },
-    {
       "basename": "9.1 竞态条件",
       "path": "Basic/1 - GoLang/1 - 圣经/9 - 基于共享变量的并发/9.1 竞态条件.md"
     },
@@ -89,116 +193,12 @@
       "path": "Basic/0 - Python/1 - 中级/14 - 进程和线程/5. 分布式进程.md"
     },
     {
-      "basename": "内存逃逸分析",
-      "path": "Basic/1 - GoLang/内存逃逸分析.md"
-    },
-    {
-      "basename": "0. 学习路径",
-      "path": "Basic/1 - GoLang/0. 学习路径.md"
-    },
-    {
       "basename": "协程池的作用",
       "path": "Basic/1 - GoLang/协程池的作用.md"
     },
     {
       "basename": "未命名 1",
       "path": "Basic/1 - GoLang/未命名 1.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "Basic/1 - GoLang/未命名.md"
-    },
-    {
-      "basename": "4 - 生成器",
-      "path": "Basic/0 - Python/1 - 中级/7 - 高级特性/4 - 生成器.md"
-    },
-    {
-      "basename": "静态文件",
-      "path": "Basic/0 - Python/FastAPI/静态文件.md"
-    },
-    {
-      "basename": "关系型数据库",
-      "path": "Basic/0 - Python/FastAPI/关系型数据库.md"
-    },
-    {
-      "basename": "Why is my FastAPI throughput so low",
-      "path": "Basic/0 - Python/FastAPI/Why is my FastAPI throughput so low.md"
-    },
-    {
-      "basename": "菜鸟",
-      "path": "Basic/2 - DataBase/2 - Redis/菜鸟.md"
-    },
-    {
-      "basename": "12. 大表如何进行优化？",
-      "path": "Basic/2 - DataBase/1 - MySQL/12. 大表如何进行优化？.md"
-    },
-    {
-      "basename": "菜鸟",
-      "path": "Basic/FrontEnd/C-HTML/菜鸟.md"
-    },
-    {
-      "basename": "多线程打印",
-      "path": "Basic/多线程打印.md"
-    },
-    {
-      "basename": "会议室二和多数元素",
-      "path": "Basic/会议室二和多数元素.md"
-    },
-    {
-      "basename": "Go 中的 GC",
-      "path": "Basic/Go 中的 GC.md"
-    },
-    {
-      "basename": "草稿",
-      "path": "Work/草稿.md"
-    },
-    {
-      "basename": "第一周",
-      "path": "Diary/2025/八月/第一周.md"
-    },
-    {
-      "basename": "账号密码 - 常用信息",
-      "path": "Work/账号密码 - 常用信息.md"
-    },
-    {
-      "basename": "python 在 import 的时候发生了什么？",
-      "path": "Basic/0 - Python/python 在 import 的时候发生了什么？.md"
-    },
-    {
-      "basename": "Dify 开发环境搭建",
-      "path": "Work/Dify 开发环境搭建.md"
-    },
-    {
-      "basename": "WSGI 接口",
-      "path": "Basic/0 - Python/1 - 中级/22 - Web 开发/WSGI 接口.md"
-    },
-    {
-      "basename": "1. 使用 __slots__",
-      "path": "Basic/0 - Python/1 - 中级/11 - 面向对象高级/1. 使用 __slots__.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Basic/0 - Python/1 - 中级/Untitled.md"
-    },
-    {
-      "basename": "tenxun",
-      "path": "Basic/Mock&Test/tenxun.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Basic/FrontEnd/Untitled.md"
-    },
-    {
-      "basename": "id 和 ref 的区别",
-      "path": "Basic/FrontEnd/id 和 ref 的区别.md"
-    },
-    {
-      "basename": "2. 访问限制",
-      "path": "Basic/0 - Python/1 - 中级/10 - 面向对象编程/2. 访问限制.md"
-    },
-    {
-      "basename": "垃圾回收机制",
-      "path": "Basic/0 - Python/垃圾回收机制.md"
     }
   ],
   "omittedPaths": [],
