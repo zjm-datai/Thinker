@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "第一周",
+      "path": "Diary/2025/八月/第一周.md"
+    },
+    {
+      "basename": "账号密码 - 常用信息",
+      "path": "Work/账号密码 - 常用信息.md"
+    },
+    {
+      "basename": "langraph 生成文档",
+      "path": "Work/DigitalPerson/langraph 生成文档.md"
+    },
+    {
       "basename": "3. ThreadLocal",
       "path": "Basic/0 - Python/1 - 中级/14 - 进程和线程/3. ThreadLocal.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "4. 赋值",
       "path": "Basic/1 - GoLang/1 - 圣经/2-程序结构/4. 赋值.md"
-    },
-    {
-      "basename": "账号密码 - 常用信息",
-      "path": "Work/账号密码 - 常用信息.md"
     },
     {
       "basename": "2. 声明",
@@ -79,10 +87,6 @@
     {
       "basename": "上下文学习中的位置偏差",
       "path": "Basic/0 - Python/LangChain/上下文学习中的位置偏差.md"
-    },
-    {
-      "basename": "第一周",
-      "path": "Diary/2025/八月/第一周.md"
     },
     {
       "basename": "什么是 storeToRefs()",
@@ -195,10 +199,6 @@
     {
       "basename": "5. 分布式进程",
       "path": "Basic/0 - Python/1 - 中级/14 - 进程和线程/5. 分布式进程.md"
-    },
-    {
-      "basename": "协程池的作用",
-      "path": "Basic/1 - GoLang/协程池的作用.md"
     }
   ],
   "omittedPaths": [],
