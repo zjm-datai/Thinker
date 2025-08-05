@@ -5,16 +5,72 @@
       "path": "Diary/2025/八月/第一周.md"
     },
     {
-      "basename": "账号密码 - 常用信息",
-      "path": "Work/账号密码 - 常用信息.md"
+      "basename": "什么情况会全表扫描",
+      "path": "Basic/什么情况会全表扫描.md"
+    },
+    {
+      "basename": "RAG - 混合搜索",
+      "path": "Basic/0 - Python/RAG - 混合搜索.md"
+    },
+    {
+      "basename": "tenxun",
+      "path": "Basic/Mock&Test/tenxun.md"
+    },
+    {
+      "basename": "接口性能如何优化",
+      "path": "Basic/接口性能如何优化.md"
+    },
+    {
+      "basename": "OSI 模型",
+      "path": "Basic/OSI 模型.md"
+    },
+    {
+      "basename": "lua 脚本是怎么使用的",
+      "path": "Basic/lua 脚本是怎么使用的.md"
+    },
+    {
+      "basename": "how IP address work",
+      "path": "Basic/how IP address work.md"
+    },
+    {
+      "basename": "Why is my FastAPI throughput so low",
+      "path": "Basic/0 - Python/FastAPI/Why is my FastAPI throughput so low.md"
+    },
+    {
+      "basename": "2. 递归",
+      "path": "Basic/1 - GoLang/1 - 圣经/5 - 函数/2. 递归.md"
+    },
+    {
+      "basename": "切片使用的时候需要注意什么？",
+      "path": "Basic/1 - GoLang/切片使用的时候需要注意什么？.md"
+    },
+    {
+      "basename": "1. 函数声明",
+      "path": "Basic/1 - GoLang/1 - 圣经/5 - 函数/1. 函数声明.md"
+    },
+    {
+      "basename": "dict.copy()",
+      "path": "Basic/0 - Python/dict.copy().md"
+    },
+    {
+      "basename": "How does function calling  parse the user's intention",
+      "path": "Basic/0 - Python/How does function calling  parse the user's intention.md"
+    },
+    {
+      "basename": "GIL 锁大揭秘",
+      "path": "Basic/0 - Python/GIL 锁大揭秘.md"
+    },
+    {
+      "basename": "3. ThreadLocal",
+      "path": "Basic/0 - Python/1 - 中级/14 - 进程和线程/3. ThreadLocal.md"
     },
     {
       "basename": "langraph 生成文档",
       "path": "Work/DigitalPerson/langraph 生成文档.md"
     },
     {
-      "basename": "3. ThreadLocal",
-      "path": "Basic/0 - Python/1 - 中级/14 - 进程和线程/3. ThreadLocal.md"
+      "basename": "账号密码 - 常用信息",
+      "path": "Work/账号密码 - 常用信息.md"
     },
     {
       "basename": "2. 多线程",
@@ -39,10 +95,6 @@
     {
       "basename": "请求上下文",
       "path": "Basic/0 - Python/Flask/请求上下文.md"
-    },
-    {
-      "basename": "dict.copy()",
-      "path": "Basic/0 - Python/dict.copy().md"
     },
     {
       "basename": "default_factory",
@@ -101,14 +153,6 @@
       "path": "Basic/0 - Python/元类.md"
     },
     {
-      "basename": "切片使用的时候需要注意什么？",
-      "path": "Basic/1 - GoLang/切片使用的时候需要注意什么？.md"
-    },
-    {
-      "basename": "tenxun",
-      "path": "Basic/Mock&Test/tenxun.md"
-    },
-    {
       "basename": "多线程打印",
       "path": "Basic/多线程打印.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "3. Map",
       "path": "Basic/1 - GoLang/1 - 圣经/4-复合数据结构/3. Map.md"
-    },
-    {
-      "basename": "0. 复合数据类型",
-      "path": "Basic/1 - GoLang/1 - 圣经/4-复合数据结构/0. 复合数据类型.md"
-    },
-    {
-      "basename": "2. 浮点数",
-      "path": "Basic/1 - GoLang/1 - 圣经/3-基本数据类型/2. 浮点数.md"
-    },
-    {
-      "basename": "0-Prefix",
-      "path": "Basic/0 - Python/EffectivePython/0-Prefix.md"
-    },
-    {
-      "basename": "3. 实现接口的条件",
-      "path": "Basic/1 - GoLang/1 - 圣经/7-接口/3. 实现接口的条件.md"
-    },
-    {
-      "basename": "3. 通过嵌入结构体来扩展类型",
-      "path": "Basic/1 - GoLang/1 - 圣经/6-方法/3. 通过嵌入结构体来扩展类型.md"
-    },
-    {
-      "basename": "0",
-      "path": "Basic/1 - GoLang/1 - 圣经/10 - 包和工具/0.md"
-    },
-    {
-      "basename": "9.1 竞态条件",
-      "path": "Basic/1 - GoLang/1 - 圣经/9 - 基于共享变量的并发/9.1 竞态条件.md"
-    },
-    {
-      "basename": "7. 基于 select 的多路复用",
-      "path": "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/7. 基于 select 的多路复用.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Basic/1 - GoLang/1 - 圣经/8 - Goroutines 和 Channels/Untitled.md"
-    },
-    {
-      "basename": "resume",
-      "path": "Basic/Mock&Test/resume.md"
-    },
-    {
-      "basename": "5. 分布式进程",
-      "path": "Basic/0 - Python/1 - 中级/14 - 进程和线程/5. 分布式进程.md"
     }
   ],
   "omittedPaths": [],
