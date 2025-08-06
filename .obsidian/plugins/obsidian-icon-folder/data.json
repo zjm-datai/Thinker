@@ -36,7 +36,7 @@
   },
   "Basic": "LiAlbum",
   "Diary": "LiAlignStartVertical",
-  "Suibi": "LiAsteriskSquare",
   "Work": "LiAirplay",
-  "Z-resources": "LiArchive"
+  "Z-resources": "LiArchive",
+  "Diary/Suibi": "LiAsteriskSquare"
 }

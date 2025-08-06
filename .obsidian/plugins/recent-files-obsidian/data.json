@@ -5,76 +5,80 @@
       "path": "Diary/2025/八月/第一周.md"
     },
     {
-      "basename": "什么情况会全表扫描",
-      "path": "Basic/什么情况会全表扫描.md"
+      "basename": "账号密码 - 常用信息",
+      "path": "Work/账号密码 - 常用信息.md"
     },
     {
-      "basename": "RAG - 混合搜索",
-      "path": "Basic/0 - Python/RAG - 混合搜索.md"
+      "basename": "多线程打印",
+      "path": "Basic/IT/多线程打印.md"
     },
     {
       "basename": "tenxun",
-      "path": "Basic/Mock&Test/tenxun.md"
+      "path": "Basic/IT/Mock&Test/tenxun.md"
+    },
+    {
+      "basename": "什么情况会全表扫描",
+      "path": "Basic/IT/什么情况会全表扫描.md"
+    },
+    {
+      "basename": "RAG - 混合搜索",
+      "path": "Basic/IT/0 - Python/RAG - 混合搜索.md"
     },
     {
       "basename": "接口性能如何优化",
-      "path": "Basic/接口性能如何优化.md"
+      "path": "Basic/IT/接口性能如何优化.md"
     },
     {
       "basename": "OSI 模型",
-      "path": "Basic/OSI 模型.md"
+      "path": "Basic/IT/OSI 模型.md"
     },
     {
       "basename": "lua 脚本是怎么使用的",
-      "path": "Basic/lua 脚本是怎么使用的.md"
+      "path": "Basic/IT/lua 脚本是怎么使用的.md"
     },
     {
       "basename": "how IP address work",
-      "path": "Basic/how IP address work.md"
+      "path": "Basic/IT/how IP address work.md"
     },
     {
       "basename": "Why is my FastAPI throughput so low",
-      "path": "Basic/0 - Python/FastAPI/Why is my FastAPI throughput so low.md"
+      "path": "Basic/IT/0 - Python/FastAPI/Why is my FastAPI throughput so low.md"
     },
     {
       "basename": "2. 递归",
-      "path": "Basic/1 - GoLang/1 - 圣经/5 - 函数/2. 递归.md"
+      "path": "Basic/IT/1 - GoLang/1 - 圣经/5 - 函数/2. 递归.md"
     },
     {
       "basename": "切片使用的时候需要注意什么？",
-      "path": "Basic/1 - GoLang/切片使用的时候需要注意什么？.md"
+      "path": "Basic/IT/1 - GoLang/切片使用的时候需要注意什么？.md"
     },
     {
       "basename": "1. 函数声明",
-      "path": "Basic/1 - GoLang/1 - 圣经/5 - 函数/1. 函数声明.md"
+      "path": "Basic/IT/1 - GoLang/1 - 圣经/5 - 函数/1. 函数声明.md"
     },
     {
       "basename": "dict.copy()",
-      "path": "Basic/0 - Python/dict.copy().md"
+      "path": "Basic/IT/0 - Python/dict.copy().md"
     },
     {
       "basename": "How does function calling  parse the user's intention",
-      "path": "Basic/0 - Python/How does function calling  parse the user's intention.md"
+      "path": "Basic/IT/0 - Python/How does function calling  parse the user's intention.md"
     },
     {
       "basename": "GIL 锁大揭秘",
-      "path": "Basic/0 - Python/GIL 锁大揭秘.md"
+      "path": "Basic/IT/0 - Python/GIL 锁大揭秘.md"
     },
     {
       "basename": "3. ThreadLocal",
-      "path": "Basic/0 - Python/1 - 中级/14 - 进程和线程/3. ThreadLocal.md"
+      "path": "Basic/IT/0 - Python/1 - 中级/14 - 进程和线程/3. ThreadLocal.md"
     },
     {
       "basename": "langraph 生成文档",
       "path": "Work/DigitalPerson/langraph 生成文档.md"
     },
     {
-      "basename": "账号密码 - 常用信息",
-      "path": "Work/账号密码 - 常用信息.md"
-    },
-    {
       "basename": "2. 多线程",
-      "path": "Basic/0 - Python/1 - 中级/14 - 进程和线程/2. 多线程.md"
+      "path": "Basic/IT/0 - Python/1 - 中级/14 - 进程和线程/2. 多线程.md"
     },
     {
       "basename": "HomePage",
@@ -82,123 +86,119 @@
     },
     {
       "basename": "4. 赋值",
-      "path": "Basic/1 - GoLang/1 - 圣经/2-程序结构/4. 赋值.md"
+      "path": "Basic/IT/1 - GoLang/1 - 圣经/2-程序结构/4. 赋值.md"
     },
     {
       "basename": "2. 声明",
-      "path": "Basic/1 - GoLang/1 - 圣经/2-程序结构/2. 声明.md"
+      "path": "Basic/IT/1 - GoLang/1 - 圣经/2-程序结构/2. 声明.md"
     },
     {
       "basename": "0. 学习路径",
-      "path": "Basic/1 - GoLang/0. 学习路径.md"
+      "path": "Basic/IT/1 - GoLang/0. 学习路径.md"
     },
     {
       "basename": "请求上下文",
-      "path": "Basic/0 - Python/Flask/请求上下文.md"
+      "path": "Basic/IT/0 - Python/Flask/请求上下文.md"
     },
     {
       "basename": "default_factory",
-      "path": "Basic/0 - Python/default_factory.md"
+      "path": "Basic/IT/0 - Python/default_factory.md"
     },
     {
       "basename": "contextvars",
-      "path": "Basic/0 - Python/contextvars.md"
+      "path": "Basic/IT/0 - Python/contextvars.md"
     },
     {
       "basename": "Dify 中是如何使用 LocalStorage 存储 token 的",
-      "path": "Basic/0 - Python/Flask/A-Projects/Dify/Dify 中是如何使用 LocalStorage 存储 token 的.md"
+      "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/Dify 中是如何使用 LocalStorage 存储 token 的.md"
     },
     {
       "basename": "单精度和双精度有什么区别",
-      "path": "Basic/0 - Python/单精度和双精度有什么区别.md"
+      "path": "Basic/IT/0 - Python/单精度和双精度有什么区别.md"
     },
     {
       "basename": "集合",
-      "path": "Basic/0 - Python/集合.md"
+      "path": "Basic/IT/0 - Python/集合.md"
     },
     {
       "basename": "垃圾回收机制",
-      "path": "Basic/0 - Python/垃圾回收机制.md"
+      "path": "Basic/IT/0 - Python/垃圾回收机制.md"
     },
     {
       "basename": "Untitled",
-      "path": "Basic/0 - Python/Untitled.md"
+      "path": "Basic/IT/0 - Python/Untitled.md"
     },
     {
       "basename": "uv 中添加加速镜像",
-      "path": "Basic/0 - Python/uv 中添加加速镜像.md"
+      "path": "Basic/IT/0 - Python/uv 中添加加速镜像.md"
     },
     {
       "basename": "python 在 import 的时候发生了什么？",
-      "path": "Basic/0 - Python/python 在 import 的时候发生了什么？.md"
+      "path": "Basic/IT/0 - Python/python 在 import 的时候发生了什么？.md"
     },
     {
       "basename": "Python 中的包和模块",
-      "path": "Basic/0 - Python/Python 中的包和模块.md"
+      "path": "Basic/IT/0 - Python/Python 中的包和模块.md"
     },
     {
       "basename": "上下文学习中的位置偏差",
-      "path": "Basic/0 - Python/LangChain/上下文学习中的位置偏差.md"
+      "path": "Basic/IT/0 - Python/LangChain/上下文学习中的位置偏差.md"
     },
     {
       "basename": "什么是 storeToRefs()",
-      "path": "Basic/FrontEnd/VUE/什么是 storeToRefs().md"
+      "path": "Basic/IT/FrontEnd/VUE/什么是 storeToRefs().md"
     },
     {
       "basename": "一个请求进入的时候",
-      "path": "Basic/0 - Python/FastAPI/一个请求进入的时候.md"
+      "path": "Basic/IT/0 - Python/FastAPI/一个请求进入的时候.md"
     },
     {
       "basename": "元类",
-      "path": "Basic/0 - Python/元类.md"
-    },
-    {
-      "basename": "多线程打印",
-      "path": "Basic/多线程打印.md"
+      "path": "Basic/IT/0 - Python/元类.md"
     },
     {
       "basename": "4. 方法值和方法表达式",
-      "path": "Basic/1 - GoLang/1 - 圣经/6-方法/4. 方法值和方法表达式.md"
+      "path": "Basic/IT/1 - GoLang/1 - 圣经/6-方法/4. 方法值和方法表达式.md"
     },
     {
       "basename": "4. 结构体",
-      "path": "Basic/1 - GoLang/1 - 圣经/4-复合数据结构/4. 结构体.md"
+      "path": "Basic/IT/1 - GoLang/1 - 圣经/4-复合数据结构/4. 结构体.md"
     },
     {
       "basename": "2. 基于指针对象的方法",
-      "path": "Basic/1 - GoLang/1 - 圣经/6-方法/2. 基于指针对象的方法.md"
+      "path": "Basic/IT/1 - GoLang/1 - 圣经/6-方法/2. 基于指针对象的方法.md"
     },
     {
       "basename": "8 种记忆系统架构",
-      "path": "Basic/0 - Python/LangChain/8 种记忆系统架构.md"
+      "path": "Basic/IT/0 - Python/LangChain/8 种记忆系统架构.md"
     },
     {
       "basename": "内存逃逸分析",
-      "path": "Basic/1 - GoLang/内存逃逸分析.md"
+      "path": "Basic/IT/1 - GoLang/内存逃逸分析.md"
     },
     {
       "basename": "菜鸟",
-      "path": "Basic/0 - Python/1 - 初级/菜鸟.md"
+      "path": "Basic/IT/0 - Python/1 - 初级/菜鸟.md"
     },
     {
       "basename": "31. 别让函数调用者解包太多变量，改用结果对象返回",
-      "path": "Basic/0 - Python/EffectivePython/5 - Functions/31. 别让函数调用者解包太多变量，改用结果对象返回.md"
+      "path": "Basic/IT/0 - Python/EffectivePython/5 - Functions/31. 别让函数调用者解包太多变量，改用结果对象返回.md"
     },
     {
       "basename": "30. 要知道函数的参数是可以被修改的",
-      "path": "Basic/0 - Python/EffectivePython/5 - Functions/30. 要知道函数的参数是可以被修改的.md"
+      "path": "Basic/IT/0 - Python/EffectivePython/5 - Functions/30. 要知道函数的参数是可以被修改的.md"
     },
     {
       "basename": "菜鸟教程 - Go",
-      "path": "Basic/1 - GoLang/菜鸟教程 - Go.md"
+      "path": "Basic/IT/1 - GoLang/菜鸟教程 - Go.md"
     },
     {
       "basename": "go 中的 string",
-      "path": "Basic/1 - GoLang/go 中的 string.md"
+      "path": "Basic/IT/1 - GoLang/go 中的 string.md"
     },
     {
       "basename": "3. Map",
-      "path": "Basic/1 - GoLang/1 - 圣经/4-复合数据结构/3. Map.md"
+      "path": "Basic/IT/1 - GoLang/1 - 圣经/4-复合数据结构/3. Map.md"
     }
   ],
   "omittedPaths": [],
