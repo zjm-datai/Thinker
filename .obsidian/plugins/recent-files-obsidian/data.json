@@ -9,6 +9,54 @@
       "path": "Work/账号密码 - 常用信息.md"
     },
     {
+      "basename": "Drawing 2025-08-07 17.13.50.excalidraw",
+      "path": "Excalidraw/Drawing 2025-08-07 17.13.50.excalidraw.md"
+    },
+    {
+      "basename": "3. 简单算法举例",
+      "path": "Basic/STD/NB/CProgram/2 - 算法，程序的灵魂/3. 简单算法举例.md"
+    },
+    {
+      "basename": "2. 什么是算法",
+      "path": "Basic/STD/NB/CProgram/2 - 算法，程序的灵魂/2. 什么是算法.md"
+    },
+    {
+      "basename": "1. 程序等于算法加数据结构",
+      "path": "Basic/STD/NB/CProgram/2 - 算法，程序的灵魂/1. 程序等于算法加数据结构.md"
+    },
+    {
+      "basename": "7. 习题",
+      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/7. 习题.md"
+    },
+    {
+      "basename": "5. 运行 C 程序的步骤和方法",
+      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/5. 运行 C 程序的步骤和方法.md"
+    },
+    {
+      "basename": "4. 最简单的 C 语言程序",
+      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/4. 最简单的 C 语言程序.md"
+    },
+    {
+      "basename": "6. 程序设计的任务",
+      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/6. 程序设计的任务.md"
+    },
+    {
+      "basename": "3. C 语言发展及特点",
+      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/3. C 语言发展及特点.md"
+    },
+    {
+      "basename": "2. 什么是计算机语言",
+      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/2. 什么是计算机语言.md"
+    },
+    {
+      "basename": "1. 什么是计算机程序",
+      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/1. 什么是计算机程序.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
       "basename": "多线程打印",
       "path": "Basic/IT/多线程打印.md"
     },
@@ -81,10 +129,6 @@
       "path": "Basic/IT/0 - Python/1 - 中级/14 - 进程和线程/2. 多线程.md"
     },
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
-    },
-    {
       "basename": "4. 赋值",
       "path": "Basic/IT/1 - GoLang/1 - 圣经/2-程序结构/4. 赋值.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "元类",
       "path": "Basic/IT/0 - Python/元类.md"
-    },
-    {
-      "basename": "4. 方法值和方法表达式",
-      "path": "Basic/IT/1 - GoLang/1 - 圣经/6-方法/4. 方法值和方法表达式.md"
-    },
-    {
-      "basename": "4. 结构体",
-      "path": "Basic/IT/1 - GoLang/1 - 圣经/4-复合数据结构/4. 结构体.md"
-    },
-    {
-      "basename": "2. 基于指针对象的方法",
-      "path": "Basic/IT/1 - GoLang/1 - 圣经/6-方法/2. 基于指针对象的方法.md"
-    },
-    {
-      "basename": "8 种记忆系统架构",
-      "path": "Basic/IT/0 - Python/LangChain/8 种记忆系统架构.md"
-    },
-    {
-      "basename": "内存逃逸分析",
-      "path": "Basic/IT/1 - GoLang/内存逃逸分析.md"
-    },
-    {
-      "basename": "菜鸟",
-      "path": "Basic/IT/0 - Python/1 - 初级/菜鸟.md"
-    },
-    {
-      "basename": "31. 别让函数调用者解包太多变量，改用结果对象返回",
-      "path": "Basic/IT/0 - Python/EffectivePython/5 - Functions/31. 别让函数调用者解包太多变量，改用结果对象返回.md"
-    },
-    {
-      "basename": "30. 要知道函数的参数是可以被修改的",
-      "path": "Basic/IT/0 - Python/EffectivePython/5 - Functions/30. 要知道函数的参数是可以被修改的.md"
-    },
-    {
-      "basename": "菜鸟教程 - Go",
-      "path": "Basic/IT/1 - GoLang/菜鸟教程 - Go.md"
-    },
-    {
-      "basename": "go 中的 string",
-      "path": "Basic/IT/1 - GoLang/go 中的 string.md"
-    },
-    {
-      "basename": "3. Map",
-      "path": "Basic/IT/1 - GoLang/1 - 圣经/4-复合数据结构/3. Map.md"
     }
   ],
   "omittedPaths": [],

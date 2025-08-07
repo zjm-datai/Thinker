@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c6a2080fef4e9cb",
+        "id": "f846fe6acf1435bf",
         "type": "tabs",
         "children": [
           {
-            "id": "b5dbd49bc735a82d",
+            "id": "2dd2b147df0787ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -208,13 +209,32 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "obsidian-git:Open Git source control": true,
-      "open-vscode:VSCode": false
+      "open-vscode:VSCode": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "d9304cc9fcbea19c",
   "lastOpenFiles": [
     "Work/账号密码 - 常用信息.md",
     "Diary/2025/八月/第一周.md",
+    "Excalidraw/Drawing 2025-08-07 17.13.50.excalidraw.md",
+    "Excalidraw/Z-resources/icons.excalidrawlib",
+    "Excalidraw/Z-resources",
+    "Excalidraw",
+    "Basic/STD/NB/CProgram/2 - 算法，程序的灵魂/3. 简单算法举例.md",
+    "Basic/STD/NB/CProgram/2 - 算法，程序的灵魂/2. 什么是算法.md",
+    "Basic/STD/NB/CProgram/2 - 算法，程序的灵魂/1. 程序等于算法加数据结构.md",
+    "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/7. 习题.md",
+    "Basic/STD/NB/CProgram/2 - 算法，程序的灵魂",
+    "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/5. 运行 C 程序的步骤和方法.md",
+    "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/4. 最简单的 C 语言程序.md",
+    "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/6. 程序设计的任务.md",
+    "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/3. C 语言发展及特点.md",
+    "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/2. 什么是计算机语言.md",
+    "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/1. 什么是计算机程序.md",
+    "Basic/STD/NB/CProgram/Untitled.md",
+    "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言",
+    "HomePage.md",
     "Basic/STD/NB",
     "Basic/STD/NB/CProgram",
     "Basic/STD/NB/Math2",
@@ -226,28 +246,10 @@
     "Basic/IT/什么情况会全表扫描.md",
     "Basic/IT/1 - GoLang/1 - 圣经/5 - 函数/2. 递归.md",
     "Basic/IT/1 - GoLang/1 - 圣经/5 - 函数/1. 函数声明.md",
-    "Basic/IT/1 - GoLang/1 - 圣经/5 - 函数",
     "Basic/IT/0 - Python/RAG - 混合搜索.md",
-    "HomePage.md",
     "Work/DigitalPerson/langraph 生成文档.md",
     "Basic/IT/0 - Python/1 - 中级/14 - 进程和线程/3. ThreadLocal.md",
     "Basic/IT/1 - GoLang/1 - 圣经/2-程序结构/4. 赋值.md",
-    "Basic/IT/1 - GoLang/1 - 圣经/2-程序结构/2. 声明.md",
-    "Basic/IT/1 - GoLang/0. 学习路径.md",
-    "Basic/IT/0 - Python/Flask/请求上下文.md",
-    "Basic/IT/0 - Python/dict.copy().md",
-    "Basic/IT/0 - Python/default_factory.md",
-    "Basic/IT/0 - Python/contextvars.md",
-    "Basic/IT/0 - Python/Flask/A-Projects/Dify/Dify 中是如何使用 LocalStorage 存储 token 的.md",
-    "Basic/IT/0 - Python/1 - 中级/14 - 进程和线程/2. 多线程.md",
-    "Basic/IT/0 - Python/单精度和双精度有什么区别.md",
-    "Basic/IT/0 - Python/集合.md",
-    "Basic/IT/0 - Python/垃圾回收机制.md",
-    "Basic/IT/0 - Python/Untitled.md",
-    "Basic/IT/1 - GoLang/1 - 圣经/9 - 基于共享变量的并发",
-    "Basic/IT/1 - GoLang/1 - 圣经/2-程序结构",
-    "Basic/IT/1 - GoLang/1 - 圣经/10 - 包和工具",
-    "Basic/IT/0 - Python/EffectivePython/5 - Functions",
     "Basic/0 - Python/1 - 中级/Untitled.canvas",
     "Z-resources/Pasted image 20250730104657.png",
     "Z-resources/Pasted image 20250730101434.png",
