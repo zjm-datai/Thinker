@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "第一周",
-      "path": "Diary/2025/八月/第一周.md"
-    },
-    {
       "basename": "账号密码 - 常用信息",
       "path": "Work/账号密码 - 常用信息.md"
+    },
+    {
+      "basename": "2. 数据的表现形式及其运算",
+      "path": "Basic/STD/NB/CProgram/3 - 顺序程序设计/2. 数据的表现形式及其运算.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "Drawing 2025-08-08 09.08.49.excalidraw",
+      "path": "Excalidraw/Drawing 2025-08-08 09.08.49.excalidraw.md"
+    },
+    {
+      "basename": "第一周",
+      "path": "Diary/2025/八月/第一周.md"
     },
     {
       "basename": "Drawing 2025-08-07 17.13.50.excalidraw",
@@ -51,10 +63,6 @@
     {
       "basename": "1. 什么是计算机程序",
       "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/1. 什么是计算机程序.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
     },
     {
       "basename": "多线程打印",
@@ -191,14 +199,6 @@
     {
       "basename": "什么是 storeToRefs()",
       "path": "Basic/IT/FrontEnd/VUE/什么是 storeToRefs().md"
-    },
-    {
-      "basename": "一个请求进入的时候",
-      "path": "Basic/IT/0 - Python/FastAPI/一个请求进入的时候.md"
-    },
-    {
-      "basename": "元类",
-      "path": "Basic/IT/0 - Python/元类.md"
     }
   ],
   "omittedPaths": [],
