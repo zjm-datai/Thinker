@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "第二周",
+      "path": "Diary/2025/八月/第二周.md"
+    },
+    {
+      "basename": "第一周",
+      "path": "Diary/2025/八月/第一周.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
       "basename": "账号密码 - 常用信息",
       "path": "Work/账号密码 - 常用信息.md"
     },
@@ -9,16 +21,8 @@
       "path": "Basic/STD/NB/CProgram/3 - 顺序程序设计/2. 数据的表现形式及其运算.md"
     },
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
-    },
-    {
       "basename": "Drawing 2025-08-08 09.08.49.excalidraw",
       "path": "Excalidraw/Drawing 2025-08-08 09.08.49.excalidraw.md"
-    },
-    {
-      "basename": "第一周",
-      "path": "Diary/2025/八月/第一周.md"
     },
     {
       "basename": "Drawing 2025-08-07 17.13.50.excalidraw",
@@ -195,10 +199,6 @@
     {
       "basename": "上下文学习中的位置偏差",
       "path": "Basic/IT/0 - Python/LangChain/上下文学习中的位置偏差.md"
-    },
-    {
-      "basename": "什么是 storeToRefs()",
-      "path": "Basic/IT/FrontEnd/VUE/什么是 storeToRefs().md"
     }
   ],
   "omittedPaths": [],
