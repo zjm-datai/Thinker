@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "sse",
+      "path": "Basic/IT/sse.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
       "basename": "第二周",
       "path": "Diary/2025/八月/第二周.md"
     },
     {
       "basename": "第一周",
       "path": "Diary/2025/八月/第一周.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
     },
     {
       "basename": "账号密码 - 常用信息",
@@ -195,10 +199,6 @@
     {
       "basename": "Python 中的包和模块",
       "path": "Basic/IT/0 - Python/Python 中的包和模块.md"
-    },
-    {
-      "basename": "上下文学习中的位置偏差",
-      "path": "Basic/IT/0 - Python/LangChain/上下文学习中的位置偏差.md"
     }
   ],
   "omittedPaths": [],
