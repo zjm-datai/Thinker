@@ -1,20 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "第二周",
+      "path": "Diary/2025/八月/第二周.md"
+    },
+    {
+      "basename": "__init__",
+      "path": "Basic/IT/0 - Python/MCP/__init__.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "Basic/IT/0 - Python/MCP/未命名.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Basic/IT/0 - Python/MCP/Untitled.md"
+    },
+    {
+      "basename": "每个路由函数都创建实例",
+      "path": "Basic/IT/0 - Python/FastAPI/每个路由函数都创建实例.md"
+    },
+    {
+      "basename": "请求上下文",
+      "path": "Basic/IT/0 - Python/Flask/请求上下文.md"
+    },
+    {
+      "basename": "3. ThreadLocal",
+      "path": "Basic/IT/0 - Python/1 - 中级/14 - 进程和线程/3. ThreadLocal.md"
+    },
+    {
+      "basename": "第一周",
+      "path": "Diary/2025/八月/第一周.md"
+    },
+    {
+      "basename": "在 Python 中的依赖注入与控制反转",
+      "path": "Basic/IT/0 - Python/在 Python 中的依赖注入与控制反转.md"
+    },
+    {
+      "basename": "uv 中添加加速镜像",
+      "path": "Basic/IT/0 - Python/uv 中添加加速镜像.md"
+    },
+    {
       "basename": "sse",
       "path": "Basic/IT/sse.md"
     },
     {
       "basename": "HomePage",
       "path": "HomePage.md"
-    },
-    {
-      "basename": "第二周",
-      "path": "Diary/2025/八月/第二周.md"
-    },
-    {
-      "basename": "第一周",
-      "path": "Diary/2025/八月/第一周.md"
     },
     {
       "basename": "账号密码 - 常用信息",
@@ -133,10 +165,6 @@
       "path": "Basic/IT/0 - Python/GIL 锁大揭秘.md"
     },
     {
-      "basename": "3. ThreadLocal",
-      "path": "Basic/IT/0 - Python/1 - 中级/14 - 进程和线程/3. ThreadLocal.md"
-    },
-    {
       "basename": "langraph 生成文档",
       "path": "Work/DigitalPerson/langraph 生成文档.md"
     },
@@ -157,10 +185,6 @@
       "path": "Basic/IT/1 - GoLang/0. 学习路径.md"
     },
     {
-      "basename": "请求上下文",
-      "path": "Basic/IT/0 - Python/Flask/请求上下文.md"
-    },
-    {
       "basename": "default_factory",
       "path": "Basic/IT/0 - Python/default_factory.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "单精度和双精度有什么区别",
       "path": "Basic/IT/0 - Python/单精度和双精度有什么区别.md"
-    },
-    {
-      "basename": "集合",
-      "path": "Basic/IT/0 - Python/集合.md"
-    },
-    {
-      "basename": "垃圾回收机制",
-      "path": "Basic/IT/0 - Python/垃圾回收机制.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Basic/IT/0 - Python/Untitled.md"
-    },
-    {
-      "basename": "uv 中添加加速镜像",
-      "path": "Basic/IT/0 - Python/uv 中添加加速镜像.md"
-    },
-    {
-      "basename": "python 在 import 的时候发生了什么？",
-      "path": "Basic/IT/0 - Python/python 在 import 的时候发生了什么？.md"
-    },
-    {
-      "basename": "Python 中的包和模块",
-      "path": "Basic/IT/0 - Python/Python 中的包和模块.md"
     }
   ],
   "omittedPaths": [],
