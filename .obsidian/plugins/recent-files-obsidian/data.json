@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "2023年考研数学二复习全书 (李正元)",
+      "path": "Basic/STD/Math/2023年考研数学二复习全书 (李正元).pdf"
+    },
+    {
       "basename": "第二周",
       "path": "Diary/2025/八月/第二周.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "sse",
       "path": "Basic/IT/sse.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
     },
     {
       "basename": "账号密码 - 常用信息",
@@ -195,10 +199,6 @@
     {
       "basename": "Dify 中是如何使用 LocalStorage 存储 token 的",
       "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/Dify 中是如何使用 LocalStorage 存储 token 的.md"
-    },
-    {
-      "basename": "单精度和双精度有什么区别",
-      "path": "Basic/IT/0 - Python/单精度和双精度有什么区别.md"
     }
   ],
   "omittedPaths": [],
