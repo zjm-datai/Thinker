@@ -1,0 +1,208 @@
+{
+  "recentFiles": [
+    {
+      "basename": "语音模型测试",
+      "path": "Work/语音模型测试.md"
+    },
+    {
+      "basename": "账号密码 - 常用信息",
+      "path": "Work/账号密码 - 常用信息.md"
+    },
+    {
+      "basename": "Dify 插件的设计哲学",
+      "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/Dify 插件的设计哲学.md"
+    },
+    {
+      "basename": "插件注册",
+      "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/插件注册.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "康宁语音接口文档",
+      "path": "Work/DigitalPerson/康宁语音接口文档.md"
+    },
+    {
+      "basename": "第二周",
+      "path": "Diary/2025/八月/第二周.md"
+    },
+    {
+      "basename": "Drawing 2025-08-15 09.42.17.excalidraw",
+      "path": "Excalidraw/Drawing 2025-08-15 09.42.17.excalidraw.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/Untitled.md"
+    },
+    {
+      "basename": "Dify 中是如何使用 LocalStorage 存储 token 的",
+      "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/Dify 中是如何使用 LocalStorage 存储 token 的.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/Dify2Go/Untitled.md"
+    },
+    {
+      "basename": "开发日志",
+      "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/Dify2Go/开发日志.md"
+    },
+    {
+      "basename": "统一大模型入口插件",
+      "path": "Work/人工智能超市/统一大模型入口插件.md"
+    },
+    {
+      "basename": "生产环境 mq2data 部署",
+      "path": "Work/人工智能超市/生产环境 mq2data 部署.md"
+    },
+    {
+      "basename": "计费表表结构",
+      "path": "Work/人工智能超市/计费表表结构.md"
+    },
+    {
+      "basename": "消息队列日志入库",
+      "path": "Work/人工智能超市/消息队列日志入库.md"
+    },
+    {
+      "basename": "APISIX 第三方鉴权",
+      "path": "Work/人工智能超市/APISIX 第三方鉴权.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Work/Untitled.md"
+    },
+    {
+      "basename": "vllm 的自动批处理机制",
+      "path": "Basic/IT/0 - Python/VLLM/vllm 的自动批处理机制.md"
+    },
+    {
+      "basename": "vllm server 可以启动多个进程吗",
+      "path": "Basic/IT/0 - Python/VLLM/vllm server 可以启动多个进程吗.md"
+    },
+    {
+      "basename": "vllm 的基本架构",
+      "path": "Basic/IT/0 - Python/VLLM/vllm 的基本架构.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Basic/IT/0 - Python/VLLM/Untitled.md"
+    },
+    {
+      "basename": "推理 AudioModel",
+      "path": "Basic/IT/0 - Python/VLLM/推理 AudioModel.md"
+    },
+    {
+      "basename": "2023年考研数学二复习全书 (李正元)",
+      "path": "Basic/STD/Math/2023年考研数学二复习全书 (李正元).pdf"
+    },
+    {
+      "basename": "__init__",
+      "path": "Basic/IT/0 - Python/MCP/__init__.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "Basic/IT/0 - Python/MCP/未命名.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Basic/IT/0 - Python/MCP/Untitled.md"
+    },
+    {
+      "basename": "每个路由函数都创建实例",
+      "path": "Basic/IT/0 - Python/FastAPI/每个路由函数都创建实例.md"
+    },
+    {
+      "basename": "请求上下文",
+      "path": "Basic/IT/0 - Python/Flask/请求上下文.md"
+    },
+    {
+      "basename": "3. ThreadLocal",
+      "path": "Basic/IT/0 - Python/1 - 中级/14 - 进程和线程/3. ThreadLocal.md"
+    },
+    {
+      "basename": "第一周",
+      "path": "Diary/2025/八月/第一周.md"
+    },
+    {
+      "basename": "在 Python 中的依赖注入与控制反转",
+      "path": "Basic/IT/0 - Python/在 Python 中的依赖注入与控制反转.md"
+    },
+    {
+      "basename": "uv 中添加加速镜像",
+      "path": "Basic/IT/0 - Python/uv 中添加加速镜像.md"
+    },
+    {
+      "basename": "sse",
+      "path": "Basic/IT/sse.md"
+    },
+    {
+      "basename": "2. 数据的表现形式及其运算",
+      "path": "Basic/STD/NB/CProgram/3 - 顺序程序设计/2. 数据的表现形式及其运算.md"
+    },
+    {
+      "basename": "Drawing 2025-08-08 09.08.49.excalidraw",
+      "path": "Excalidraw/Drawing 2025-08-08 09.08.49.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2025-08-07 17.13.50.excalidraw",
+      "path": "Excalidraw/Drawing 2025-08-07 17.13.50.excalidraw.md"
+    },
+    {
+      "basename": "3. 简单算法举例",
+      "path": "Basic/STD/NB/CProgram/2 - 算法，程序的灵魂/3. 简单算法举例.md"
+    },
+    {
+      "basename": "2. 什么是算法",
+      "path": "Basic/STD/NB/CProgram/2 - 算法，程序的灵魂/2. 什么是算法.md"
+    },
+    {
+      "basename": "1. 程序等于算法加数据结构",
+      "path": "Basic/STD/NB/CProgram/2 - 算法，程序的灵魂/1. 程序等于算法加数据结构.md"
+    },
+    {
+      "basename": "7. 习题",
+      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/7. 习题.md"
+    },
+    {
+      "basename": "5. 运行 C 程序的步骤和方法",
+      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/5. 运行 C 程序的步骤和方法.md"
+    },
+    {
+      "basename": "4. 最简单的 C 语言程序",
+      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/4. 最简单的 C 语言程序.md"
+    },
+    {
+      "basename": "6. 程序设计的任务",
+      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/6. 程序设计的任务.md"
+    },
+    {
+      "basename": "3. C 语言发展及特点",
+      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/3. C 语言发展及特点.md"
+    },
+    {
+      "basename": "2. 什么是计算机语言",
+      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/2. 什么是计算机语言.md"
+    },
+    {
+      "basename": "1. 什么是计算机程序",
+      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/1. 什么是计算机程序.md"
+    },
+    {
+      "basename": "多线程打印",
+      "path": "Basic/IT/多线程打印.md"
+    },
+    {
+      "basename": "tenxun",
+      "path": "Basic/IT/Mock&Test/tenxun.md"
+    },
+    {
+      "basename": "什么情况会全表扫描",
+      "path": "Basic/IT/什么情况会全表扫描.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

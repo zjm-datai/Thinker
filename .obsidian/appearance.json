@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Minimal",
+  "baseFontSize": 16,
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Consolas",
+  "interfaceFontFamily": "Inter",
+  "theme": "moonstone",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "mystyle"
+  ],
+  "showViewHeader": false
+}
