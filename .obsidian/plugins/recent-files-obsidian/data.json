@@ -1,24 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "语音模型测试",
-      "path": "Work/语音模型测试.md"
+      "basename": "3. 结构体指针",
+      "path": "Basic/STD/NB/CProgram/9 - 用户自己建立数据类型/3. 结构体指针.md"
     },
     {
-      "basename": "账号密码 - 常用信息",
-      "path": "Work/账号密码 - 常用信息.md"
+      "basename": "2. 使用结构体数组",
+      "path": "Basic/STD/NB/CProgram/9 - 用户自己建立数据类型/2. 使用结构体数组.md"
+    },
+    {
+      "basename": "1. 定义和使用结构体变量",
+      "path": "Basic/STD/NB/CProgram/9 - 用户自己建立数据类型/1. 定义和使用结构体变量.md"
+    },
+    {
+      "basename": "1. 选择结构和条件判断",
+      "path": "Basic/STD/NB/CProgram/4 - 选择程序设计/1. 选择结构和条件判断.md"
+    },
+    {
+      "basename": "1 极限、连续和求极限的方法",
+      "path": "Basic/STD/NB/Math/1 极限、连续和求极限的方法.md"
+    },
+    {
+      "basename": "开发环境搭建",
+      "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/开发环境搭建.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "一个请求进入的时候",
+      "path": "Basic/IT/0 - Python/FastAPI/一个请求进入的时候.md"
+    },
+    {
+      "basename": "Dify 开发环境搭建",
+      "path": "Work/Dify 开发环境搭建.md"
     },
     {
       "basename": "Dify 插件的设计哲学",
       "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/Dify 插件的设计哲学.md"
     },
     {
-      "basename": "插件注册",
-      "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/插件注册.md"
+      "basename": "账号密码 - 常用信息",
+      "path": "Work/账号密码 - 常用信息.md"
     },
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
+      "basename": "语音模型测试",
+      "path": "Work/语音模型测试.md"
+    },
+    {
+      "basename": "插件注册",
+      "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/插件注册.md"
     },
     {
       "basename": "康宁语音接口文档",
@@ -30,7 +62,7 @@
     },
     {
       "basename": "Drawing 2025-08-15 09.42.17.excalidraw",
-      "path": "Excalidraw/Drawing 2025-08-15 09.42.17.excalidraw.md"
+      "path": "Z-resources/Excalidraw/Drawing 2025-08-15 09.42.17.excalidraw.md"
     },
     {
       "basename": "Untitled",
@@ -142,11 +174,11 @@
     },
     {
       "basename": "Drawing 2025-08-08 09.08.49.excalidraw",
-      "path": "Excalidraw/Drawing 2025-08-08 09.08.49.excalidraw.md"
+      "path": "Z-resources/Excalidraw/Drawing 2025-08-08 09.08.49.excalidraw.md"
     },
     {
       "basename": "Drawing 2025-08-07 17.13.50.excalidraw",
-      "path": "Excalidraw/Drawing 2025-08-07 17.13.50.excalidraw.md"
+      "path": "Z-resources/Excalidraw/Drawing 2025-08-07 17.13.50.excalidraw.md"
     },
     {
       "basename": "3. 简单算法举例",
@@ -167,38 +199,6 @@
     {
       "basename": "5. 运行 C 程序的步骤和方法",
       "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/5. 运行 C 程序的步骤和方法.md"
-    },
-    {
-      "basename": "4. 最简单的 C 语言程序",
-      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/4. 最简单的 C 语言程序.md"
-    },
-    {
-      "basename": "6. 程序设计的任务",
-      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/6. 程序设计的任务.md"
-    },
-    {
-      "basename": "3. C 语言发展及特点",
-      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/3. C 语言发展及特点.md"
-    },
-    {
-      "basename": "2. 什么是计算机语言",
-      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/2. 什么是计算机语言.md"
-    },
-    {
-      "basename": "1. 什么是计算机程序",
-      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/1. 什么是计算机程序.md"
-    },
-    {
-      "basename": "多线程打印",
-      "path": "Basic/IT/多线程打印.md"
-    },
-    {
-      "basename": "tenxun",
-      "path": "Basic/IT/Mock&Test/tenxun.md"
-    },
-    {
-      "basename": "什么情况会全表扫描",
-      "path": "Basic/IT/什么情况会全表扫描.md"
     }
   ],
   "omittedPaths": [],
