@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "1 极限、连续和求极限的方法",
+      "path": "Basic/STD/NB/Math/1 极限、连续和求极限的方法.md"
+    },
+    {
+      "basename": "1. 指针是什么？",
+      "path": "Basic/STD/NB/CProgram/8 - 善于利用指针/1. 指针是什么？.md"
+    },
+    {
       "basename": "3. 结构体指针",
       "path": "Basic/STD/NB/CProgram/9 - 用户自己建立数据类型/3. 结构体指针.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
     },
     {
       "basename": "2. 使用结构体数组",
@@ -17,16 +29,8 @@
       "path": "Basic/STD/NB/CProgram/4 - 选择程序设计/1. 选择结构和条件判断.md"
     },
     {
-      "basename": "1 极限、连续和求极限的方法",
-      "path": "Basic/STD/NB/Math/1 极限、连续和求极限的方法.md"
-    },
-    {
       "basename": "开发环境搭建",
       "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/开发环境搭建.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
     },
     {
       "basename": "一个请求进入的时候",
@@ -195,10 +199,6 @@
     {
       "basename": "7. 习题",
       "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/7. 习题.md"
-    },
-    {
-      "basename": "5. 运行 C 程序的步骤和方法",
-      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/5. 运行 C 程序的步骤和方法.md"
     }
   ],
   "omittedPaths": [],
