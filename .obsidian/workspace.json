@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "93d2243e88aa271a",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "5f2f78564f3b3b8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/kn_audio 部署.md",
+                "file": "Basic/STD/NB/Math/1 极限、连续和求极限的方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kn_audio 部署"
-            }
-          },
-          {
-            "id": "676d0abcbd688b2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/语音模型测试.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "语音模型测试"
-            }
-          },
-          {
-            "id": "0965d2e5f7bbc7d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2025/八月/第二周.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第二周"
+              "title": "1 极限、连续和求极限的方法"
             }
           }
         ]
@@ -72,7 +44,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -106,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
+    "width": 217.5,
     "collapsed": true
   },
   "right": {
@@ -123,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/kn_audio 部署.md",
+                "file": "Basic/STD/NB/Math/1 极限、连续和求极限的方法.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of kn_audio 部署"
+              "title": "1 极限、连续和求极限的方法 的大纲"
             }
           },
           {
@@ -204,8 +176,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -227,29 +199,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
+      "switcher:打开快速切换": true,
+      "graph:查看关系图谱": true,
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": true,
       "obsidian-git:Open Git source control": true,
       "open-vscode:VSCode": false,
       "homepage:Open homepage": true,
-      "obsidian-excalidraw-plugin:New drawing": true
+      "obsidian-excalidraw-plugin:新建绘图文件": true
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5f2f78564f3b3b8b",
   "lastOpenFiles": [
-    "Diary/2025/八月/第二周.md",
-    "Diary/2025/八月/第一周.md",
-    "Work/kn_audio 部署.md",
-    "Work/账号密码 - 常用信息.md",
-    "Work/语音模型测试.md",
-    "Work/Dify 开发环境搭建.md",
-    "Work/Linux 环境离线安装 docker&docker-compose.md",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250819003236.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250819003143.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250818223956.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250818223926.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250818223638.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250818214223.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250818202001.png",
     "HomePage.md",
     "Work/远程免密登录服务器.md",
+    "Work/kn_audio 部署.md",
+    "Work/Linux 环境离线安装 docker&docker-compose.md",
     "Basic/STD/NB/Math/1 极限、连续和求极限的方法.md",
     "Basic/STD/NB/CProgram/8 - 善于利用指针/1. 指针是什么？.md",
     "Basic/STD/NB/CProgram/9 - 用户自己建立数据类型/3. 结构体指针.md",
@@ -267,10 +241,14 @@
     "Basic/STD/NB/Math/Z-resources",
     "Basic/IT/0 - Python/Flask/A-Projects/Dify/开发环境搭建.md",
     "Basic/IT/0 - Python/FastAPI/一个请求进入的时候.md",
+    "Work/Dify 开发环境搭建.md",
     "Basic/IT/0 - Python/Flask/A-Projects/Dify/Dify 插件的设计哲学.md",
+    "Work/账号密码 - 常用信息.md",
+    "Work/语音模型测试.md",
     "Z-resources/Pasted image 20250815142149.png",
     "Basic/IT/0 - Python/Flask/A-Projects/Dify/插件注册.md",
     "Work/DigitalPerson/康宁语音接口文档.md",
+    "Diary/2025/八月/第二周.md",
     "Z-resources/Excalidraw/Drawing 2025-08-15 09.42.17.excalidraw.md",
     "Basic/IT/0 - Python/Flask/A-Projects/Dify/Untitled.md",
     "Basic/IT/0 - Python/Flask/A-Projects/Dify/Dify 中是如何使用 LocalStorage 存储 token 的.md",
@@ -279,14 +257,8 @@
     "Work/人工智能超市/统一大模型入口插件.md",
     "Work/Z-resources/Pasted image 20250814143859.png",
     "Work/DigitalPerson/Z-resources/康宁语音接入流程图-流程图.jpg",
-    "Basic/IT/0 - Python/VLLM/Z-resources/Pasted image 20250814102736.png",
     "Basic/IT/0 - Python/VLLM/Z-resources",
     "Basic/STD/Math/2023年考研数学二复习全书 (李正元).pdf",
-    "Basic/STD/NB/CProgram/3 - 顺序程序设计/Z-resources/Pasted image 20250808094544.png",
-    "Basic/STD/NB/CProgram/3 - 顺序程序设计/Z-resources/Pasted image 20250808094344.png",
-    "Basic/STD/NB/CProgram/3 - 顺序程序设计/Z-resources/Pasted image 20250808094244.png",
-    "Basic/0 - Python/1 - 中级/Untitled.canvas",
-    "Z-resources/Pasted image 20250730104657.png",
-    "Z-resources/Pasted image 20250730101434.png"
+    "Basic/0 - Python/1 - 中级/Untitled.canvas"
   ]
 }
