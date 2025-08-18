@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "kn_audio 部署",
+      "path": "Work/kn_audio 部署.md"
+    },
+    {
+      "basename": "第二周",
+      "path": "Diary/2025/八月/第二周.md"
+    },
+    {
+      "basename": "第一周",
+      "path": "Diary/2025/八月/第一周.md"
+    },
+    {
+      "basename": "账号密码 - 常用信息",
+      "path": "Work/账号密码 - 常用信息.md"
+    },
+    {
+      "basename": "语音模型测试",
+      "path": "Work/语音模型测试.md"
+    },
+    {
+      "basename": "Dify 开发环境搭建",
+      "path": "Work/Dify 开发环境搭建.md"
+    },
+    {
+      "basename": "Linux 环境离线安装 docker&docker-compose",
+      "path": "Work/Linux 环境离线安装 docker&docker-compose.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "远程免密登录服务器",
+      "path": "Work/远程免密登录服务器.md"
+    },
+    {
       "basename": "1 极限、连续和求极限的方法",
       "path": "Basic/STD/NB/Math/1 极限、连续和求极限的方法.md"
     },
@@ -11,10 +47,6 @@
     {
       "basename": "3. 结构体指针",
       "path": "Basic/STD/NB/CProgram/9 - 用户自己建立数据类型/3. 结构体指针.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
     },
     {
       "basename": "2. 使用结构体数组",
@@ -37,20 +69,8 @@
       "path": "Basic/IT/0 - Python/FastAPI/一个请求进入的时候.md"
     },
     {
-      "basename": "Dify 开发环境搭建",
-      "path": "Work/Dify 开发环境搭建.md"
-    },
-    {
       "basename": "Dify 插件的设计哲学",
       "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/Dify 插件的设计哲学.md"
-    },
-    {
-      "basename": "账号密码 - 常用信息",
-      "path": "Work/账号密码 - 常用信息.md"
-    },
-    {
-      "basename": "语音模型测试",
-      "path": "Work/语音模型测试.md"
     },
     {
       "basename": "插件注册",
@@ -59,10 +79,6 @@
     {
       "basename": "康宁语音接口文档",
       "path": "Work/DigitalPerson/康宁语音接口文档.md"
-    },
-    {
-      "basename": "第二周",
-      "path": "Diary/2025/八月/第二周.md"
     },
     {
       "basename": "Drawing 2025-08-15 09.42.17.excalidraw",
@@ -157,10 +173,6 @@
       "path": "Basic/IT/0 - Python/1 - 中级/14 - 进程和线程/3. ThreadLocal.md"
     },
     {
-      "basename": "第一周",
-      "path": "Diary/2025/八月/第一周.md"
-    },
-    {
       "basename": "在 Python 中的依赖注入与控制反转",
       "path": "Basic/IT/0 - Python/在 Python 中的依赖注入与控制反转.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "3. 简单算法举例",
       "path": "Basic/STD/NB/CProgram/2 - 算法，程序的灵魂/3. 简单算法举例.md"
-    },
-    {
-      "basename": "2. 什么是算法",
-      "path": "Basic/STD/NB/CProgram/2 - 算法，程序的灵魂/2. 什么是算法.md"
-    },
-    {
-      "basename": "1. 程序等于算法加数据结构",
-      "path": "Basic/STD/NB/CProgram/2 - 算法，程序的灵魂/1. 程序等于算法加数据结构.md"
-    },
-    {
-      "basename": "7. 习题",
-      "path": "Basic/STD/NB/CProgram/1 - 程序设计和 C 语言/7. 习题.md"
     }
   ],
   "omittedPaths": [],
