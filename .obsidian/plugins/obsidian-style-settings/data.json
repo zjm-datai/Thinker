@@ -10,5 +10,6 @@
   "minimal-style@@h3-size": "1.3em",
   "minimal-style@@h4-size": "1.2em",
   "minimal-style@@h5-size": "1.2em",
-  "minimal-style@@ribbon-style": "ribbon-hidden"
+  "minimal-style@@ribbon-style": "ribbon-hidden",
+  "minimal-mobile@@mobile-toolbar-off": false
 }
