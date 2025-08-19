@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "3. 通过指针引用数组",
+      "path": "Basic/STD/NB/CProgram/8 - 善于利用指针/3. 通过指针引用数组.md"
+    },
+    {
+      "basename": "2 指针变量",
+      "path": "Basic/STD/NB/CProgram/8 - 善于利用指针/2 指针变量.md"
+    },
+    {
+      "basename": "1 极限、连续和求极限的方法",
+      "path": "Basic/STD/NB/Math/1 极限、连续和求极限的方法.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
       "basename": "信号",
       "path": "Basic/IT/0 - Python/Flask/信号.md"
     },
@@ -93,14 +109,6 @@
       "path": "Work/Git&Linux&Docker/快速获取 docker 镜像 tar 包.md"
     },
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
-    },
-    {
-      "basename": "1 极限、连续和求极限的方法",
-      "path": "Basic/STD/NB/Math/1 极限、连续和求极限的方法.md"
-    },
-    {
       "basename": "第二周",
       "path": "Diary/2025/八月/第二周.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2023年考研数学二复习全书 (李正元)",
       "path": "Basic/STD/Math/2023年考研数学二复习全书 (李正元).pdf"
-    },
-    {
-      "basename": "__init__",
-      "path": "Basic/IT/0 - Python/MCP/__init__.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "Basic/IT/0 - Python/MCP/未命名.md"
     }
   ],
   "omittedPaths": [],

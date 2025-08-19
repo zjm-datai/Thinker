@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3385d9f36c1b9772",
+        "id": "602786d265efabd1",
         "type": "tabs",
         "children": [
           {
-            "id": "0b005bb2a9d7f9b5",
+            "id": "3636649486c91767",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Basic/STD/NB/CProgram/8 - 善于利用指针/3. 通过指针引用数组.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3. 通过指针引用数组"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 344.5,
+    "collapsed": true
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -90,12 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Basic/STD/NB/CProgram/8 - 善于利用指针/3. 通过指针引用数组.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "3. 通过指针引用数组 的大纲"
             }
           },
           {
@@ -161,7 +167,7 @@
               "state": {},
               "pinned": true,
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "关系图谱"
             }
           },
           {
@@ -184,30 +190,41 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 380.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "bases:Create new base": true,
-      "obsidian-excalidraw-plugin:New drawing": true,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": true,
       "open-vscode:VSCode": false,
       "homepage:Open homepage": true
     }
   },
-  "active": "d9304cc9fcbea19c",
+  "active": "3636649486c91767",
   "lastOpenFiles": [
+    "Basic/STD/NB/CProgram/8 - 善于利用指针/2 指针变量.md",
+    "Basic/STD/NB/CProgram/8 - 善于利用指针/3. 通过指针引用数组.md",
+    "Basic/STD/NB/Math/1 极限、连续和求极限的方法.md",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250819202816.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250819195335.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250819195304.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250819195238.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250819195211.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250819195143.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250819195122.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250819195051.png",
+    "HomePage.md",
     "Basic/IT/0 - Python/Flask/信号.md",
     "Basic/IT/0 - Python/Flask/Z-resources/Pasted image 20250819180145.png",
     "Basic/IT/0 - Python/Flask/Z-resources",
@@ -218,12 +235,6 @@
     "Work/kn_audio 部署.md",
     "Work/账号密码 - 常用信息.md",
     "Work/Z-resources/Pasted image 20250819161457.png",
-    "Work/Z-resources/Pasted image 20250814143859.png",
-    "Work/Z-resources/normal-tech-2.jpg",
-    "Z-resources/Pasted image 20250815142149.png",
-    "Z-resources/Pasted image 20250730104657.png",
-    "Z-resources/Pasted image 20250730101434.png",
-    "Z-resources/Pasted image 20250714153145.png",
     "Work/人工智能超市/计费表表结构.md",
     "Work/人工智能超市/统一大模型入口插件.md",
     "Work/人工智能超市/消息队列日志入库.md",
@@ -234,16 +245,11 @@
     "Basic/IT/0 - Python/Flask/A-Projects/Dify/开发环境搭建.md",
     "Basic/IT/0 - Python/Flask/A-Projects/Dify/插件注册.md",
     "Work/Git&Linux&Docker/快速获取 docker 镜像 tar 包.md",
-    "HomePage.md",
-    "Basic/STD/NB/Math/1 极限、连续和求极限的方法.md",
-    "Basic/STD/NB/Math/Z-resources/Pasted image 20250819003236.png",
-    "Basic/STD/NB/Math/Z-resources/Pasted image 20250819003143.png",
     "Work/远程免密登录服务器.md",
     "Work/Linux 环境离线安装 docker&docker-compose.md",
     "Basic/STD/NB/CProgram/8 - 善于利用指针/1. 指针是什么？.md",
     "Basic/STD/NB/CProgram/9 - 用户自己建立数据类型/3. 结构体指针.md",
     "Basic/STD/NB/CProgram/9 - 用户自己建立数据类型/2. 使用结构体数组.md",
-    "Basic/STD/NB/CProgram/9 - 用户自己建立数据类型/1. 定义和使用结构体变量.md",
     "Basic/STD/NB/CProgram/10 - 对文件的输入和输出",
     "Basic/STD/NB/CProgram/9 - 用户自己建立数据类型",
     "Basic/STD/NB/CProgram/8 - 善于利用指针",
