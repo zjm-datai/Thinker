@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a49858d1c7b6a544",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "1a30c463ed71c86c",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Basic/STD/NB/Math/3 一元函数积分概念，计算及其应用.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3 一元函数积分概念，计算及其应用"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -90,12 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Basic/STD/NB/Math/3 一元函数积分概念，计算及其应用.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "3 一元函数积分概念，计算及其应用 的大纲"
             }
           },
           {
@@ -161,7 +167,7 @@
               "state": {},
               "pinned": true,
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "关系图谱"
             }
           },
           {
@@ -192,23 +198,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": true,
       "open-vscode:VSCode": false,
       "homepage:Open homepage": true
     }
   },
-  "active": "1a30c463ed71c86c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Work/草稿.md",
+    "Basic/STD/NB/Math/2 一元函数的导数和微分概念及其计算.md",
+    "Basic/STD/NB/Math/3 一元函数积分概念，计算及其应用.md",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250820234626.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250820225935.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250820225719.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250820225106.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250820224502.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250820223954.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250820221612.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250820215330.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250820213643.png",
+    "Basic/STD/NB/Math/Z-resources/Pasted image 20250820213403.png",
     "HomePage.md",
+    "Work/草稿.md",
     "Work/语音模型测试-完整流程.md",
     "Work/kn_audio 部署.md",
     "Work/账号密码 - 常用信息.md",
@@ -222,28 +240,16 @@
     "Basic/STD/NB/CProgram/8 - 善于利用指针/3. 通过指针引用数组.md",
     "Basic/STD/NB/CProgram/8 - 善于利用指针/2 指针变量.md",
     "Basic/STD/NB/Math/1 极限、连续和求极限的方法.md",
-    "Basic/STD/NB/Math/Z-resources/Pasted image 20250819202816.png",
-    "Basic/STD/NB/Math/Z-resources/Pasted image 20250819195335.png",
-    "Basic/STD/NB/Math/Z-resources/Pasted image 20250819195304.png",
-    "Basic/STD/NB/Math/Z-resources/Pasted image 20250819195238.png",
-    "Basic/STD/NB/Math/Z-resources/Pasted image 20250819195211.png",
-    "Basic/STD/NB/Math/Z-resources/Pasted image 20250819195143.png",
-    "Basic/STD/NB/Math/Z-resources/Pasted image 20250819195122.png",
-    "Basic/STD/NB/Math/Z-resources/Pasted image 20250819195051.png",
     "Basic/IT/0 - Python/Flask/信号.md",
-    "Basic/IT/0 - Python/Flask/Z-resources/Pasted image 20250819180145.png",
     "Basic/IT/0 - Python/Flask/Z-resources",
     "Basic/IT/观察者模式.md",
     "Work/语音模型压测结果.md",
-    "Work/Z-resources/Pasted image 20250819161457.png",
     "Work/人工智能超市/计费表表结构.md",
     "Work/人工智能超市/消息队列日志入库.md",
     "Basic/IT/0 - Python/Flask/A-Projects/Dify/Dify 插件的设计哲学.md",
     "Basic/IT/0 - Python/Flask/A-Projects/Dify/开发环境搭建.md",
     "Basic/IT/0 - Python/Flask/A-Projects/Dify/插件注册.md",
     "Work/Git&Linux&Docker/快速获取 docker 镜像 tar 包.md",
-    "Work/远程免密登录服务器.md",
-    "Basic/STD/NB/CProgram/8 - 善于利用指针/1. 指针是什么？.md",
     "Basic/STD/NB/CProgram/10 - 对文件的输入和输出",
     "Basic/STD/NB/CProgram/9 - 用户自己建立数据类型",
     "Basic/STD/NB/CProgram/8 - 善于利用指针",

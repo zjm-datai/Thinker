@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "草稿",
-      "path": "Work/草稿.md"
+      "basename": "3 一元函数积分概念，计算及其应用",
+      "path": "Basic/STD/NB/Math/3 一元函数积分概念，计算及其应用.md"
+    },
+    {
+      "basename": "2 一元函数的导数和微分概念及其计算",
+      "path": "Basic/STD/NB/Math/2 一元函数的导数和微分概念及其计算.md"
     },
     {
       "basename": "HomePage",
       "path": "HomePage.md"
+    },
+    {
+      "basename": "草稿",
+      "path": "Work/草稿.md"
     },
     {
       "basename": "语音模型测试-完整流程",
@@ -191,14 +199,6 @@
     {
       "basename": "vllm server 可以启动多个进程吗",
       "path": "Basic/IT/0 - Python/VLLM/vllm server 可以启动多个进程吗.md"
-    },
-    {
-      "basename": "vllm 的基本架构",
-      "path": "Basic/IT/0 - Python/VLLM/vllm 的基本架构.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Basic/IT/0 - Python/VLLM/Untitled.md"
     }
   ],
   "omittedPaths": [],
