@@ -210,3 +210,63 @@ DATABASE_MAX_OVERFLOW=10
 DATABASE_POOL_TIMEOUT=30.0
 DATABASE_ECHO=false
 ```
+
+### 网络策略
+
+```bash
+curl -X GET http://10.66.2.1:8088/v1/health -H 'accept: application/json'
+```
+
+```bash
+curl http://127.0.0.1:30015/apisix/admin/routes/file-download \
+  -H "X-API-KEY: edd1c9f034335f136f87ad84b625c8f1" \
+  -H "Content-Type: application/json" \
+  -X PUT \
+  -d '{
+    "uri": "/v1/file/download/*",
+    "upstream": {
+      "type": "roundrobin",
+      "nodes": {
+        "10.66.2.1:8088": 1
+      }
+    }
+  }'
+```
+
+```
+{"key":"/apisix/routes/file-download","value":{"uri":"/v1/file/download/*","upstream":{"nodes":{"10.66.2.1:8088":1},"type":"roundrobin","scheme":"http","pass_host":"pass","hash_on":"vars"},"id":"file-download","create_time":1755673002,"status":1,"update_time":1755673002,"priority":0}}
+```
+
+```
+curl -X GET http://127.0.0.1:40000/v1/file/download/tavilyAPIKEY.txt -H 'accept: application/json'
+```
+
+```
+curl -X GET http://10.156.1.20:40000/v1/file/download/tavilyAPIKEY.txt -H 'accept: application/json'
+```
+
+#### 再度测试
+
+```bash
+curl -X POST \
+  'http://192.168.167.232:8088/v1/audio/speech' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "text": "你好吗",
+  "voice": "Chinese Female",
+  "stream": false
+}' -o output_1.mp3
+```
+
+```
+curl -X POST \
+  'http://127.0.0.1:8088/v1/audio/speech' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "text": "你好吗",
+  "voice": "Chinese Female",
+  "stream": true
+}' -o output_1.mp3
+```
