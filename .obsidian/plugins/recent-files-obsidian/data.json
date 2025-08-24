@@ -1,28 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "草稿",
-      "path": "Work/草稿.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
+      "basename": "202408",
+      "path": "Diary/2025/202408.md"
     },
     {
       "basename": "第三周",
       "path": "Diary/2025/八月/第三周.md"
     },
     {
+      "basename": "plan",
+      "path": "Basic/STD/NB/plan.md"
+    },
+    {
+      "basename": "6 二次型",
+      "path": "Basic/STD/NB/Math/高代/6 二次型.md"
+    },
+    {
+      "basename": "5 特征向量和特征值，相似和对角化",
+      "path": "Basic/STD/NB/Math/高代/5 特征向量和特征值，相似和对角化.md"
+    },
+    {
+      "basename": "4 线性方程组",
+      "path": "Basic/STD/NB/Math/高代/4 线性方程组.md"
+    },
+    {
+      "basename": "3 向量组的线性关系和秩",
+      "path": "Basic/STD/NB/Math/高代/3 向量组的线性关系和秩.md"
+    },
+    {
+      "basename": "2 矩阵",
+      "path": "Basic/STD/NB/Math/高代/2 矩阵.md"
+    },
+    {
+      "basename": "1 行列式",
+      "path": "Basic/STD/NB/Math/高代/1 行列式.md"
+    },
+    {
+      "basename": "1 极限、连续和求极限的方法",
+      "path": "Basic/STD/NB/Math/数分/1 极限、连续和求极限的方法.md"
+    },
+    {
+      "basename": "3 一元函数积分概念，计算及其应用",
+      "path": "Basic/STD/NB/Math/数分/3 一元函数积分概念，计算及其应用.md"
+    },
+    {
+      "basename": "4 微分中值定理及其应用",
+      "path": "Basic/STD/NB/Math/数分/4 微分中值定理及其应用.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "草稿",
+      "path": "Work/草稿.md"
+    },
+    {
       "basename": "vllm tts 加速",
       "path": "vllm tts 加速.md"
     },
     {
-      "basename": "3 一元函数积分概念，计算及其应用",
-      "path": "Basic/STD/NB/Math/3 一元函数积分概念，计算及其应用.md"
-    },
-    {
       "basename": "2 一元函数的导数和微分概念及其计算",
-      "path": "Basic/STD/NB/Math/2 一元函数的导数和微分概念及其计算.md"
+      "path": "Basic/STD/NB/Math/数分/2 一元函数的导数和微分概念及其计算.md"
     },
     {
       "basename": "语音模型测试-完整流程",
@@ -63,10 +103,6 @@
     {
       "basename": "2 指针变量",
       "path": "Basic/STD/NB/CProgram/8 - 善于利用指针/2 指针变量.md"
-    },
-    {
-      "basename": "1 极限、连续和求极限的方法",
-      "path": "Basic/STD/NB/Math/1 极限、连续和求极限的方法.md"
     },
     {
       "basename": "信号",
@@ -163,42 +199,6 @@
     {
       "basename": "1. 选择结构和条件判断",
       "path": "Basic/STD/NB/CProgram/4 - 选择程序设计/1. 选择结构和条件判断.md"
-    },
-    {
-      "basename": "一个请求进入的时候",
-      "path": "Basic/IT/0 - Python/FastAPI/一个请求进入的时候.md"
-    },
-    {
-      "basename": "康宁语音接口文档",
-      "path": "Work/DigitalPerson/康宁语音接口文档.md"
-    },
-    {
-      "basename": "Drawing 2025-08-15 09.42.17.excalidraw",
-      "path": "Z-resources/Excalidraw/Drawing 2025-08-15 09.42.17.excalidraw.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/Untitled.md"
-    },
-    {
-      "basename": "Dify 中是如何使用 LocalStorage 存储 token 的",
-      "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/Dify 中是如何使用 LocalStorage 存储 token 的.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/Dify2Go/Untitled.md"
-    },
-    {
-      "basename": "开发日志",
-      "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/Dify2Go/开发日志.md"
-    },
-    {
-      "basename": "vllm 的自动批处理机制",
-      "path": "Basic/IT/0 - Python/VLLM/vllm 的自动批处理机制.md"
-    },
-    {
-      "basename": "vllm server 可以启动多个进程吗",
-      "path": "Basic/IT/0 - Python/VLLM/vllm server 可以启动多个进程吗.md"
     }
   ],
   "omittedPaths": [],
