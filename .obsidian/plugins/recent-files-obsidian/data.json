@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "如何暂存本地修改，拉取最新更新",
+      "path": "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
       "basename": "202408",
       "path": "Diary/2025/202408.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "4 微分中值定理及其应用",
       "path": "Basic/STD/NB/Math/数分/4 微分中值定理及其应用.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
     },
     {
       "basename": "草稿",
@@ -195,10 +199,6 @@
     {
       "basename": "1. 定义和使用结构体变量",
       "path": "Basic/STD/NB/CProgram/9 - 用户自己建立数据类型/1. 定义和使用结构体变量.md"
-    },
-    {
-      "basename": "1. 选择结构和条件判断",
-      "path": "Basic/STD/NB/CProgram/4 - 选择程序设计/1. 选择结构和条件判断.md"
     }
   ],
   "omittedPaths": [],

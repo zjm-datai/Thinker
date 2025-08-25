@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d42e8cb1c3c93807",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "4aeeee2165d5bef5",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "如何暂存本地修改，拉取最新更新"
             }
           }
         ]
@@ -82,12 +86,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Outline of 如何暂存本地修改，拉取最新更新"
             }
           }
         ],
@@ -142,7 +147,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           }
         ],
@@ -161,7 +166,7 @@
               "state": {},
               "pinned": true,
               "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "Graph view"
             }
           },
           {
@@ -192,21 +197,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": true,
       "open-vscode:VSCode": false,
       "homepage:Open homepage": true
     }
   },
-  "active": "4aeeee2165d5bef5",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "HomePage.md",
     "Diary/2025/202408.md",
     "Diary/2025/八月/第三周.md",
     "Basic/STD/NB/plan.md",
@@ -232,7 +238,6 @@
     "Basic/STD/NB/Math/Z-resources/Pasted image 20250824164036.png",
     "Basic/STD/NB/Math/Z-resources/Pasted image 20250824163749.png",
     "Basic/STD/NB/Math/数分/4 微分中值定理及其应用.md",
-    "HomePage.md",
     "Work/草稿.md",
     "vllm tts 加速.md",
     "Basic/STD/NB/Math/数分/2 一元函数的导数和微分概念及其计算.md",
