@@ -1,24 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "如何暂存本地修改，拉取最新更新",
-      "path": "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md"
-    },
-    {
       "basename": "HomePage",
       "path": "HomePage.md"
+    },
+    {
+      "basename": "kn_audio 部署",
+      "path": "Work/kn_audio 部署.md"
+    },
+    {
+      "basename": "账号密码 - 常用信息",
+      "path": "Work/账号密码 - 常用信息.md"
+    },
+    {
+      "basename": "vllm tts 加速",
+      "path": "Work/vllm tts 加速.md"
+    },
+    {
+      "basename": "tts_infra 部署",
+      "path": "Work/tts_infra 部署.md"
+    },
+    {
+      "basename": "tts 模型多卡压测",
+      "path": "Work/tts 模型多卡压测.md"
+    },
+    {
+      "basename": "草稿",
+      "path": "Work/草稿.md"
+    },
+    {
+      "basename": "语音模型测试-完整流程",
+      "path": "Work/语音模型测试-完整流程.md"
+    },
+    {
+      "basename": "远程免密登录服务器",
+      "path": "Work/远程免密登录服务器.md"
     },
     {
       "basename": "202408",
       "path": "Diary/2025/202408.md"
     },
     {
-      "basename": "第三周",
-      "path": "Diary/2025/八月/第三周.md"
+      "basename": "中医院知识库接口文档",
+      "path": "Work/中医院知识库接口文档.md"
     },
     {
       "basename": "plan",
       "path": "Basic/STD/NB/plan.md"
+    },
+    {
+      "basename": "在 vscode 中不显示一些文件",
+      "path": "Work/在 vscode 中不显示一些文件.md"
+    },
+    {
+      "basename": "C",
+      "path": "C.md"
+    },
+    {
+      "basename": "vllm tts 加速",
+      "path": "vllm tts 加速.md"
+    },
+    {
+      "basename": "meituan",
+      "path": "Basic/IT/Mock&Test/meituan.md"
+    },
+    {
+      "basename": "康宁语音接口文档",
+      "path": "Work/DigitalPerson/康宁语音接口文档.md"
+    },
+    {
+      "basename": "服务启动和部署",
+      "path": "Work/DigitalPerson/服务启动和部署.md"
+    },
+    {
+      "basename": "语音对话 demo 页面",
+      "path": "Work/DigitalPerson/语音对话 demo 页面.md"
+    },
+    {
+      "basename": "流式输出音频",
+      "path": "Work/DigitalPerson/流式输出音频.md"
+    },
+    {
+      "basename": "中医院数字人 APP 侧能力接口文档",
+      "path": "Work/DigitalPerson/中医院数字人 APP 侧能力接口文档.md"
+    },
+    {
+      "basename": "大模型资源信息接口文档",
+      "path": "Work/大模型资源信息接口文档.md"
+    },
+    {
+      "basename": "Dify 插件的设计哲学",
+      "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/Dify 插件的设计哲学.md"
+    },
+    {
+      "basename": "如何暂存本地修改，拉取最新更新",
+      "path": "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md"
+    },
+    {
+      "basename": "第三周",
+      "path": "Diary/2025/八月/第三周.md"
     },
     {
       "basename": "6 二次型",
@@ -57,28 +137,8 @@
       "path": "Basic/STD/NB/Math/数分/4 微分中值定理及其应用.md"
     },
     {
-      "basename": "草稿",
-      "path": "Work/草稿.md"
-    },
-    {
-      "basename": "vllm tts 加速",
-      "path": "vllm tts 加速.md"
-    },
-    {
       "basename": "2 一元函数的导数和微分概念及其计算",
       "path": "Basic/STD/NB/Math/数分/2 一元函数的导数和微分概念及其计算.md"
-    },
-    {
-      "basename": "语音模型测试-完整流程",
-      "path": "Work/语音模型测试-完整流程.md"
-    },
-    {
-      "basename": "kn_audio 部署",
-      "path": "Work/kn_audio 部署.md"
-    },
-    {
-      "basename": "账号密码 - 常用信息",
-      "path": "Work/账号密码 - 常用信息.md"
     },
     {
       "basename": "生产环境 mq2data 部署",
@@ -139,66 +199,6 @@
     {
       "basename": "Pasted image 20250730101434",
       "path": "Z-resources/Pasted image 20250730101434.png"
-    },
-    {
-      "basename": "Pasted image 20250714153145",
-      "path": "Z-resources/Pasted image 20250714153145.png"
-    },
-    {
-      "basename": "计费表表结构",
-      "path": "Work/人工智能超市/计费表表结构.md"
-    },
-    {
-      "basename": "消息队列日志入库",
-      "path": "Work/人工智能超市/消息队列日志入库.md"
-    },
-    {
-      "basename": "Dify 插件的设计哲学",
-      "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/Dify 插件的设计哲学.md"
-    },
-    {
-      "basename": "开发环境搭建",
-      "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/开发环境搭建.md"
-    },
-    {
-      "basename": "插件注册",
-      "path": "Basic/IT/0 - Python/Flask/A-Projects/Dify/插件注册.md"
-    },
-    {
-      "basename": "快速获取 docker 镜像 tar 包",
-      "path": "Work/Git&Linux&Docker/快速获取 docker 镜像 tar 包.md"
-    },
-    {
-      "basename": "第二周",
-      "path": "Diary/2025/八月/第二周.md"
-    },
-    {
-      "basename": "第一周",
-      "path": "Diary/2025/八月/第一周.md"
-    },
-    {
-      "basename": "Dify 开发环境搭建",
-      "path": "Work/Dify 开发环境搭建.md"
-    },
-    {
-      "basename": "远程免密登录服务器",
-      "path": "Work/远程免密登录服务器.md"
-    },
-    {
-      "basename": "1. 指针是什么？",
-      "path": "Basic/STD/NB/CProgram/8 - 善于利用指针/1. 指针是什么？.md"
-    },
-    {
-      "basename": "3. 结构体指针",
-      "path": "Basic/STD/NB/CProgram/9 - 用户自己建立数据类型/3. 结构体指针.md"
-    },
-    {
-      "basename": "2. 使用结构体数组",
-      "path": "Basic/STD/NB/CProgram/9 - 用户自己建立数据类型/2. 使用结构体数组.md"
-    },
-    {
-      "basename": "1. 定义和使用结构体变量",
-      "path": "Basic/STD/NB/CProgram/9 - 用户自己建立数据类型/1. 定义和使用结构体变量.md"
     }
   ],
   "omittedPaths": [],

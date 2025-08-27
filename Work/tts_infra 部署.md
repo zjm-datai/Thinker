@@ -100,14 +100,3 @@ curl http://127.0.0.1:30015/apisix/admin/routes/tts-proxy \
   }'
 ```
 
-```
-curl -s -X POST "http://127.0.0.1:40000/api/tts" \
-  -H "Content-Type: application/json" \
-  -d '{
-        "input":"我真操了",
-        "voice":"Chinese Female",
-        "response_format":"mp3",
-        "speed":1.0,
-        "stream":true
-      }'
-```

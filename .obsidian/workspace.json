@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md",
+                "file": "HomePage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何暂存本地修改，拉取最新更新"
+              "title": "HomePage"
             }
           }
         ]
@@ -86,13 +86,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md",
+                "file": "HomePage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 如何暂存本地修改，拉取最新更新"
+              "title": "Outline of HomePage"
             }
           }
         ],
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "知识库",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +124,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -212,52 +212,52 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Work/kn_audio 部署.md",
+    "Work/账号密码 - 常用信息.md",
+    "Work/vllm tts 加速.md",
+    "Work/tts_infra 部署.md",
+    "Work/tts 模型多卡压测.md",
+    "Work/草稿.md",
+    "Work/Z-resources/Pasted image 20250825172927.png",
     "HomePage.md",
+    "Work/语音模型测试-完整流程.md",
+    "Work/远程免密登录服务器.md",
     "Diary/2025/202408.md",
-    "Diary/2025/八月/第三周.md",
+    "Work/中医院知识库接口文档.md",
     "Basic/STD/NB/plan.md",
+    "Work/Z-resources/Pasted image 20250825142737.png",
+    "Work/Z-resources/Pasted image 20250825142338.png",
+    "Work/Z-resources/Pasted image 20250825141039.png",
+    "Work/Z-resources/Pasted image 20250825140851.png",
+    "Work/在 vscode 中不显示一些文件.md",
+    "C.md",
+    "文件资料/~$PN登录文档.docx",
+    "vllm tts 加速.md",
+    "Basic/IT/Mock&Test/meituan.md",
+    "Work/DigitalPerson/康宁语音接口文档.md",
+    "Work/DigitalPerson/服务启动和部署.md",
+    "Work/DigitalPerson/语音对话 demo 页面.md",
+    "Work/DigitalPerson/流式输出音频.md",
+    "Work/DigitalPerson/中医院数字人 APP 侧能力接口文档.md",
+    "Work/大模型资源信息接口文档.md",
+    "Basic/IT/0 - Python/Flask/A-Projects/Dify/Dify 插件的设计哲学.md",
+    "Untitled",
+    "文件资料/VPN登录文档.docx",
+    "文件资料",
+    "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md",
+    "Diary/2025/八月/第三周.md",
     "Basic/STD/NB/Math/高代/6 二次型.md",
-    "Basic/STD/NB/Math/高代/5 特征向量和特征值，相似和对角化.md",
-    "Basic/STD/NB/Math/高代/4 线性方程组.md",
-    "Basic/STD/NB/Math/高代/3 向量组的线性关系和秩.md",
-    "Basic/STD/NB/Math/高代/2 矩阵.md",
-    "Basic/STD/NB/Math/高代/1 行列式.md",
     "Basic/STD/NB/Math/高代/Z-resources/Pasted image 20250825012802.png",
     "Basic/STD/NB/Math/高代/Z-resources",
-    "Basic/STD/NB/Math/数分/1 极限、连续和求极限的方法.md",
-    "Basic/STD/NB/Math/数分/3 一元函数积分概念，计算及其应用.md",
     "Basic/STD/NB/Math/数分",
     "Basic/STD/NB/Math/高代",
     "Basic/STD/NB/Math/Z-resources/Pasted image 20250825010010.png",
     "Basic/STD/NB/Math/Z-resources/Pasted image 20250825004632.png",
     "Basic/STD/NB/Math/Z-resources/Pasted image 20250825003850.png",
     "Basic/STD/NB/Math/Z-resources/Pasted image 20250825002656.png",
-    "Basic/STD/NB/Math/Z-resources/Pasted image 20250824165921.png",
-    "Basic/STD/NB/Math/Z-resources/Pasted image 20250824165403.png",
-    "Basic/STD/NB/Math/Z-resources/Pasted image 20250824164521.png",
-    "Basic/STD/NB/Math/Z-resources/Pasted image 20250824164036.png",
-    "Basic/STD/NB/Math/Z-resources/Pasted image 20250824163749.png",
-    "Basic/STD/NB/Math/数分/4 微分中值定理及其应用.md",
-    "Work/草稿.md",
-    "vllm tts 加速.md",
-    "Basic/STD/NB/Math/数分/2 一元函数的导数和微分概念及其计算.md",
-    "Work/语音模型测试-完整流程.md",
-    "Work/kn_audio 部署.md",
-    "Work/账号密码 - 常用信息.md",
-    "Work/人工智能超市/生产环境 mq2data 部署.md",
-    "Work/人工智能超市/统一大模型入口插件.md",
-    "Work/人工智能超市/APISIX 第三方鉴权.md",
-    "Work/Git&Linux&Docker/Linux 环境离线安装 docker&docker-compose.md",
-    "Work/Untitled.md",
-    "Basic/STD/NB/CProgram/8 - 善于利用指针/3. 通过指针引用数组.md",
-    "Basic/STD/NB/CProgram/8 - 善于利用指针/2 指针变量.md",
     "Basic/IT/0 - Python/Flask/Z-resources",
     "Basic/STD/NB/CProgram/10 - 对文件的输入和输出",
     "Basic/STD/NB/CProgram/9 - 用户自己建立数据类型",
-    "Basic/STD/NB/CProgram/8 - 善于利用指针",
-    "Basic/STD/NB/CProgram/7 - 利用函数实现模块化程序设计",
-    "Basic/STD/NB/CProgram/6 - 利用数组处理批量数据",
-    "Basic/STD/NB/CProgram/5 - 循环结构程序设计",
     "Basic/0 - Python/1 - 中级/Untitled.canvas"
   ]
 }
