@@ -8,7 +8,7 @@ docker save -o kn_audio_0.0.3.tar kn_audio:0.0.3
 ```
 
 ```shell
-docker load -i kn_audio_0.0.1.tar
+docker load -i kn_audio_0.0.3.tar
 ```
 
 验证 md5 是否相同

@@ -1,20 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
-    },
-    {
-      "basename": "kn_audio 部署",
-      "path": "Work/kn_audio 部署.md"
-    },
-    {
       "basename": "账号密码 - 常用信息",
       "path": "Work/账号密码 - 常用信息.md"
     },
     {
-      "basename": "vllm tts 加速",
-      "path": "Work/vllm tts 加速.md"
+      "basename": "pg 库备份迁移",
+      "path": "Work/pg 库备份迁移.md"
+    },
+    {
+      "basename": "3. 运算符和表达式",
+      "path": "Basic/STD/NB/CProgram/3 - 顺序程序设计/3. 运算符和表达式.md"
     },
     {
       "basename": "tts_infra 部署",
@@ -25,32 +21,72 @@
       "path": "Work/tts 模型多卡压测.md"
     },
     {
-      "basename": "草稿",
-      "path": "Work/草稿.md"
-    },
-    {
-      "basename": "语音模型测试-完整流程",
-      "path": "Work/语音模型测试-完整流程.md"
-    },
-    {
-      "basename": "远程免密登录服务器",
-      "path": "Work/远程免密登录服务器.md"
-    },
-    {
-      "basename": "202408",
-      "path": "Diary/2025/202408.md"
+      "basename": "Untitled 1",
+      "path": "Work/Untitled 1.md"
     },
     {
       "basename": "中医院知识库接口文档",
       "path": "Work/中医院知识库接口文档.md"
     },
     {
-      "basename": "plan",
-      "path": "Basic/STD/NB/plan.md"
+      "basename": "kn_audio 部署",
+      "path": "Work/kn_audio 部署.md"
+    },
+    {
+      "basename": "5. 指向函数的指针",
+      "path": "Basic/STD/NB/CProgram/8 - 善于利用指针/5. 指向函数的指针.md"
+    },
+    {
+      "basename": "函数式编程",
+      "path": "Basic/IT/0 - Python/1 - 中级/8 - 函数式编程/函数式编程.md"
+    },
+    {
+      "basename": "单例模式和类变量",
+      "path": "Basic/IT/0 - Python/2 - 高级/单例模式和类变量.md"
     },
     {
       "basename": "在 vscode 中不显示一些文件",
       "path": "Work/在 vscode 中不显示一些文件.md"
+    },
+    {
+      "basename": "远程免密登录服务器",
+      "path": "Work/远程免密登录服务器.md"
+    },
+    {
+      "basename": "语音模型测试-完整流程",
+      "path": "Work/语音模型测试-完整流程.md"
+    },
+    {
+      "basename": "4. 通过指针引用字符串",
+      "path": "Basic/STD/NB/CProgram/8 - 善于利用指针/4. 通过指针引用字符串.md"
+    },
+    {
+      "basename": "野指针",
+      "path": "野指针.md"
+    },
+    {
+      "basename": "import 的前世今生",
+      "path": "Basic/IT/0 - Python/import 的前世今生.md"
+    },
+    {
+      "basename": "202408",
+      "path": "Diary/2025/202408.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "vllm tts 加速",
+      "path": "Work/vllm tts 加速.md"
+    },
+    {
+      "basename": "草稿",
+      "path": "Work/草稿.md"
+    },
+    {
+      "basename": "plan",
+      "path": "Basic/STD/NB/plan.md"
     },
     {
       "basename": "C",
@@ -163,42 +199,6 @@
     {
       "basename": "3. 通过指针引用数组",
       "path": "Basic/STD/NB/CProgram/8 - 善于利用指针/3. 通过指针引用数组.md"
-    },
-    {
-      "basename": "2 指针变量",
-      "path": "Basic/STD/NB/CProgram/8 - 善于利用指针/2 指针变量.md"
-    },
-    {
-      "basename": "信号",
-      "path": "Basic/IT/0 - Python/Flask/信号.md"
-    },
-    {
-      "basename": "观察者模式",
-      "path": "Basic/IT/观察者模式.md"
-    },
-    {
-      "basename": "Pasted image 20250819161457",
-      "path": "Work/Z-resources/Pasted image 20250819161457.png"
-    },
-    {
-      "basename": "Pasted image 20250814143859",
-      "path": "Work/Z-resources/Pasted image 20250814143859.png"
-    },
-    {
-      "basename": "normal-tech-2",
-      "path": "Work/Z-resources/normal-tech-2.jpg"
-    },
-    {
-      "basename": "Pasted image 20250815142149",
-      "path": "Z-resources/Pasted image 20250815142149.png"
-    },
-    {
-      "basename": "Pasted image 20250730104657",
-      "path": "Z-resources/Pasted image 20250730104657.png"
-    },
-    {
-      "basename": "Pasted image 20250730101434",
-      "path": "Z-resources/Pasted image 20250730101434.png"
     }
   ],
   "omittedPaths": [],
