@@ -51,3 +51,19 @@ pg_dump -U postgres -d dify --format=plain --no-owner --no-privileges > dify.sql
 scp -r dify.sql dify_plugin.sql root@192.168.120.69:/home/vastbase
 ```
 
+---
+
+```
+-- 数据库/ schema 所有者改成 dify
+ALTER DATABASE dify OWNER TO dify;
+ALTER SCHEMA public OWNER TO dify;
+
+-- 现有对象的使用权限
+GRANT USAGE ON SCHEMA public TO dify;
+GRANT SELECT, INSERT, UPDATE, DELETE ON ALL TABLES    IN SCHEMA public TO dify;
+GRANT USAGE, SELECT, UPDATE          ON ALL SEQUENCES IN SCHEMA public TO dify;
+
+-- 把管理员创建的对象统一过户给 dify（按你环境里可能的管理员名过户）
+REASSIGN OWNED BY vastbase TO dify;
+REASSIGN OWNED BY postgres TO dify;
+```

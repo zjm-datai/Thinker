@@ -1,16 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
       "basename": "账号密码 - 常用信息",
       "path": "Work/账号密码 - 常用信息.md"
+    },
+    {
+      "basename": "如何暂存本地修改，拉取最新更新",
+      "path": "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md"
+    },
+    {
+      "basename": "系统架构和 docker 镜像",
+      "path": "Work/Git&Linux&Docker/系统架构和 docker 镜像.md"
     },
     {
       "basename": "pg 库备份迁移",
       "path": "Work/pg 库备份迁移.md"
     },
     {
+      "basename": "vllm tts 加速",
+      "path": "Work/vllm tts 加速.md"
+    },
+    {
+      "basename": "运维相关",
+      "path": "Basic/IT/2 - DataBase/3 - PostgreSQL/运维相关.md"
+    },
+    {
       "basename": "tts 模型多卡压测",
       "path": "Work/tts 模型多卡压测.md"
+    },
+    {
+      "basename": "tts_infra 部署",
+      "path": "Work/tts_infra 部署.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Work/Untitled.md"
+    },
+    {
+      "basename": "Dify 开发环境搭建",
+      "path": "Work/Dify 开发环境搭建.md"
+    },
+    {
+      "basename": "中医院知识库接口文档",
+      "path": "Work/中医院知识库接口文档.md"
     },
     {
       "basename": "语音模型测试-完整流程",
@@ -33,24 +69,8 @@
       "path": "Work/在 vscode 中不显示一些文件.md"
     },
     {
-      "basename": "中医院知识库接口文档",
-      "path": "Work/中医院知识库接口文档.md"
-    },
-    {
       "basename": "kn_audio 部署",
       "path": "Work/kn_audio 部署.md"
-    },
-    {
-      "basename": "Dify 开发环境搭建",
-      "path": "Work/Dify 开发环境搭建.md"
-    },
-    {
-      "basename": "tts_infra 部署",
-      "path": "Work/tts_infra 部署.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Work/Untitled.md"
     },
     {
       "basename": "如何查看系统架构",
@@ -93,10 +113,6 @@
       "path": "Diary/2025/八月/第二周.md"
     },
     {
-      "basename": "如何暂存本地修改，拉取最新更新",
-      "path": "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md"
-    },
-    {
       "basename": "202408",
       "path": "Diary/2025/202408.md"
     },
@@ -115,10 +131,6 @@
     {
       "basename": "3. 运算符和表达式",
       "path": "Basic/STD/NB/CProgram/3 - 顺序程序设计/3. 运算符和表达式.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
     },
     {
       "basename": "Untitled 1",
@@ -149,16 +161,8 @@
       "path": "Basic/IT/0 - Python/import 的前世今生.md"
     },
     {
-      "basename": "vllm tts 加速",
-      "path": "Work/vllm tts 加速.md"
-    },
-    {
       "basename": "plan",
       "path": "Basic/STD/NB/plan.md"
-    },
-    {
-      "basename": "vllm tts 加速 1",
-      "path": "Work/vllm tts 加速 1.md"
     },
     {
       "basename": "meituan",
@@ -195,10 +199,6 @@
     {
       "basename": "5 特征向量和特征值，相似和对角化",
       "path": "Basic/STD/NB/Math/高代/5 特征向量和特征值，相似和对角化.md"
-    },
-    {
-      "basename": "4 线性方程组",
-      "path": "Basic/STD/NB/Math/高代/4 线性方程组.md"
     }
   ],
   "omittedPaths": [],
