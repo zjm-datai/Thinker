@@ -150,15 +150,29 @@ curl -X POST http://10.17.105.16:40000/qwen25/v1/chat/completions \
 
 ```bash
 curl -X POST http://127.0.0.1:40000/v1/chat/completions \
-  -H "Mass-Auth-Token: 4b7c991149a08ee51e75be0459e2449a" \
+  -H "Mass-Auth-Token: afeadf3adc4f7ab2949905f91eee47a6" \
   -H "Content-Type: application/json" \
   -d '{
-    "model": "Qwen2.5-72B-Instruct",
+    "model": "DeepSeek-R1-0528-Qwen3-8B",
     "messages": [
       {"role": "user", "content": "你好"}
     ]
   }'
 ```
+
+
+```bash
+curl -X POST http://192.168.120.44:9998/v1/chat/completions \
+  -H "Authorization: Bearer gpustack_4f50a5c7bad4fd01_7c054bcb8d3cf921e9b1fa43517fa81b" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model": "DeepSeek-R1-0528-Qwen3-8B",
+    "messages": [
+      {"role": "user", "content": "你好"}
+    ]
+  }'
+```
+
 
 ```bash
 curl -X POST http://127.0.0.1:40000/v1/chat/completions \
