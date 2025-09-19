@@ -61,8 +61,8 @@ curl -s -X POST "http://183.136.129.102:40088/v1/audio/speech" \
 curl -s -X POST "http://183.136.129.102:40088/v1/audio/speech" \
   -H "Content-Type: application/json" \
   -d '{
-        "input":"我真操了",
-        "voice":"Chinese Female",
+        "input":"苹果用户在我们的听众比例里占了近一半，能花钱听体育节目的都有一定经济基础。",
+        "voice":"yexuejie",
         "response_format":"mp3",
         "speed":1.0,
         "stream":false
@@ -70,7 +70,20 @@ curl -s -X POST "http://183.136.129.102:40088/v1/audio/speech" \
   -o out_nonstream.mp3
 ```
 
+```bash
+curl -s -X POST "http://183.136.129.102:40088/v1/audio/speech" \
+  -H "Content-Type: application/json" \
+  -d '{
+        "input":"苹果用户在我们的听众比例里占了近一半，能花钱听体育节目的都有一定经济基础。",
+        "voice":"liqiong",
+        "response_format":"mp3",
+        "speed":1.0,
+        "stream":false
+      }'\
+  -o out_nonstream.mp3
 ```
+
+```shell
 curl http://10.199.14.102:40088/health
 ```
 
@@ -100,7 +113,7 @@ curl http://127.0.0.1:30015/apisix/admin/routes/tts-proxy \
   }'
 ```
 
-```
+```shell
 curl http://127.0.0.1:30015/apisix/admin/routes/tts-ws-proxy \
   -H "X-API-KEY: edd1c9f034335f136f87ad84b625c8f1" \
   -H "Content-Type: application/json" \
@@ -125,11 +138,11 @@ curl http://127.0.0.1:30015/apisix/admin/routes/tts-ws-proxy \
   }'
 ```
 
-```
+```shell
 wscat -c ws://127.0.0.1:40000/api/ws/tts
 ```
 
-```
+```shell
 curl http://127.0.0.1:30015/apisix/admin/routes/stream-demo \
   -H "X-API-KEY: edd1c9f034335f136f87ad84b625c8f1" \
   -H "Content-Type: application/json" \
@@ -153,7 +166,7 @@ curl http://127.0.0.1:30015/apisix/admin/routes/stream-demo \
   }'
 ```
 
-```
+```shell
 curl -X 'POST' \
   'http://127.0.0.1:8060/api/tts' \
   -H 'accept: application/json' \

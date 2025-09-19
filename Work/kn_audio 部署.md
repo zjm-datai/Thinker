@@ -253,10 +253,10 @@ curl -X POST \
   -H 'accept: application/json' \
   -H 'Content-Type: application/json' \
   -d '{
-  "text": "你好吗",
+  "text": "首次在多头注意力机制中识别出对安全性至关重要的注意力头，并通过大量实验验证了其有效性。",
   "voice": "Chinese Female",
   "stream": false
-}' -o output_1.mp3
+}' -o output_2.mp3
 ```
 
 ```
