@@ -1,6 +1,114 @@
 {
   "recentFiles": [
     {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "todo_async_tts_infra",
+      "path": "Work/tts_infra/todo_async_tts_infra.md"
+    },
+    {
+      "basename": "tts_infra uv 部署",
+      "path": "Work/tts_infra/tts_infra uv 部署.md"
+    },
+    {
+      "basename": "todo_tts_infra 代码设计",
+      "path": "Work/tts_infra/todo_tts_infra 代码设计.md"
+    },
+    {
+      "basename": "todo_tts_infra 部署",
+      "path": "Work/tts_infra/todo_tts_infra 部署.md"
+    },
+    {
+      "basename": "流程设计和开发计划",
+      "path": "Work/视频流数字人-openavatar/流程设计和开发计划.md"
+    },
+    {
+      "basename": "流式语音播报",
+      "path": "Basic/流式语音播报.md"
+    },
+    {
+      "basename": "入门",
+      "path": "Basic/JAVA/入门.md"
+    },
+    {
+      "basename": "Git 怎么设置自己提交时候的名字",
+      "path": "Work/Git&Linux&Docker/Git 怎么设置自己提交时候的名字.md"
+    },
+    {
+      "basename": "Linux 环境离线安装 docker&docker-compose",
+      "path": "Work/Git&Linux&Docker/Linux 环境离线安装 docker&docker-compose.md"
+    },
+    {
+      "basename": "Linux 中的三种输出流",
+      "path": "Work/Git&Linux&Docker/Linux 中的三种输出流.md"
+    },
+    {
+      "basename": "流式输出音频",
+      "path": "Work/DigitalPerson/流式输出音频.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Basic/IT/0 - Python/VLLM/Untitled 1.md"
+    },
+    {
+      "basename": "如何进行操作一个镜像",
+      "path": "Work/Git&Linux&Docker/如何进行操作一个镜像.md"
+    },
+    {
+      "basename": "快速获取 docker 镜像 tar 包",
+      "path": "Work/Git&Linux&Docker/快速获取 docker 镜像 tar 包.md"
+    },
+    {
+      "basename": "查看 Docker 容器服务所占资源",
+      "path": "Work/Git&Linux&Docker/查看 Docker 容器服务所占资源.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Work/Untitled.md"
+    },
+    {
+      "basename": "web 服务器和 web 框架",
+      "path": "Basic/IT/0 - Python/Flask/web 服务器和 web 框架.md"
+    },
+    {
+      "basename": "请求上下文",
+      "path": "Basic/IT/0 - Python/Flask/请求上下文.md"
+    },
+    {
+      "basename": "观察者模式",
+      "path": "Basic/IT/观察者模式.md"
+    },
+    {
+      "basename": "信号",
+      "path": "Basic/IT/0 - Python/Flask/信号.md"
+    },
+    {
+      "basename": "统一大模型入口插件",
+      "path": "Work/人工智能超市/统一大模型入口插件.md"
+    },
+    {
+      "basename": "语音对话 demo 页面",
+      "path": "Work/DigitalPerson/语音对话 demo 页面.md"
+    },
+    {
+      "basename": "康宁语音接口文档",
+      "path": "Work/DigitalPerson/康宁语音接口文档.md"
+    },
+    {
+      "basename": "服务启动和部署",
+      "path": "Work/DigitalPerson/服务启动和部署.md"
+    },
+    {
+      "basename": "langraph 生成文档",
+      "path": "Work/DigitalPerson/langraph 生成文档.md"
+    },
+    {
+      "basename": "中医院数字人 APP 侧能力接口文档",
+      "path": "Work/DigitalPerson/中医院数字人 APP 侧能力接口文档.md"
+    },
+    {
       "basename": "视频流 handler 处理数据流程",
       "path": "Excalidraw/视频流 handler 处理数据流程.md"
     },
@@ -41,14 +149,6 @@
       "path": "Work/视频流数字人-openavatar/GPT 信号模型设计.md"
     },
     {
-      "basename": "HomePage",
-      "path": "HomePage.md"
-    },
-    {
-      "basename": "统一大模型入口插件",
-      "path": "Work/人工智能超市/统一大模型入口插件.md"
-    },
-    {
       "basename": "APISIX 第三方鉴权",
       "path": "Work/人工智能超市/APISIX 第三方鉴权.md"
     },
@@ -73,10 +173,6 @@
       "path": "Work/tts 模型多卡压测.md"
     },
     {
-      "basename": "tts_infra 部署",
-      "path": "Work/tts_infra 部署.md"
-    },
-    {
       "basename": "大模型资源信息接口文档",
       "path": "Work/大模型资源信息接口文档.md"
     },
@@ -97,108 +193,12 @@
       "path": "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md"
     },
     {
-      "basename": "如何进行操作一个镜像",
-      "path": "Work/Git&Linux&Docker/如何进行操作一个镜像.md"
-    },
-    {
       "basename": "如何查看系统架构",
       "path": "Work/Git&Linux&Docker/如何查看系统架构.md"
     },
     {
       "basename": "0916",
       "path": "Diary/0916.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Work/Untitled.md"
-    },
-    {
-      "basename": "Pasted image 20250822152215",
-      "path": "CosyVoice/Z-resources/Pasted image 20250822152215.png"
-    },
-    {
-      "basename": "Untitled",
-      "path": "CosyVoice/Untitled.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "CosyVoice/Untitled 1.md"
-    },
-    {
-      "basename": "消息队列日志入库",
-      "path": "Work/人工智能超市/消息队列日志入库.md"
-    },
-    {
-      "basename": "vllm tts 加速",
-      "path": "Work/vllm tts 加速.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Work/Untitled 1.md"
-    },
-    {
-      "basename": "服务启动和部署",
-      "path": "Work/DigitalPerson/服务启动和部署.md"
-    },
-    {
-      "basename": "系统架构和 docker 镜像",
-      "path": "Work/Git&Linux&Docker/系统架构和 docker 镜像.md"
-    },
-    {
-      "basename": "运维相关",
-      "path": "Basic/IT/2 - DataBase/3 - PostgreSQL/运维相关.md"
-    },
-    {
-      "basename": "草稿",
-      "path": "Work/草稿.md"
-    },
-    {
-      "basename": "查看 Docker 容器服务所占资源",
-      "path": "Work/Git&Linux&Docker/查看 Docker 容器服务所占资源.md"
-    },
-    {
-      "basename": "快速获取 docker 镜像 tar 包",
-      "path": "Work/Git&Linux&Docker/快速获取 docker 镜像 tar 包.md"
-    },
-    {
-      "basename": "Optimistic Lock",
-      "path": "Basic/IT/2 - DataBase/Optimistic Lock.md"
-    },
-    {
-      "basename": "How is a Globally Unique ID (GUID) implemented",
-      "path": "Basic/IT/2 - DataBase/How is a Globally Unique ID (GUID) implemented.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Basic/IT/0 - Python/Transformer/Untitled.md"
-    },
-    {
-      "basename": "8 种记忆系统架构",
-      "path": "Basic/IT/0 - Python/LangChain/8 种记忆系统架构.md"
-    },
-    {
-      "basename": "上下文学习中的位置偏差",
-      "path": "Basic/IT/0 - Python/LangChain/上下文学习中的位置偏差.md"
-    },
-    {
-      "basename": "第二周",
-      "path": "Diary/2025/八月/第二周.md"
-    },
-    {
-      "basename": "202408",
-      "path": "Diary/2025/202408.md"
-    },
-    {
-      "basename": "第三周",
-      "path": "Diary/2025/八月/第三周.md"
-    },
-    {
-      "basename": "第一周",
-      "path": "Diary/2025/八月/第一周.md"
-    },
-    {
-      "basename": "函数式编程",
-      "path": "Basic/IT/0 - Python/1 - 中级/8 - 函数式编程/函数式编程.md"
     }
   ],
   "omittedPaths": [],

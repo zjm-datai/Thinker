@@ -13,8 +13,8 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "livePreview": true,
-  "defaultViewMode": "source",
+  "livePreview": false,
+  "defaultViewMode": "preview",
   "showInlineTitle": false,
   "readableLineLength": false
 }

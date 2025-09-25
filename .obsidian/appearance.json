@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Wikipedia",
+  "cssTheme": "Minimal",
   "baseFontSize": 16,
   "textFontFamily": "Inter",
   "monospaceFontFamily": "Consolas",
@@ -9,5 +9,6 @@
   "enabledCssSnippets": [
     "mystyle"
   ],
-  "showViewHeader": false
+  "showViewHeader": false,
+  "showRibbon": false
 }
