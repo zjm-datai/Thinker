@@ -13,8 +13,9 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "livePreview": false,
-  "defaultViewMode": "preview",
+  "livePreview": true,
+  "defaultViewMode": "source",
   "showInlineTitle": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "focusNewTab": true
 }

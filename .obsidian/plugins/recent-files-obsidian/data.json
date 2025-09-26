@@ -5,12 +5,52 @@
       "path": "HomePage.md"
     },
     {
-      "basename": "todo_async_tts_infra",
-      "path": "Work/tts_infra/todo_async_tts_infra.md"
+      "basename": "Untitled",
+      "path": "Work/视频流数字人-openavatar/Untitled.md"
     },
     {
-      "basename": "tts_infra uv 部署",
-      "path": "Work/tts_infra/tts_infra uv 部署.md"
+      "basename": "视频流 handler 处理数据流程",
+      "path": "Excalidraw/视频流 handler 处理数据流程.md"
+    },
+    {
+      "basename": "openavatar rtc 流程",
+      "path": "Excalidraw/openavatar rtc 流程.md"
+    },
+    {
+      "basename": "入门",
+      "path": "Basic/JAVA/入门.md"
+    },
+    {
+      "basename": "流式语音播报",
+      "path": "Basic/流式语音播报.md"
+    },
+    {
+      "basename": "一个请求进入的时候",
+      "path": "Basic/IT/0 - Python/FastAPI/一个请求进入的时候.md"
+    },
+    {
+      "basename": "每个路由函数都创建实例",
+      "path": "Basic/IT/0 - Python/FastAPI/每个路由函数都创建实例.md"
+    },
+    {
+      "basename": "web 服务器和 web 框架",
+      "path": "Basic/IT/0 - Python/Flask/web 服务器和 web 框架.md"
+    },
+    {
+      "basename": "cosyvoice 推理过程",
+      "path": "Work/tts_infra/cosyvoice 推理过程.md"
+    },
+    {
+      "basename": "cosyvoice 模型加载过程",
+      "path": "Work/tts_infra/cosyvoice 模型加载过程.md"
+    },
+    {
+      "basename": "Untitled diagram _ Mermaid Chart-2025-09-26-032712",
+      "path": "Work/tts_infra/Z-resources/Untitled diagram _ Mermaid Chart-2025-09-26-032712.png"
+    },
+    {
+      "basename": "todo_非流式实现流式效果",
+      "path": "Work/tts_infra/todo_非流式实现流式效果.md"
     },
     {
       "basename": "todo_tts_infra 代码设计",
@@ -21,16 +61,20 @@
       "path": "Work/tts_infra/todo_tts_infra 部署.md"
     },
     {
+      "basename": "server 和 worker 的交互",
+      "path": "Basic/IT/0 - Python/FastAPI/A-Projects/GPUStack/server 和 worker 的交互.md"
+    },
+    {
       "basename": "流程设计和开发计划",
       "path": "Work/视频流数字人-openavatar/流程设计和开发计划.md"
     },
     {
-      "basename": "流式语音播报",
-      "path": "Basic/流式语音播报.md"
+      "basename": "todo_async_tts_infra",
+      "path": "Work/tts_infra/todo_async_tts_infra.md"
     },
     {
-      "basename": "入门",
-      "path": "Basic/JAVA/入门.md"
+      "basename": "tts_infra uv 部署",
+      "path": "Work/tts_infra/tts_infra uv 部署.md"
     },
     {
       "basename": "Git 怎么设置自己提交时候的名字",
@@ -69,10 +113,6 @@
       "path": "Work/Untitled.md"
     },
     {
-      "basename": "web 服务器和 web 框架",
-      "path": "Basic/IT/0 - Python/Flask/web 服务器和 web 框架.md"
-    },
-    {
       "basename": "请求上下文",
       "path": "Basic/IT/0 - Python/Flask/请求上下文.md"
     },
@@ -109,16 +149,8 @@
       "path": "Work/DigitalPerson/中医院数字人 APP 侧能力接口文档.md"
     },
     {
-      "basename": "视频流 handler 处理数据流程",
-      "path": "Excalidraw/视频流 handler 处理数据流程.md"
-    },
-    {
       "basename": "远程免密登录服务器",
       "path": "Work/远程免密登录服务器.md"
-    },
-    {
-      "basename": "openavatar rtc 流程",
-      "path": "Excalidraw/openavatar rtc 流程.md"
     },
     {
       "basename": "Untitled diagram _ Mermaid Chart-2025-09-23-075259_0",
@@ -167,38 +199,6 @@
     {
       "basename": "kn_audio 部署",
       "path": "Work/kn_audio 部署.md"
-    },
-    {
-      "basename": "tts 模型多卡压测",
-      "path": "Work/tts 模型多卡压测.md"
-    },
-    {
-      "basename": "大模型资源信息接口文档",
-      "path": "Work/大模型资源信息接口文档.md"
-    },
-    {
-      "basename": "语音模型测试-完整流程",
-      "path": "Work/语音模型测试-完整流程.md"
-    },
-    {
-      "basename": "0917",
-      "path": "Diary/0917.md"
-    },
-    {
-      "basename": "Git 如何切换 Tag",
-      "path": "Work/Git&Linux&Docker/Git 如何切换 Tag.md"
-    },
-    {
-      "basename": "如何暂存本地修改，拉取最新更新",
-      "path": "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md"
-    },
-    {
-      "basename": "如何查看系统架构",
-      "path": "Work/Git&Linux&Docker/如何查看系统架构.md"
-    },
-    {
-      "basename": "0916",
-      "path": "Diary/0916.md"
     }
   ],
   "omittedPaths": [],

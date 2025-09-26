@@ -1,11 +1,12 @@
 [
-  "obsidian-style-settings",
   "obsidian-git",
   "open-vscode",
   "obsidian-linter",
   "recent-files-obsidian",
   "obsidian-icon-folder",
-  "obsidian-minimal-settings",
   "homepage",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings",
+  "image-converter"
 ]

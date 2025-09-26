@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "a464b9a24ce79aff",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "8bb52a465205729d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "HomePage.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "HomePage"
@@ -86,13 +86,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HomePage.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HomePage"
+              "title": "Outline"
             }
           }
         ],
@@ -213,14 +212,37 @@
   },
   "active": "d9304cc9fcbea19c",
   "lastOpenFiles": [
+    "HomePage.md",
+    "Work/视频流数字人-openavatar/Untitled.md",
+    "Work/视频流数字人-openavatar/Z-resources/Untitled diagram _ Mermaid Chart-2025-09-26-090314.png",
+    "Work/视频流数字人-openavatar/Z-resources/Untitled diagram _ Mermaid Chart-2025-09-26-083123.png",
+    "Work/视频流数字人-openavatar/Z-resources/Untitled diagram _ Mermaid Chart-2025-09-26-083035.png",
+    "Excalidraw/视频流 handler 处理数据流程.md",
+    "Excalidraw/openavatar rtc 流程.md",
+    "Basic/JAVA/入门.md",
+    "Basic/流式语音播报.md",
+    "Basic/IT/0 - Python/FastAPI/一个请求进入的时候.md",
+    "Basic/IT/0 - Python/FastAPI/Z-resources/image.png",
+    "Basic/IT/0 - Python/FastAPI/每个路由函数都创建实例.md",
+    "Basic/IT/0 - Python/Flask/web 服务器和 web 框架.md",
+    "Work/tts_infra/cosyvoice 推理过程.md",
+    "Work/tts_infra/cosyvoice 模型加载过程.md",
+    "Work/tts_infra/Z-resources/Untitled diagram _ Mermaid Chart-2025-09-26-053912.png",
+    "Work/tts_infra/Z-resources/Untitled diagram _ Mermaid Chart-2025-09-26-033150.png",
+    "Work/tts_infra/Z-resources/Untitled diagram _ Mermaid Chart-2025-09-26-032712.png",
+    "Work/tts_infra/todo_非流式实现流式效果.md",
+    "Work/tts_infra/Z-resources/Untitled diagram _ Mermaid Chart-2025-09-26-031226.png",
+    "Work/tts_infra/Z-resources",
+    "Work/tts_infra/todo_tts_infra 代码设计.md",
+    "Work/tts_infra/todo_tts_infra 部署.md",
+    "Basic/IT/0 - Python/FastAPI/A-Projects/GPUStack/server 和 worker 的交互.md",
+    "Basic/IT/0 - Python/FastAPI/A-Projects/GPUStack/Z-resources/Pasted image 20250926105208.png",
+    "Basic/IT/0 - Python/FastAPI/A-Projects/GPUStack/Z-resources/Pasted image 20250926104604.png",
+    "Basic/IT/0 - Python/FastAPI/A-Projects/GPUStack/Z-resources",
+    "Work/视频流数字人-openavatar/流程设计和开发计划.md",
     "Work/tts_infra/todo_async_tts_infra.md",
     "Work/tts_infra/tts_infra uv 部署.md",
-    "Work/tts_infra/todo_tts_infra 代码设计.md",
     "Work/tts_infra",
-    "Work/tts_infra/todo_tts_infra 部署.md",
-    "Work/视频流数字人-openavatar/流程设计和开发计划.md",
-    "Basic/流式语音播报.md",
-    "Basic/JAVA/入门.md",
     "Work/Git&Linux&Docker/Git 怎么设置自己提交时候的名字.md",
     "Work/Git&Linux&Docker/Linux 环境离线安装 docker&docker-compose.md",
     "Work/Git&Linux&Docker/Linux 中的三种输出流.md",
@@ -229,36 +251,12 @@
     "Basic/JAVA",
     "Work/Git&Linux&Docker/如何进行操作一个镜像.md",
     "Work/Git&Linux&Docker/快速获取 docker 镜像 tar 包.md",
-    "Work/Git&Linux&Docker/查看 Docker 容器服务所占资源.md",
-    "Work/Untitled.md",
-    "HomePage.md",
-    "Basic/IT/0 - Python/Flask/web 服务器和 web 框架.md",
-    "Basic/IT/0 - Python/Flask/请求上下文.md",
-    "Basic/IT/观察者模式.md",
-    "Basic/IT/0 - Python/Flask/信号.md",
-    "CosyVoice/Z-resources/Pasted image 20250822152215.png",
-    "CosyVoice/Untitled.md",
-    "CosyVoice/Untitled 1.md",
-    "Work/人工智能超市/统一大模型入口插件.md",
-    "Work/DigitalPerson/语音对话 demo 页面.md",
-    "Work/DigitalPerson/康宁语音接口文档.md",
     "Untitled.base",
-    "Work/视频流数字人-openavatar/Z-resources/Untitled diagram _ Mermaid Chart-2025-09-24-025438.png",
-    "Work/视频流数字人-openavatar/Z-resources/Untitled diagram _ Mermaid Chart-2025-09-24-025219.png",
     "Work/视频流数字人-openavatar/Z-resources",
-    "Excalidraw/Z-resources/Untitled diagram _ Mermaid Chart-2025-09-23-075259_0.png",
-    "Z-resources/Untitled diagram _ Mermaid Chart-2025-09-23-075259.png",
-    "Excalidraw/Z-resources/Untitled diagram _ Mermaid Chart-2025-09-23-075259.png",
-    "Excalidraw/Z-resources/Pasted Image 20250919174253_306.png",
-    "Excalidraw/Z-resources/Pasted Image 20250919174132_584.png",
-    "Excalidraw/Z-resources/Pasted Image 20250919174018_840.png",
-    "Excalidraw/Z-resources/Pasted Image 20250919172629_737.png",
     "Excalidraw/Z-resources/architecture-diagram-components.excalidrawlib",
     "Excalidraw/Z-resources",
     "Work/视频流数字人-openavatar",
     "Excalidraw",
-    "Diary/Z-resources",
-    "Basic/IT/2 - DataBase/3 - PostgreSQL",
     "Basic/0 - Python/1 - 中级/Untitled.canvas"
   ]
 }
