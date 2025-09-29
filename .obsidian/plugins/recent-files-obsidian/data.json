@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Python 深度学习",
+      "path": "Basic/Python 深度学习.md"
+    },
+    {
+      "basename": "国庆",
+      "path": "国庆.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "HomePage.md"
+    },
+    {
+      "basename": "数据操作",
+      "path": "Basic/JAVA/数据操作.md"
+    },
+    {
       "basename": "m5",
       "path": "Basic/m5.md"
+    },
+    {
+      "basename": "笑话",
+      "path": "Diary/Suibi/笑话.md"
     },
     {
       "basename": "大模型动力引擎 - pytorch 性能和显存优化手册",
@@ -11,10 +31,6 @@
     {
       "basename": "如何暂存本地修改，拉取最新更新",
       "path": "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md"
-    },
-    {
-      "basename": "HomePage",
-      "path": "HomePage.md"
     },
     {
       "basename": "在 vscode 中不显示一些文件",
@@ -67,10 +83,6 @@
     {
       "basename": "开发 Web 应用",
       "path": "Basic/JAVA/开发 Web 应用.md"
-    },
-    {
-      "basename": "数据操作",
-      "path": "Basic/JAVA/数据操作.md"
     },
     {
       "basename": "0929",
@@ -187,18 +199,6 @@
     {
       "basename": "请求上下文",
       "path": "Basic/IT/0 - Python/Flask/请求上下文.md"
-    },
-    {
-      "basename": "观察者模式",
-      "path": "Basic/IT/观察者模式.md"
-    },
-    {
-      "basename": "信号",
-      "path": "Basic/IT/0 - Python/Flask/信号.md"
-    },
-    {
-      "basename": "统一大模型入口插件",
-      "path": "Work/人工智能超市/统一大模型入口插件.md"
     }
   ],
   "omittedPaths": [],
