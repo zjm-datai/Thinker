@@ -34,12 +34,5 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Basic": "LiAlbum",
-  "Diary": "LiAlignStartVertical",
-  "Work": "LiAirplay",
-  "Z-resources": "LiArmchair",
-  "Diary/Suibi": "LiAsteriskSquare",
-  "Basic/IT": "LiAtom",
-  "Z-resources/Excalidraw": "LiAperture",
-  "Excalidraw": "LiAlignEndHorizontal"
+  "Diary/Suibi": "LiAsteriskSquare"
 }

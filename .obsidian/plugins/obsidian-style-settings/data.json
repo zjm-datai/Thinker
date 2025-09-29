@@ -1,8 +1,7 @@
 {
   "cupertino@@windows-mode-off": false,
   "cupertino@@accented-frame-opacity": 0,
-  "cupertino@@hide-nav-header-off": false,
-  "cupertino@@hide-status-off": false,
+  "cupertino@@hide-status-off": true,
   "cupertino@@image-zoom-off": false,
   "cupertino@@active-line-off": false,
   "minimal-style@@h1-size": "2em",
@@ -14,5 +13,13 @@
   "minimal-mobile@@mobile-toolbar-off": false,
   "minimal-style@@h3-weight": 600,
   "minimal-style@@h2-weight": 700,
-  "minimal-style@@h1-weight": 800
+  "minimal-style@@h1-weight": 800,
+  "cupertino@@hover-sidedock-off": false,
+  "cupertino@@compact-actions-off": true,
+  "cupertino@@empty-state-off": false,
+  "maple-basic@@color-use-custom": "color-use-minimal",
+  "maple-workspace@@explorer-icon": false,
+  "maple-editor@@font-maple": false,
+  "maple-editor@@editor-bg-pattern": "editor-bg-plain",
+  "maple-editor@@heading-color-style": "heading-color-base"
 }
