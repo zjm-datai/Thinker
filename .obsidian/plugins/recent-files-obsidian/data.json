@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "m5",
-      "path": "Basic/m5.md"
+      "basename": "vllm 中的接口并发和模型计算",
+      "path": "Basic/vllm 中的接口并发和模型计算.md"
+    },
+    {
+      "basename": "大模型 -- fromZeroToHero",
+      "path": "Basic/大模型 -- fromZeroToHero.md"
     },
     {
       "basename": "大模型动力引擎 - pytorch 性能和显存优化手册",
       "path": "Basic/大模型动力引擎 - pytorch 性能和显存优化手册.md"
+    },
+    {
+      "basename": "m5",
+      "path": "Basic/m5.md"
     },
     {
       "basename": "如何暂存本地修改，拉取最新更新",
@@ -191,14 +199,6 @@
     {
       "basename": "观察者模式",
       "path": "Basic/IT/观察者模式.md"
-    },
-    {
-      "basename": "信号",
-      "path": "Basic/IT/0 - Python/Flask/信号.md"
-    },
-    {
-      "basename": "统一大模型入口插件",
-      "path": "Work/人工智能超市/统一大模型入口插件.md"
     }
   ],
   "omittedPaths": [],

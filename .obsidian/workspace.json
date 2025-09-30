@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a596b96c63f8ef4",
+        "id": "ec945f8601ad7f14",
         "type": "tabs",
         "children": [
           {
-            "id": "13e143a1b9870934",
+            "id": "f2a8d1952bf0a74d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5,
-    "collapsed": true
+    "width": 344.5
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -208,12 +207,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "13e143a1b9870934",
+  "active": "f2a8d1952bf0a74d",
   "lastOpenFiles": [
-    "Basic/m5.md",
+    "Basic/vllm 中的接口并发和模型计算.md",
+    "Basic/大模型 -- fromZeroToHero.md",
+    "Basic/Z-resources/mermaid-diagram.png",
+    "Basic/Z-resources",
     "Basic/大模型动力引擎 - pytorch 性能和显存优化手册.md",
-    "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md",
     "HomePage.md",
+    "Basic/m5.md",
+    "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md",
     "Work/在 vscode 中不显示一些文件.md",
     "Work/账号密码 - 常用信息.md",
     "Work/中医院知识库接口文档.md",
@@ -239,23 +242,18 @@
     "Work/视频流数字人-openavatar/Z-resources/Untitled diagram _ Mermaid Chart-2025-09-26-090314.png",
     "Work/视频流数字人-openavatar/Z-resources/Untitled diagram _ Mermaid Chart-2025-09-26-083123.png",
     "Work/视频流数字人-openavatar/Z-resources/Untitled diagram _ Mermaid Chart-2025-09-26-083035.png",
-    "Excalidraw/视频流 handler 处理数据流程.md",
-    "Excalidraw/openavatar rtc 流程.md",
-    "Basic/流式语音播报.md",
     "Basic/IT/0 - Python/FastAPI/Z-resources/image.png",
     "Work/tts_infra/Z-resources/Untitled diagram _ Mermaid Chart-2025-09-26-053912.png",
     "Work/tts_infra/Z-resources/Untitled diagram _ Mermaid Chart-2025-09-26-033150.png",
     "Work/tts_infra/Z-resources/Untitled diagram _ Mermaid Chart-2025-09-26-032712.png",
     "Work/tts_infra/Z-resources/Untitled diagram _ Mermaid Chart-2025-09-26-031226.png",
     "Work/tts_infra/Z-resources",
-    "Basic/IT/0 - Python/FastAPI/A-Projects/GPUStack/Z-resources/Pasted image 20250926105208.png",
     "Basic/IT/0 - Python/FastAPI/A-Projects/GPUStack/Z-resources",
     "Work/tts_infra",
     "Basic/JAVA",
     "Untitled.base",
     "Work/视频流数字人-openavatar/Z-resources",
     "Excalidraw/Z-resources/architecture-diagram-components.excalidrawlib",
-    "Excalidraw/Z-resources",
     "Basic/0 - Python/1 - 中级/Untitled.canvas"
   ]
 }
