@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Python 深度学习",
-      "path": "Basic/Python 深度学习.md"
+      "basename": "10",
+      "path": "Diary/10.md"
+    },
+    {
+      "basename": "m5",
+      "path": "Basic/m5.md"
+    },
+    {
+      "basename": "xd",
+      "path": "Basic/xd.md"
+    },
+    {
+      "basename": "基础",
+      "path": "Basic/JAVA/基础.md"
     },
     {
       "basename": "国庆",
       "path": "国庆.md"
     },
     {
+      "basename": "苍穹外卖",
+      "path": "Basic/JAVA/project/苍穹外卖.md"
+    },
+    {
       "basename": "HomePage",
       "path": "HomePage.md"
     },
     {
-      "basename": "数据操作",
-      "path": "Basic/JAVA/数据操作.md"
+      "basename": "Python 深度学习",
+      "path": "Basic/Python 深度学习.md"
     },
     {
-      "basename": "m5",
-      "path": "Basic/m5.md"
+      "basename": "10 保护 web 安全",
+      "path": "Basic/JAVA/10 保护 web 安全.md"
+    },
+    {
+      "basename": "数据操作",
+      "path": "Basic/JAVA/数据操作.md"
     },
     {
       "basename": "笑话",
@@ -175,30 +195,6 @@
     {
       "basename": "Linux 中的三种输出流",
       "path": "Work/Git&Linux&Docker/Linux 中的三种输出流.md"
-    },
-    {
-      "basename": "流式输出音频",
-      "path": "Work/DigitalPerson/流式输出音频.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Basic/IT/0 - Python/VLLM/Untitled 1.md"
-    },
-    {
-      "basename": "如何进行操作一个镜像",
-      "path": "Work/Git&Linux&Docker/如何进行操作一个镜像.md"
-    },
-    {
-      "basename": "快速获取 docker 镜像 tar 包",
-      "path": "Work/Git&Linux&Docker/快速获取 docker 镜像 tar 包.md"
-    },
-    {
-      "basename": "查看 Docker 容器服务所占资源",
-      "path": "Work/Git&Linux&Docker/查看 Docker 容器服务所占资源.md"
-    },
-    {
-      "basename": "请求上下文",
-      "path": "Basic/IT/0 - Python/Flask/请求上下文.md"
     }
   ],
   "omittedPaths": [],
