@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "78416b9cfcea0d70",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "4de75757f1a2a49f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic/xd.md",
+                "file": "Work/人工智能超市/大模型统一入口 - 鉴权服务请求头和原上游鉴权头一致.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "xd"
+              "title": "大模型统一入口 - 鉴权服务请求头和原上游鉴权头一致"
             }
           },
           {
-            "id": "4905107f47d012e1",
+            "id": "134755aa8e742a6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/10.md",
+                "file": "Work/人工智能超市/统一大模型入口插件.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10"
+              "title": "统一大模型入口插件"
+            }
+          },
+          {
+            "id": "e9175473e079b3f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HomePage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "HomePage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/10.md",
+                "file": "Work/人工智能超市/大模型统一入口 - 鉴权服务请求头和原上游鉴权头一致.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "10 的大纲"
+              "title": "Outline of 大模型统一入口 - 鉴权服务请求头和原上游鉴权头一致"
             }
           }
         ],
@@ -135,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "right": {
     "id": "8bc8e8e82486b49e",
@@ -183,7 +207,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           }
         ],
@@ -233,60 +257,60 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
-      "bases:创建新数据库": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": true,
       "open-vscode:VSCode": false,
       "homepage:Open homepage": true
     }
   },
-  "active": "4905107f47d012e1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Work/人工智能超市/统一大模型入口插件.md",
+    "HomePage.md",
+    "Work/人工智能超市/大模型统一入口 - 鉴权服务请求头和原上游鉴权头一致.md",
+    "Work/语音模型测试-完整流程.md",
+    "Work/人工智能超市/APISIX 第三方鉴权.md",
+    "Work/人工智能超市/消息队列日志入库.md",
+    "Work/人工智能超市/计费表表结构.md",
+    "Work/人工智能超市/生产环境 mq2data 部署.md",
+    "Work/人工智能超市/Untitled.md",
+    "Basic/m5.md",
     "Diary/10.md",
+    "Excalidraw/Drawing 2025-10-11 09.30.41.excalidraw.md",
+    "Diary/Z-resources/3f3cc9e521e01b2eb2e9d79b3ae9a7bf-1.png",
+    "Diary/Z-resources/3f3cc9e521e01b2eb2e9d79b3ae9a7bf.png",
+    "Diary/Z-resources/image.png",
+    "Work/kn_audio 部署.md",
+    "Work/Z-resources/image.png",
+    "Work/tts_infra/todo_async_tts_infra.md",
+    "Work/tts_infra/todo_tts_infra 部署.md",
+    "conflict-files-obsidian-git.md",
     "Basic/大模型 -- fromZeroToHero.md",
     "Basic/vllm 中的接口并发和模型计算.md",
     "Basic/Z-resources/mermaid-diagram.png",
     "Diary/Suibi/1009晚.md",
-    "Basic/m5.md",
     "Basic/xd.md",
     "Basic/Z-resources/image-20.png",
     "Basic/Z-resources/image-19.png",
     "Basic/Z-resources/image-18.png",
     "Basic/Z-resources/image-17.png",
     "Basic/Z-resources/image-16.png",
-    "Basic/Z-resources/image-15.png",
     "Basic/JAVA/基础.md",
-    "国庆.md",
+    "Diary/国庆.md",
     "Basic/JAVA/project/苍穹外卖.md",
-    "HomePage.md",
     "Basic/JAVA/project",
-    "Basic/Z-resources/image-14.png",
-    "Basic/Z-resources/image-13.png",
-    "Basic/Z-resources/image-12.png",
     "Basic/Python 深度学习.md",
     "Basic/Z-resources",
     "Basic/JAVA/10 保护 web 安全.md",
     "Basic/JAVA/数据操作.md",
-    "Diary/Suibi/笑话.md",
-    "Basic/大模型动力引擎 - pytorch 性能和显存优化手册.md",
-    "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md",
-    "Work/在 vscode 中不显示一些文件.md",
-    "Work/账号密码 - 常用信息.md",
-    "Work/中医院知识库接口文档.md",
-    "Work/Dify 开发环境搭建.md",
-    "Work/kn_audio 部署.md",
-    "Work/pg 库备份迁移.md",
-    "Work/tts 模型多卡压测.md",
-    "Work/Untitled.md",
-    "Work/vllm tts 加速.md",
     "Basic/JAVA/Untitled",
     "Basic/JAVA/Z-resources",
     "Work/tts_infra/Z-resources",

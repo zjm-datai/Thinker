@@ -245,6 +245,11 @@ curl -X GET http://127.0.0.1:40000/v1/file/download/tavilyAPIKEY.txt -H 'accept:
 curl -X GET http://10.156.1.20:40000/v1/file/download/tavilyAPIKEY.txt -H 'accept: application/json'
 ```
 
+```
+curl -X GET http://10.156.1.16:40000/v1/file/download/tavilyAPIKEY.txt -H 'accept: application/json'
+```
+
+![[image.png]]
 #### 再度测试
 
 ```bash
