@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "大模型统一入口 - 鉴权服务请求头和原上游鉴权头一致",
-      "path": "Work/人工智能超市/大模型统一入口 - 鉴权服务请求头和原上游鉴权头一致.md"
-    },
-    {
-      "basename": "统一大模型入口插件",
-      "path": "Work/人工智能超市/统一大模型入口插件.md"
+      "basename": "10",
+      "path": "Diary/10.md"
     },
     {
       "basename": "HomePage",
       "path": "HomePage.md"
     },
     {
-      "basename": "语音模型测试-完整流程",
-      "path": "Work/语音模型测试-完整流程.md"
+      "basename": "统一大模型入口插件",
+      "path": "Work/人工智能超市/统一大模型入口插件.md"
     },
     {
       "basename": "APISIX 第三方鉴权",
       "path": "Work/人工智能超市/APISIX 第三方鉴权.md"
     },
     {
+      "basename": "大模型统一入口 - 鉴权服务请求头和原上游鉴权头一致",
+      "path": "Work/人工智能超市/大模型统一入口 - 鉴权服务请求头和原上游鉴权头一致.md"
+    },
+    {
       "basename": "消息队列日志入库",
       "path": "Work/人工智能超市/消息队列日志入库.md"
+    },
+    {
+      "basename": "如何暂存本地修改，拉取最新更新",
+      "path": "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md"
+    },
+    {
+      "basename": "如何进行操作一个镜像",
+      "path": "Work/Git&Linux&Docker/如何进行操作一个镜像.md"
+    },
+    {
+      "basename": "语音模型测试-完整流程",
+      "path": "Work/语音模型测试-完整流程.md"
     },
     {
       "basename": "计费表表结构",
@@ -35,10 +47,6 @@
     {
       "basename": "m5",
       "path": "Basic/m5.md"
-    },
-    {
-      "basename": "10",
-      "path": "Diary/10.md"
     },
     {
       "basename": "Drawing 2025-10-11 09.30.41.excalidraw",
@@ -91,10 +99,6 @@
     {
       "basename": "大模型动力引擎 - pytorch 性能和显存优化手册",
       "path": "Basic/大模型动力引擎 - pytorch 性能和显存优化手册.md"
-    },
-    {
-      "basename": "如何暂存本地修改，拉取最新更新",
-      "path": "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md"
     },
     {
       "basename": "在 vscode 中不显示一些文件",
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled diagram _ Mermaid Chart-2025-09-26-032712",
       "path": "Work/tts_infra/Z-resources/Untitled diagram _ Mermaid Chart-2025-09-26-032712.png"
-    },
-    {
-      "basename": "todo_非流式实现流式效果",
-      "path": "Work/tts_infra/todo_非流式实现流式效果.md"
     }
   ],
   "omittedPaths": [],
