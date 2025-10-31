@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cba4628b7cd9fd1d",
+        "id": "1da6578b66ccd768",
         "type": "tabs",
         "children": [
           {
-            "id": "0473640c1336866c",
+            "id": "a789d3e995a215db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/人工智能超市/统一大模型入口插件.md",
+                "file": "HomePage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "统一大模型入口插件"
-            }
-          },
-          {
-            "id": "b9db3de4ed7e07e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/10.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "10"
+              "title": "HomePage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,6 +50,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +60,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Backlinks for HomePage"
             }
           },
           {
@@ -121,17 +97,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/10.md",
+                "file": "Basic/IT/0 - Python/MCP/__init__.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10"
+              "title": "Outline of __init__"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "装饰器",
+                "query": "依赖注入",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -247,45 +222,46 @@
       "homepage:Open homepage": true
     }
   },
-  "active": "b9db3de4ed7e07e3",
+  "active": "a789d3e995a215db",
   "lastOpenFiles": [
+    "c_tm.md",
+    "kub_learn.md",
+    "Basic/xd.md",
     "HomePage.md",
-    "Work/人工智能超市/统一大模型入口插件.md",
-    "Diary/10.md",
-    "Work/人工智能超市/APISIX 第三方鉴权.md",
-    "Work/人工智能超市/大模型统一入口 - 鉴权服务请求头和原上游鉴权头一致.md",
+    "Basic/IT/0 - Python/MCP/__init__.md",
+    "Basic/IT/0 - Python/MCP/未命名.md",
+    "Basic/IT/0 - Python/MCP/Untitled.md",
+    "Basic/IT/0 - Python/FastAPI/一个请求进入的时候.md",
+    "Basic/IT/0 - Python/在 Python 中的依赖注入与控制反转.md",
+    "Work/Drawing 2025-10-15 16.34.08.excalidraw.md",
     "Work/人工智能超市/消息队列日志入库.md",
+    "Work/人工智能超市/生产环境 mq2data 部署.md",
+    "Work/人工智能超市/计费表表结构.md",
+    "Basic/IT/0 - Python/1 - 中级/12 - 错误处理.md",
+    "Diary/10.md",
+    "Work/人工智能超市/统一大模型入口插件.md",
+    "Work/人工智能超市/Z-resources/image.png",
+    "Work/人工智能超市/APISIX 第三方鉴权.md",
+    "Work/人工智能超市/Z-resources/Pasted image 20250917150549.png",
+    "Work/人工智能超市/Z-resources/Pasted image 20250917150928.png",
+    "Work/人工智能超市/Z-resources/Pasted image 20250917150959.png",
+    "Work/人工智能超市/Z-resources/Pasted image 20250912152904.png",
+    "Work/人工智能超市/Z-resources/Pasted image 20250728163739.png",
+    "Work/人工智能超市/Z-resources/Pasted image 20250728163550.png",
+    "Work/人工智能超市/Z-resources/Pasted image 20250728162551.png",
+    "Work/人工智能超市/Z-resources/a37defaf-433a-4a7f-b94c-4dd69601304b.png",
+    "Basic/IT/0 - Python/1 - 中级/7 - 高级特性/4 - 生成器.md",
+    "Basic/IT/0 - Python/1 - 初级/菜鸟.md",
+    "Basic/IT/0 - Python/1 - 中级/22 - Web 开发/WSGI 接口.md",
+    "Basic/IT/0 - Python/1 - 中级/14 - 进程和线程/2. 多线程.md",
+    "Basic/IT/0 - Python/1 - 中级/Untitled",
+    "Work/人工智能超市/大模型统一入口 - 鉴权服务请求头和原上游鉴权头一致.md",
     "Work/Git&Linux&Docker/如何暂存本地修改，拉取最新更新.md",
     "Work/Git&Linux&Docker/如何进行操作一个镜像.md",
     "Work/语音模型测试-完整流程.md",
-    "Work/人工智能超市/计费表表结构.md",
-    "Work/人工智能超市/生产环境 mq2data 部署.md",
     "Work/人工智能超市/Untitled.md",
-    "Basic/m5.md",
-    "Excalidraw/Drawing 2025-10-11 09.30.41.excalidraw.md",
     "Diary/Z-resources/3f3cc9e521e01b2eb2e9d79b3ae9a7bf-1.png",
-    "Diary/Z-resources/3f3cc9e521e01b2eb2e9d79b3ae9a7bf.png",
-    "Diary/Z-resources/image.png",
-    "Work/kn_audio 部署.md",
-    "Work/Z-resources/image.png",
-    "Work/tts_infra/todo_async_tts_infra.md",
-    "Work/tts_infra/todo_tts_infra 部署.md",
-    "conflict-files-obsidian-git.md",
-    "Basic/大模型 -- fromZeroToHero.md",
-    "Basic/vllm 中的接口并发和模型计算.md",
-    "Basic/Z-resources/mermaid-diagram.png",
-    "Diary/Suibi/1009晚.md",
-    "Basic/xd.md",
-    "Basic/Z-resources/image-20.png",
-    "Basic/Z-resources/image-19.png",
-    "Basic/Z-resources/image-18.png",
-    "Basic/Z-resources/image-17.png",
-    "Basic/Z-resources/image-16.png",
-    "Basic/JAVA/基础.md",
-    "Diary/国庆.md",
-    "Basic/JAVA/project/苍穹外卖.md",
     "Basic/JAVA/project",
-    "Basic/Python 深度学习.md",
     "Basic/Z-resources",
     "Basic/JAVA/Untitled",
     "Basic/JAVA/Z-resources",
@@ -294,7 +270,6 @@
     "Work/tts_infra",
     "Basic/JAVA",
     "Untitled.base",
-    "Work/视频流数字人-openavatar/Z-resources",
     "Basic/0 - Python/1 - 中级/Untitled.canvas"
   ]
 }

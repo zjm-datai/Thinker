@@ -17,5 +17,6 @@
   "defaultViewMode": "source",
   "showInlineTitle": false,
   "readableLineLength": false,
-  "focusNewTab": true
+  "focusNewTab": true,
+  "rightToLeft": false
 }

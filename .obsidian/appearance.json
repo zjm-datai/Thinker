@@ -4,7 +4,7 @@
   "textFontFamily": "Inter",
   "monospaceFontFamily": "Consolas",
   "interfaceFontFamily": "Inter",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "accentColor": "",
   "enabledCssSnippets": [
     "mystyle"

@@ -76,9 +76,13 @@ node v18.19.0
 
 ##### 克隆账户密码
 
+```
 zhujunmiao-0wXtI
+```
 
+```
 1234qwer
+```
 
 ### 健康云
 
@@ -149,6 +153,10 @@ scp -r test.mp3 root@192.168.120.44:/ntdata/rag-nginx/html/audio
 
 ```
 ssh star@183.136.129.102
+```
+
+```
+scp .\spk2info.pt star@183.136.129.102:/mnt/data1/tts_infra_stream/docker
 ```
 
 ```

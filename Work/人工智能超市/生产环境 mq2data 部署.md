@@ -389,4 +389,15 @@ docker rmi -f mq2data-app:latest
 ```
 
 
+```sql
+-- 切换到 mqdb 数据库（若未切换）
+use mqdb;
+
+-- 修改 body 字段为 longtext 类型（保留原有数据，无风险）
+ALTER TABLE mq_consume_log MODIFY COLUMN body LONGTEXT NOT NULL;
+
+-- 验证修改结果（查看 Type 列是否变为 longtext）
+desc mq_consume_log;
+```
+
 
